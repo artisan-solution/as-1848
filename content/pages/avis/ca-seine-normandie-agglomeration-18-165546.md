@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200072312"> CA SEINE NORMANDIE AGGLOMERATION</a><br/>
+<a href="/acheteur-133/siren-200072312"> CA SEINE NORMANDIE AGGLOMERATION</a><br/>
 
 
 
@@ -31,12 +31,12 @@ Douains - Département 27 - Eure
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV51300000 - **Services d'installation de matériel de communications** <br/>
 CPV50312300 - **Maintenance et réparation de matériel de réseau informatique** <br/>
+CPV51300000 - **Services d'installation de matériel de communications** <br/>
 
 ##### Descripteurs :
 Informatique (matériel) <br/>
 Informatique (maintenance serveurs et réseaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-442069209"> QOS TELECOM</a>    16 rue de Bretagne 44240 LA CHAPELLE SUR ERDRE <br/>
+<a href="/entreprise-561/siren-442069209"> QOS TELECOM</a>    16 rue de Bretagne 44240 LA CHAPELLE SUR ERDRE <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-214401846"> COMMUNE DE SAINT-NAZAIRE</a><br/>
+<a href="/acheteur-135/siren-214401846"> COMMUNE DE SAINT-NAZAIRE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71330000 - **Services divers d'ingénierie** <br/>
 Ingénierie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-790184675"> Bureau Veritas Exploitation</a>    8 Avenue Jacques Cartier 44800 Saint-Herblain <br/>
+<a href="/entreprise-575/siren-790184675"> Bureau Veritas Exploitation</a>    8 Avenue Jacques Cartier 44800 Saint-Herblain <br/>

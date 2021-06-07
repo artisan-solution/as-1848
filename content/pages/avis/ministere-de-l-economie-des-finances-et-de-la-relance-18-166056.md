@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110020013"> MINISTERE DE L'ECONOMIE DES FINANCES ET DE LA RELANCE</a><br/>
+<a href="/acheteur-131/siren-110020013"> MINISTERE DE L'ECONOMIE DES FINANCES ET DE LA RELANCE</a><br/>
 
 M. GAULIN Frédéric
 
@@ -38,4 +38,4 @@ Revêtements de sols <br/>
 Revêtements muraux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-444617690"> Spie Batignolles Grand Ouest</a>    3 rue du Mail 44707 Orvault cedex <br/>
+<a href="/entreprise-562/siren-444617690"> Spie Batignolles Grand Ouest</a>    3 rue du Mail 44707 Orvault cedex <br/>

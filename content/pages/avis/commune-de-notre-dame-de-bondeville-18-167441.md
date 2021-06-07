@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217604743"> COMMUNE DE NOTRE DAME DE BONDEVILLE</a><br/>
+<a href="/acheteur-136/siren-217604743"> COMMUNE DE NOTRE DAME DE BONDEVILLE</a><br/>
 
 MERLE Jean-Yves, Maire
 
@@ -33,14 +33,14 @@ Notre Dame de Bondeville - Département 76 - Seine-Maritime
 ##### Codes CPV concerné(s) :
 CPV45300000 - **Travaux d'équipement du bâtiment** <br/>
 CPV44221000 - **Fenêtres, portes et articles connexes** <br/>
-CPV44221400 - **Volets** <br/>
 CPV39515410 - **Stores d'intérieur** <br/>
+CPV44221400 - **Volets** <br/>
 
 ##### Descripteurs :
 Menuiserie <br/>
 Vitrerie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-313283111"> MCP</a>    9, Allée de la Cotonnière 76570 PAVILLY <br/>
+<a href="/entreprise-545/siren-313283111"> MCP</a>    9, Allée de la Cotonnière 76570 PAVILLY <br/>
 S.A.S. OTB - Rue des Bernardines - BP N 7 76960 NOTRE DAME DE BONDEVILLE <br/>
 ROUSSEL CSF S.A.S - 13, Rue Saint Gilles 28800 BONNEVAL <br/>

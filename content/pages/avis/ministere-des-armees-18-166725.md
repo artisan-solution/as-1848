@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71322000 - **Services de conception technique pour la construction d'ouvrages
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-489626135"> INGEROP</a>    BP113 06271 Villeuneuve Loubet Cedex <br/>
+<a href="/entreprise-565/siren-489626135"> INGEROP</a>    BP113 06271 Villeuneuve Loubet Cedex <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200060010"> MAUGES COMMUNAUTE</a><br/>
+<a href="/acheteur-133/siren-200060010"> MAUGES COMMUNAUTE</a><br/>
 
 
 
@@ -31,10 +31,10 @@ BEAUPREAU EN MAUGES - Département 49 - Maine-et-Loire
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV45111214 - **Travaux d'enlèvement de gravats** <br/>
 CPV90520000 - **Services relatifs aux déchets radioactifs, toxiques, médicaux et dangereux** <br/>
 CPV90511200 - **Services de collecte des ordures ménagères** <br/>
 CPV90513000 - **Services de traitement et d'élimination des ordures ménagères et des déchets non dangereux** <br/>
+CPV45111214 - **Travaux d'enlèvement de gravats** <br/>
 
 ##### Descripteurs :
 Collecte sélective <br/>
@@ -42,7 +42,7 @@ Ordures ménagères (prestations) <br/>
 Déchets non ménagers (prestations) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-265/siren-500608096"> Ecocyclerie des Mauges</a>    2 rue des métiers 49110 St-Quentin-en-Mauges <br/>
-<a href="/entreprise-261/siren-432105914"> Brangeon Environnement</a>    7 route de Montjean - La Pommeraye 49260 Mauges-sur-Loire <br/>
-<a href="/entreprise-261/siren-432105914"> Brangeon Environnement</a>    7 route de Montjean - La Pommeraye 49620 Mauges-sur-Loire <br/>
+<a href="/entreprise-567/siren-500608096"> Ecocyclerie des Mauges</a>    2 rue des métiers 49110 St-Quentin-en-Mauges <br/>
+<a href="/entreprise-559/siren-432105914"> Brangeon Environnement</a>    7 route de Montjean - La Pommeraye 49260 Mauges-sur-Loire <br/>
+<a href="/entreprise-559/siren-432105914"> Brangeon Environnement</a>    7 route de Montjean - La Pommeraye 49620 Mauges-sur-Loire <br/>
 FERS - BRANGEON RECYCLAGE - 4 rue du Chevreul - ZAC du Cormier 49300 Cholet <br/>

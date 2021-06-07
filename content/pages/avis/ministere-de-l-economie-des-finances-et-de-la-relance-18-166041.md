@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110020013"> MINISTERE DE L'ECONOMIE DES FINANCES ET DE LA RELANCE</a><br/>
+<a href="/acheteur-131/siren-110020013"> MINISTERE DE L'ECONOMIE DES FINANCES ET DE LA RELANCE</a><br/>
 
 M. GAULIN Frédéric
 
@@ -36,5 +36,5 @@ CPV45262420 - **Travaux d'assemblage d'ossatures métalliques d'ouvrage** <br/>
 Ouvrage métallique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-529778235"> Egelec</a>    14 rue Camille Lemoine 77290 Mitry-mory <br/>
-<a href="/entreprise-265/siren-511219370"> Nova Nautic</a>    Zi le Marais, rue des Bouleaux 01460 Port <br/>
+<a href="/entreprise-571/siren-529778235"> Egelec</a>    14 rue Camille Lemoine 77290 Mitry-mory <br/>
+<a href="/entreprise-569/siren-511219370"> Nova Nautic</a>    Zi le Marais, rue des Bouleaux 01460 Port <br/>

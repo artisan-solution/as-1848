@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-224500017"> DEPARTEMENT DU LOIRET</a><br/>
+<a href="/acheteur-137/siren-224500017"> DEPARTEMENT DU LOIRET</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71240000 - **Services d'architecture, d'ingénierie et de planification** <br
 Mission d'ordonnancement, pilotage, coordination (OPC) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-322814252"> Ecr</a>    20 rue Flandres Dunkerque 45160 Olivet <br/>
+<a href="/entreprise-546/siren-322814252"> Ecr</a>    20 rue Flandres Dunkerque 45160 Olivet <br/>

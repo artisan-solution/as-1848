@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130008584"> INSTITUT ENSEIGNEMENT SUPERIEUR ET RECHERCHE EN ALIMENTATION SANTE ANIMALE SCIENCES AGRONOMIQUES ET ENVIRONNEMENT</a><br/>
+<a href="/acheteur-131/siren-130008584"> INSTITUT ENSEIGNEMENT SUPERIEUR ET RECHERCHE EN ALIMENTATION SANTE ANIMALE SCIENCES AGRONOMIQUES ET ENVIRONNEMENT</a><br/>
 
 M. Marchés Cellule, VetAgro Sup
 
@@ -37,8 +37,8 @@ CPV45000000 - **Travaux de construction** <br/>
 Bâtiment <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-411195431"> Action froid climatisation (afc)</a>    76 rue louise becker 69100 Villeurbanne <br/>
+<a href="/entreprise-567/siren-500088356"> Courbière</a>    Za de bellevue 69610 Souzy <br/>
+<a href="/entreprise-557/siren-411195431"> Action froid climatisation (afc)</a>    76 rue louise becker 69100 Villeurbanne <br/>
 Atelier charignon - 14 rue gabriel peri 69410 Couzon au mont d'or <br/>
 Nr com - 47 avenue urbain le verrier 69800 Saint priest <br/>
-Courbière - Za de bellevue 69610 Souzy <br/>
-<a href="/entreprise-272/siren-972502355"> Comptoir des revetements</a>    45 rue du marais 69100 Villeurbanne <br/>
+<a href="/entreprise-582/siren-972502355"> Comptoir des revetements</a>    45 rue du marais 69100 Villeurbanne <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200059525"> SM AMENAGEMENT HYDRAULIQUE DE LA VALLEE DE L'YVETTE</a><br/>
+<a href="/acheteur-133/siren-200059525"> SM AMENAGEMENT HYDRAULIQUE DE LA VALLEE DE L'YVETTE</a><br/>
 
 BARRET Michel, Président
 
@@ -39,4 +39,4 @@ Prestations de services <br/>
 Ingénierie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-385311519"> INGETEC</a>    2 Quai Fernand Saguet / Avenue du Général de Gaulle 94700 RUEL MALMAISON <br/>
+<a href="/entreprise-553/siren-385311519"> INGETEC</a>    2 Quai Fernand Saguet / Avenue du Général de Gaulle 94700 RUEL MALMAISON <br/>

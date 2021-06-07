@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130006372"> AGENCE DE SERVICES ET DE PAIEMENT</a><br/>
+<a href="/acheteur-131/siren-130006372"> AGENCE DE SERVICES ET DE PAIEMENT</a><br/>
 
 
 
@@ -36,4 +36,4 @@ LIMOGES - Département 87 - Haute-Vienne
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-811934363"> NXO France</a>    19 rue Hubert Curien ZA de Romanet 87000 Limoges <br/>
+<a href="/entreprise-578/siren-811934363"> NXO France</a>    19 rue Hubert Curien ZA de Romanet 87000 Limoges <br/>

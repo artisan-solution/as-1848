@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-223300013"> DEPARTEMENT DE LA GIRONDE</a><br/>
+<a href="/acheteur-137/siren-223300013"> DEPARTEMENT DE LA GIRONDE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV44316500 - **Serrurerie** <br/>
 Serrurerie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-563820489"> Legallais</a>    7 rue d'atalante citis 14200 Hérouville-Saint-Clair <br/>
+<a href="/entreprise-572/siren-563820489"> Legallais</a>    7 rue d'atalante citis 14200 Hérouville-Saint-Clair <br/>

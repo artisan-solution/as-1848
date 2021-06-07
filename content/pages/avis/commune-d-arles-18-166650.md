@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300041"> COMMUNE D ARLES</a><br/>
+<a href="/acheteur-134/siren-211300041"> COMMUNE D ARLES</a><br/>
 
 
 
@@ -31,11 +31,11 @@ ARLES - Département 13 - Bouches-du-Rhône
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV22212000 - **Périodiques** <br/>
 CPV22200000 - **Journaux, revues spécialisées, périodiques et magazines** <br/>
+CPV22212000 - **Périodiques** <br/>
 
 ##### Descripteurs :
 Abonnement <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-431467760"> Prenax Sas</a>    19-21 avenue Dubonnet 92400 Courbevoie <br/>
+<a href="/entreprise-559/siren-431467760"> Prenax Sas</a>    19-21 avenue Dubonnet 92400 Courbevoie <br/>

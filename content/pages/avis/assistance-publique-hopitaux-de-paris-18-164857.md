@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-267500452"> ASSISTANCE PUBLIQUE HOPITAUX DE PARIS</a><br/>
+<a href="/acheteur-138/siren-267500452"> ASSISTANCE PUBLIQUE HOPITAUX DE PARIS</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV79530000 - **Services de traduction** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-322434077"> ISM INTERPRETARIAT</a>    90 avenue de Flandre 75019 Paris <br/>
+<a href="/entreprise-546/siren-322434077"> ISM INTERPRETARIAT</a>    90 avenue de Flandre 75019 Paris <br/>
 ARIS-ASSOCIATION REGIONALE POUR L'INTEGRATION DES SOURDS - 90 rue Barrault 75013 Paris <br/>

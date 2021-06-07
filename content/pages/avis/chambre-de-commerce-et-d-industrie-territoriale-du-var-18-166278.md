@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-188300016"> CHAMBRE DE COMMERCE ET D'INDUSTRIE TERRITORIALE DU VAR</a><br/>
+<a href="/acheteur-132/siren-188300016"> CHAMBRE DE COMMERCE ET D'INDUSTRIE TERRITORIALE DU VAR</a><br/>
 
 
 
@@ -31,11 +31,11 @@ Toulon - Département 83 - Var
 30/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV30192113 - **Cartouches d'encre** <br/>
+CPV30237132 - **Bus série universel (USB)** <br/>
 CPV30237200 - **Accessoires informatiques** <br/>
 CPV30192000 - **Fournitures de bureau** <br/>
 CPV30197643 - **Papier pour photocopie** <br/>
-CPV30192113 - **Cartouches d'encre** <br/>
-CPV30237132 - **Bus série universel (USB)** <br/>
 
 ##### Descripteurs :
 Articles de bureau et articles scolaires <br/>
@@ -43,6 +43,6 @@ Consommables informatiques <br/>
 Papeterie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-394354393"> CHARLEMAGNE</a>    50, Boulevard de Strasbourg 83000 TOULON <br/>
-<a href="/entreprise-255/siren-330440983"> INAPA</a>    11, rue de la nacelle 91813 CORBEIL ESSONNES CEDEX <br/>
-<a href="/entreprise-255/siren-333784262"> ESI FRANCE</a>    830 Boulevard Pierre Chavaroche 83340 LE LUC EN PROVENCE <br/>
+<a href="/entreprise-554/siren-394354393"> CHARLEMAGNE</a>    50, Boulevard de Strasbourg 83000 TOULON <br/>
+<a href="/entreprise-547/siren-330440983"> INAPA</a>    11, rue de la nacelle 91813 CORBEIL ESSONNES CEDEX <br/>
+<a href="/entreprise-548/siren-333784262"> ESI FRANCE</a>    830 Boulevard Pierre Chavaroche 83340 LE LUC EN PROVENCE <br/>

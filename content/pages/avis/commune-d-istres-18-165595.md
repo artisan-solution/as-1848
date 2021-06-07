@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300470"> COMMUNE D ISTRES</a><br/>
+<a href="/acheteur-134/siren-211300470"> COMMUNE D ISTRES</a><br/>
 
 
 
@@ -31,14 +31,14 @@ ISTRES - Département 13 - Bouches-du-Rhône
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV37400000 - **Articles et équipements de sport** <br/>
-CPV37412000 - **Équipements de sports nautiques** <br/>
 CPV39162100 - **Matériel pédagogique** <br/>
+CPV37412000 - **Équipements de sports nautiques** <br/>
+CPV37400000 - **Articles et équipements de sport** <br/>
 
 ##### Descripteurs :
 Equipement sportif <br/>
 
 ### Attribution du Marché :
 Marcon Yachting - 8 avenue Lascos - Zi Ecopolis Sud 13500 Martigues <br/>
-<a href="/entreprise-265/siren-500569405"> Decathlon Pro</a>    4 Boulevard de Mons 59650 Villeneuve-d'Ascq <br/>
-<a href="/entreprise-259/siren-403151756"> Futura Play</a>    3 rue d'Otterswiller 67700 Saverne <br/>
+<a href="/entreprise-567/siren-500569405"> Decathlon Pro</a>    4 Boulevard de Mons 59650 Villeneuve-d'Ascq <br/>
+<a href="/entreprise-556/siren-403151756"> Futura Play</a>    3 rue d'Otterswiller 67700 Saverne <br/>

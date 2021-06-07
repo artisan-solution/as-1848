@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-213105554"> COMMUNE DE TOULOUSE</a><br/>
+<a href="/acheteur-134/siren-213105554"> COMMUNE DE TOULOUSE</a><br/>
 
 M. Jean-Luc MOUDENC Le Maire
 
@@ -36,4 +36,4 @@ Toulouse - Département 31 - Haute-Garonne
 Electricité (travaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-056800659"> SNEF</a>    3 chemin des Daturas CS 60116 31201 Toulouse cedex <br/>
+<a href="/entreprise-543/siren-056800659"> SNEF</a>    3 chemin des Daturas CS 60116 31201 Toulouse cedex <br/>

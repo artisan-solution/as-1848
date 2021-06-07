@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-782885735"> CAISSE PRIMAIRE CENTRALE ASSUR MALADIE</a><br/>
+<a href="/acheteur-140/siren-782885735"> CAISSE PRIMAIRE CENTRALE ASSUR MALADIE</a><br/>
 
 M. Le Directeur
 
@@ -31,17 +31,17 @@ Marseille - Département 13 - Bouches-du-Rhône
 25/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV45421141 - **Travaux de cloisonnement** <br/>
 CPV44111400 - **Peintures et revêtements muraux** <br/>
 CPV45330000 - **Travaux de plomberie** <br/>
-CPV45421146 - **Mise en place de plafonds suspendus** <br/>
 CPV45432100 - **Travaux de pose de revêtements de sols** <br/>
-CPV45421141 - **Travaux de cloisonnement** <br/>
+CPV45421146 - **Mise en place de plafonds suspendus** <br/>
 
 ##### Descripteurs :
 Tous corps d'état <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-265/siren-509703757"> Vetero Isolation</a>    National 113 zone industrielle les cadesteaux 13127 Vitrolles <br/>
+<a href="/entreprise-569/siren-509703757"> Vetero Isolation</a>    National 113 zone industrielle les cadesteaux 13127 Vitrolles <br/>
 NOEL SERIES - 108, rue de Breteuil 13006 Marseille <br/>
 GO PLOMB - 12bis, allée des géraniums 13821 La penne sur huveaune <br/>
 HED-PMN - 151, avenue des Aygalades 13015 Marseille <br/>

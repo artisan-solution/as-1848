@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-552032708"> REGIE IMMOBILIERE DE LA VILLE DE PARIS</a><br/>
+<a href="/acheteur-139/siren-552032708"> REGIE IMMOBILIERE DE LA VILLE DE PARIS</a><br/>
 
 
 
@@ -37,6 +37,6 @@ CPV39100000 - **Mobilier** <br/>
 Mobilier <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-402673560"> Manutan Collectivités</a>    143 boulevard ampère - chauray 79074 niort <br/>
+<a href="/entreprise-555/siren-402673560"> Manutan Collectivités</a>    143 boulevard ampère - chauray 79074 niort <br/>
 Mci Mobilier Sas - 4 rue des libellules 25110 Baume les dames <br/>
-<a href="/entreprise-256/siren-352807754"> Roches Contract</a>    zone transmarck - rue henri ravisse 62730 Marck <br/>
+<a href="/entreprise-551/siren-352807754"> Roches Contract</a>    zone transmarck - rue henri ravisse 62730 Marck <br/>

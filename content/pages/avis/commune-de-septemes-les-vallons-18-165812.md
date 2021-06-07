@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211301064"> COMMUNE DE SEPTEMES LES VALLONS</a><br/>
+<a href="/acheteur-134/siren-211301064"> COMMUNE DE SEPTEMES LES VALLONS</a><br/>
 
 MOLINO André, Monsieur le Maire
 
@@ -36,6 +36,6 @@ Septèmes-les-Vallons - Département 13 - Bouches-du-Rhône
 Terrain de sport <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-394225320"> ESPACS</a>    ZA LES GONETS NORD 26390 HAUTERIVES <br/>
-<a href="/entreprise-254/siren-317121747"> MARTY SPORTS</a>    ROUTE DE LA MEIGNANNE 49370 SAINT CLEMENT DE LA PLACE <br/>
+<a href="/entreprise-554/siren-394225320"> ESPACS</a>    ZA LES GONETS NORD 26390 HAUTERIVES <br/>
+<a href="/entreprise-545/siren-317121747"> MARTY SPORTS</a>    ROUTE DE LA MEIGNANNE 49370 SAINT CLEMENT DE LA PLACE <br/>
 GROUPEMENT LAQUET EUROSYNTEC - 643 RTE DE BEAUREPAIRE 26210 LAPEYROUSE MORNAY <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Dératisation, désinsectisation <br/>
 
 ### Attribution du Marché :
 INTER NETTOYAGE SERVICE (INS) - Impasse des Marais 94000 Créteil <br/>
-<a href="/entreprise-259/siren-402590871"> INTER NETTOYAGE SERVICE</a>    Impasse des marais 94000 Créteil <br/>
+<a href="/entreprise-555/siren-402590871"> INTER NETTOYAGE SERVICE</a>    Impasse des marais 94000 Créteil <br/>

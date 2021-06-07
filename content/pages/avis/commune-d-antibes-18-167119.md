@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-210600045"> COMMUNE D'ANTIBES</a><br/>
+<a href="/acheteur-134/siren-210600045"> COMMUNE D'ANTIBES</a><br/>
 
 M. MAIRE Le
 
@@ -37,4 +37,4 @@ CPV79713000 - **Services de gardiennage** <br/>
 Gardiennage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-794798975"> TAMARIS SECURITE PRIVEE</a>    214 boulevard Mercantour 06290 Nice <br/>
+<a href="/entreprise-576/siren-794798975"> TAMARIS SECURITE PRIVEE</a>    214 boulevard Mercantour 06290 Nice <br/>

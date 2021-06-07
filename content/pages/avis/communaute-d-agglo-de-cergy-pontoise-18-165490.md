@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-249500109"> COMMUNAUTE D'AGGLO DE CERGY-PONTOISE</a><br/>
+<a href="/acheteur-137/siren-249500109"> COMMUNAUTE D'AGGLO DE CERGY-PONTOISE</a><br/>
 
 
 
@@ -31,9 +31,9 @@ CERGY PONTOISE - Département 95 - Val-d'oise
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV71322000 - **Services de conception technique pour la construction d'ouvrages de génie civil** <br/>
 CPV71220000 - **Services de création architecturale** <br/>
 CPV71221000 - **Services d'architecte pour les bâtiments** <br/>
+CPV71322000 - **Services de conception technique pour la construction d'ouvrages de génie civil** <br/>
 
 ##### Descripteurs :
 Assistance technique <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-196917751"> UNIVERSITE LYON 2 A ET L LUMIERE</a><br/>
+<a href="/acheteur-132/siren-196917751"> UNIVERSITE LYON 2 A ET L LUMIERE</a><br/>
 
 
 
@@ -38,4 +38,4 @@ CPV85000000 - **Services de santé et services sociaux** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-414510024"> PSYA</a>    6 Cours de la liberté 69003 LYON <br/>
+<a href="/entreprise-557/siren-414510024"> PSYA</a>    6 Cours de la liberté 69003 LYON <br/>

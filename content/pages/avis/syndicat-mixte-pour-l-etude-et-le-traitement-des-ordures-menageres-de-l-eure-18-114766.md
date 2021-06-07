@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-252703111"> SYNDICAT MIXTE POUR L'ETUDE ET LE TRAITEMENT DES ORDURES MENAGERES DE L'EURE</a><br/>
+<a href="/acheteur-137/siren-252703111"> SYNDICAT MIXTE POUR L'ETUDE ET LE TRAITEMENT DES ORDURES MENAGERES DE L'EURE</a><br/>
 
 Monsieur le Président du SETOM
 
@@ -31,9 +31,9 @@ EVREUX - Département 27 - Eure
 27/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV35113400 - **Vêtements de protection et de sécurité** <br/>
 CPV39224000 - **Balais et brosses et autres articles de divers types** <br/>
 CPV39830000 - **Produits de nettoyage** <br/>
-CPV35113400 - **Vêtements de protection et de sécurité** <br/>
 
 ##### Descripteurs :
 Chaussures ou articles chaussants <br/>
@@ -43,4 +43,4 @@ Quincaillerie (articles) <br/>
 
 ### Attribution du Marché :
 SARL STEOL - 4 bis rue du Mare Dubuc 27100 QUITTEBEUF <br/>
-<a href="/entreprise-257/siren-384574323"> FICHOT HYGIENE</a>    26/28 rue Jean Perrin - ZI du Vallier 28300 MAINVILLIERS <br/>
+<a href="/entreprise-552/siren-384574323"> FICHOT HYGIENE</a>    26/28 rue Jean Perrin - ZI du Vallier 28300 MAINVILLIERS <br/>

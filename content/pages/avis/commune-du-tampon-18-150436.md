@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219740222"> COMMUNE DU TAMPON</a><br/>
+<a href="/acheteur-137/siren-219740222"> COMMUNE DU TAMPON</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV45212100 - **Construction d'équipements pour les loisirs** <br/>
 Equipements spécialisés <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-387808595"> GEOLITHE</a>      Sainte-Clotilde <br/>
+<a href="/entreprise-553/siren-387808595"> GEOLITHE</a>      Sainte-Clotilde <br/>

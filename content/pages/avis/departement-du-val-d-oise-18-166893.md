@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229501275"> DEPARTEMENT DU VAL D OISE</a><br/>
+<a href="/acheteur-137/siren-229501275"> DEPARTEMENT DU VAL D OISE</a><br/>
 
 Mme CD95 la présidente, Le Conseil départemental du Val d'Oise
 
@@ -36,4 +36,4 @@ CPV45000000 - **Travaux de construction** <br/>
 Tous corps d'état <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-482646015"> OMNITECH SECURITY</a>    1 Rue Michelet 94200 IVRY SUR SEINE <br/>
+<a href="/entreprise-564/siren-482646015"> OMNITECH SECURITY</a>    1 Rue Michelet 94200 IVRY SUR SEINE <br/>

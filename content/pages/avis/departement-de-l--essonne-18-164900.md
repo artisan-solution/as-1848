@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
+<a href="/acheteur-137/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
 
 Mme Président Le
 
@@ -37,4 +37,4 @@ Assistance technique <br/>
 Informatique (assistance) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-403259534"> UMANIS</a>    7-9 rue Paul Vaillant Couturier 92300 Levallois perret <br/>
+<a href="/entreprise-556/siren-403259534"> UMANIS</a>    7-9 rue Paul Vaillant Couturier 92300 Levallois perret <br/>

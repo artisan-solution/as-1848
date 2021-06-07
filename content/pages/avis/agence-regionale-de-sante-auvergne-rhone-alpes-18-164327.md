@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130008071"> AGENCE REGIONALE DE SANTE AUVERGNE-RHONE-ALPES</a><br/>
+<a href="/acheteur-131/siren-130008071"> AGENCE REGIONALE DE SANTE AUVERGNE-RHONE-ALPES</a><br/>
 
 
 
@@ -37,5 +37,5 @@ Etude <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-808660492"> SEDETIAM Conseil</a>    21 rue Vaudrey 69003 Lyon <br/>
-<a href="/entreprise-263/siren-479182172"> PLURICITE</a>    1 cours de verdun Gensoul 69002 LYON <br/>
+<a href="/entreprise-577/siren-808660492"> SEDETIAM Conseil</a>    21 rue Vaudrey 69003 Lyon <br/>
+<a href="/entreprise-564/siren-479182172"> PLURICITE</a>    1 cours de verdun Gensoul 69002 LYON <br/>

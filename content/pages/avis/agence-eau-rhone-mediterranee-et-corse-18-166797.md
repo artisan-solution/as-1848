@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-186901559"> AGENCE EAU RHONE MEDITERRANEE ET CORSE</a><br/>
+<a href="/acheteur-132/siren-186901559"> AGENCE EAU RHONE MEDITERRANEE ET CORSE</a><br/>
 
 
 
@@ -31,15 +31,15 @@ LYON - Département 69 - Rhône
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV98363000 - **Services de plongée** <br/>
-CPV79961320 - **Services de photographie sous-marine** <br/>
 CPV73112000 - **Services de recherche marine** <br/>
 CPV98361000 - **Services relatifs à l'océanologie** <br/>
+CPV79961320 - **Services de photographie sous-marine** <br/>
+CPV98363000 - **Services de plongée** <br/>
 
 ##### Descripteurs :
 Prestations de services <br/>
 Travaux sous-marins <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-265/siren-503122418"> ANDROMEDE OCEANOLOGIE</a>    7 place cassan Carnon Plage 34280 CARNON PLAGE <br/>
-<a href="/entreprise-265/siren-503122418"> Andromède Océanologie</a>    7 place cassan Carnon Plage 34280 CARNON PLAGE <br/>
+<a href="/entreprise-568/siren-503122418"> ANDROMEDE OCEANOLOGIE</a>    7 place cassan Carnon Plage 34280 CARNON PLAGE <br/>
+<a href="/entreprise-568/siren-503122418"> Andromède Océanologie</a>    7 place cassan Carnon Plage 34280 CARNON PLAGE <br/>

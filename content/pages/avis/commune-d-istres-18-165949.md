@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300470"> COMMUNE D ISTRES</a><br/>
+<a href="/acheteur-134/siren-211300470"> COMMUNE D ISTRES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV45111291 - **Travaux d'aménagement du terrain** <br/>
 Voirie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-402032510"> Travaux Publics De Provence</a>    Quartier Prignan 13800 Istres <br/>
+<a href="/entreprise-555/siren-402032510"> Travaux Publics De Provence</a>    Quartier Prignan 13800 Istres <br/>

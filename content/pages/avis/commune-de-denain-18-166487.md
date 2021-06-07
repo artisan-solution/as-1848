@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215901729"> COMMUNE DE DENAIN</a><br/>
+<a href="/acheteur-135/siren-215901729"> COMMUNE DE DENAIN</a><br/>
 
 Mme DUFOUR TONINI Anne-Lise, Maire
 
@@ -36,4 +36,4 @@ Denain - Département 59 - Nord
 Etude <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-421547449"> VERDI CONSEIL NORD DE FRANCE</a>    80 rue de Marcq 59441 Wasquehal cedex <br/>
+<a href="/entreprise-558/siren-421547449"> VERDI CONSEIL NORD DE FRANCE</a>    80 rue de Marcq 59441 Wasquehal cedex <br/>

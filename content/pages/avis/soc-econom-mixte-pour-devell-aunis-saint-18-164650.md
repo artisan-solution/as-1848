@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-716350137"> SOC ECONOM MIXTE POUR DEVELL AUNIS SAINT</a><br/>
+<a href="/acheteur-139/siren-716350137"> SOC ECONOM MIXTE POUR DEVELL AUNIS SAINT</a><br/>
 
 
 
@@ -31,12 +31,12 @@ LA ROCHELLE - Département 17 - Charente-Maritime
 28/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV45310000 - **Travaux d'équipement électrique** <br/>
 CPV45112710 - **Travaux d'aménagement paysager d'espaces verts** <br/>
+CPV45111290 - **Travaux préparatoires de viabilité** <br/>
+CPV45111291 - **Travaux d'aménagement du terrain** <br/>
 CPV45112500 - **Travaux de terrassement** <br/>
 CPV34993000 - **Éclairage public** <br/>
-CPV45111290 - **Travaux préparatoires de viabilité** <br/>
-CPV45310000 - **Travaux d'équipement électrique** <br/>
-CPV45111291 - **Travaux d'aménagement du terrain** <br/>
 
 ##### Descripteurs :
 Eclairage public <br/>
@@ -44,6 +44,6 @@ Espaces verts <br/>
 Voirie et réseaux divers <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-423955103"> CARRE VERT PAYSAGE</a>    98 route de Saujon 17600 corme écluse <br/>
-<a href="/entreprise-255/siren-329405211"> COLAS SUD OUEST</a>    47 rue Ampère 17200 ROYAN <br/>
-<a href="/entreprise-266/siren-518137864"> EIFFAGE ENERGIES SYSTEMES</a>    ZI le Graveau 10bis rue du commerce 17400 saint jean d'angély <br/>
+<a href="/entreprise-559/siren-423955103"> CARRE VERT PAYSAGE</a>    98 route de Saujon 17600 corme écluse <br/>
+<a href="/entreprise-547/siren-329405211"> COLAS SUD OUEST</a>    47 rue Ampère 17200 ROYAN <br/>
+<a href="/entreprise-570/siren-518137864"> EIFFAGE ENERGIES SYSTEMES</a>    ZI le Graveau 10bis rue du commerce 17400 saint jean d'angély <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-223700014"> DEPARTEMENT DE L'INDRE ET LOIRE</a><br/>
+<a href="/acheteur-137/siren-223700014"> DEPARTEMENT DE L'INDRE ET LOIRE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV50712000 - **Services de réparation et d'entretien d'installations mécaniqu
 Porte automatique, portail <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-800068892"> Defi Val De Loire</a>    7 Allee Emile Delahaye 37320 Esvres-Sur-Indre <br/>
+<a href="/entreprise-576/siren-800068892"> Defi Val De Loire</a>    7 Allee Emile Delahaye 37320 Esvres-Sur-Indre <br/>

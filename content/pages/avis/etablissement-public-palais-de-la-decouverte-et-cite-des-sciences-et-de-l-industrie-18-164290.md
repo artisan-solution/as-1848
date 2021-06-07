@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-519587851"> ETABLISSEMENT PUBLIC PALAIS DE LA DECOUVERTE ET CITE DES SCIENCES ET DE L'INDUSTRIE</a><br/>
+<a href="/acheteur-139/siren-519587851"> ETABLISSEMENT PUBLIC PALAIS DE LA DECOUVERTE ET CITE DES SCIENCES ET DE L'INDUSTRIE</a><br/>
 
 
 
@@ -31,11 +31,11 @@ Paris - Département 75 - Paris
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV44211000 - **Bâtiments préfabriqués** <br/>
 CPV44211100 - **Bâtiments modulaires préfabriqués** <br/>
+CPV44211000 - **Bâtiments préfabriqués** <br/>
 
 ##### Descripteurs :
 Bâtiments modulaires <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-423337708"> Procontain</a>    Pa de la Villette aux Aulnes 77290 Mitry-Mory <br/>
+<a href="/entreprise-559/siren-423337708"> Procontain</a>    Pa de la Villette aux Aulnes 77290 Mitry-Mory <br/>

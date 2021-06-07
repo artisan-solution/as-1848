@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200006682"> BEAUNE COTE ET SUD-COMMUNAUTE BEAUNE-CHAGNY-NOLAY</a><br/>
+<a href="/acheteur-132/siren-200006682"> BEAUNE COTE ET SUD-COMMUNAUTE BEAUNE-CHAGNY-NOLAY</a><br/>
 
 Mlle LUCAS Coralie, Communauté d'Agglomération Beaune Côte et Sud
 
@@ -37,9 +37,9 @@ Electricité (travaux) <br/>
 
 ### Attribution du Marché :
 Menuiserie MUGNIER - Rue du pont 71510 Saint berain sur dheune <br/>
-<a href="/entreprise-267/siren-537934457"> CEGELEC BOURGOGNE</a>    6 rue champeau 21800 Quetigny <br/>
-<a href="/entreprise-257/siren-384222667"> SAMAG</a>    10 route de lyon 71100 St rémy <br/>
-<a href="/entreprise-258/siren-399307370"> EIFFAGE</a>    4 rue lavoisier 21600 Longvic <br/>
+<a href="/entreprise-572/siren-537934457"> CEGELEC BOURGOGNE</a>    6 rue champeau 21800 Quetigny <br/>
+<a href="/entreprise-552/siren-384222667"> SAMAG</a>    10 route de lyon 71100 St rémy <br/>
+<a href="/entreprise-555/siren-399307370"> EIFFAGE</a>    4 rue lavoisier 21600 Longvic <br/>
 EURL BEAUNE DECO - Les bonnes filles 21200 Levernois <br/>
 SAS ENTREPRISE BONGLET - 330 rue des Frères Lumière 39000 Lons le saunier <br/>
-<a href="/entreprise-258/siren-389562430"> GAUTHEY ELECTRICITE</a>    15 rue nicéphore niepce 71400 Autun <br/>
+<a href="/entreprise-553/siren-389562430"> GAUTHEY ELECTRICITE</a>    15 rue nicéphore niepce 71400 Autun <br/>

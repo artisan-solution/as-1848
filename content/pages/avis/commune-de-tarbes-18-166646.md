@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-216504407"> COMMUNE DE TARBES</a><br/>
+<a href="/acheteur-135/siren-216504407"> COMMUNE DE TARBES</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV90500000 - **Services liés aux déchets et aux ordures** <br/>
 Déchets non ménagers (prestations) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-380157875"> Veolia Proprete Midi Pyrenees</a>    1 31100 Toulouse <br/>
+<a href="/entreprise-551/siren-380157875"> Veolia Proprete Midi Pyrenees</a>    1 31100 Toulouse <br/>
 Rom - Veolia Proprete Midi Pyrenees - 1 31100 Toulouse <br/>

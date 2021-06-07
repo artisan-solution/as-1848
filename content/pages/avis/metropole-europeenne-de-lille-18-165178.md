@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200093201"> METROPOLE EUROPEENNE DE LILLE</a><br/>
+<a href="/acheteur-134/siren-200093201"> METROPOLE EUROPEENNE DE LILLE</a><br/>
 
 M. Hernaz Mathieu, Métropole Européenne de Lille
 
@@ -36,4 +36,4 @@ CPV79998000 - **Services d'accompagnement professionnel** <br/>
 Etude <br/>
 
 ### Attribution du Marché :
-COOP RH SARL - 238 Boulevard Clémenceau 59700 Marcq-en-Baroeul <br/>
+<a href="/entreprise-575/siren-792433120"> COOP RH SARL</a>    238 Boulevard Clémenceau 59700 Marcq-en-Baroeul <br/>

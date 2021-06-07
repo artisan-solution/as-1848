@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229400288"> DEPARTEMENT DU VAL DE MARNE</a><br/>
+<a href="/acheteur-137/siren-229400288"> DEPARTEMENT DU VAL DE MARNE</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CRETEIL - Département 94 - Val-de-Marne
 Bâtiment <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-775684764"> SMABTP</a>    5 rue Charles de Gaulle TSA 80306 94146 Alfortville Cedex <br/>
+<a href="/entreprise-574/siren-775684764"> SMABTP</a>    5 rue Charles de Gaulle TSA 80306 94146 Alfortville Cedex <br/>

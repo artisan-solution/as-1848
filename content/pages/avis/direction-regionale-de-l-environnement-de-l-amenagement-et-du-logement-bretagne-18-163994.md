@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130010002"> DIRECTION REGIONALE DE L'ENVIRONNEMENT DE L'AMENAGEMENT ET DU LOGEMENT BRETAGNE</a><br/>
+<a href="/acheteur-132/siren-130010002"> DIRECTION REGIONALE DE L'ENVIRONNEMENT DE L'AMENAGEMENT ET DU LOGEMENT BRETAGNE</a><br/>
 
 
 
@@ -31,9 +31,9 @@ RENNES - Département 35 - Ile-et-Vilaine
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV45520000 - **Location de matériel de terrassement avec opérateur** <br/>
 CPV60171000 - **Location de voitures particulières avec chauffeur** <br/>
 CPV60182000 - **Location de véhicules industriels avec chauffeur** <br/>
+CPV45520000 - **Location de matériel de terrassement avec opérateur** <br/>
 CPV90741200 - **Services de lutte contre les déversements accidentels d'hydrocarbures** <br/>
 CPV45510000 - **Location de grues avec opérateur** <br/>
 

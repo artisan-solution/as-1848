@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-237500079"> REGION ILE DE FRANCE</a><br/>
+<a href="/acheteur-137/siren-237500079"> REGION ILE DE FRANCE</a><br/>
 
 
 
@@ -36,5 +36,5 @@ Informatique (prestations de services) <br/>
 
 ### Attribution du Marché :
 INEO DIGITAL - 15, impasse Dumur 92586 CLICHY <br/>
-<a href="/entreprise-262/siren-444062624"> Siradel</a>    2 Parc de Brocéliande 35760 SAINT GREGOIRE <br/>
-<a href="/entreprise-257/siren-377550249"> Wavestone</a>    100-101 Terrasse Boieldieu, Tour Franklin, 92042 Paris La Défense <br/>
+<a href="/entreprise-562/siren-444062624"> Siradel</a>    2 Parc de Brocéliande 35760 SAINT GREGOIRE <br/>
+<a href="/entreprise-551/siren-377550249"> Wavestone</a>    100-101 Terrasse Boieldieu, Tour Franklin, 92042 Paris La Défense <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-225900018"> DEPARTEMENT DU NORD</a><br/>
+<a href="/acheteur-137/siren-225900018"> DEPARTEMENT DU NORD</a><br/>
 
 
 
@@ -38,9 +38,9 @@ Formation <br/>
 
 ### Attribution du Marché :
 FFORMATION - 13A rue du Rivage 7608 Wiers - 76080 BELGIQUE <br/>
-<a href="/entreprise-254/siren-311511653"> AFERTES</a>    5 rue Frédéric Degeorge BP 225 62004 ARRAS Cédex <br/>
+<a href="/entreprise-545/siren-311511653"> AFERTES</a>    5 rue Frédéric Degeorge BP 225 62004 ARRAS Cédex <br/>
 TONIC PLUS - Groupe Synergie Pro, - 6 Rue Saint Philippe du Roule 75008 PARIS <br/>
-<a href="/entreprise-263/siren-483187522"> IFAR</a>    2 rue Papin, parc "les prés " 59650 villeneuve d'ascq <br/>
+<a href="/entreprise-565/siren-483187522"> IFAR</a>    2 rue Papin, parc "les prés " 59650 villeneuve d'ascq <br/>
 SARL Metissages - 70 rue du Rendez-Vous 75012 PARIS <br/>
 IRTS HdF, Parc Eursanté Est, - Rue Ambroise Paré BP 71 59373 LOOS cedex <br/>
 SARL Metissages - M. TAKASHIMA Moto - - 70 rue du Rendez-Vous 75012 PARIS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-186901567"> CENTRE REGIONAL OEUVRES UNIV SCOLAIRES</a><br/>
+<a href="/acheteur-132/siren-186901567"> CENTRE REGIONAL OEUVRES UNIV SCOLAIRES</a><br/>
 
 
 
@@ -40,4 +40,4 @@ Assurance <br/>
 
 ### Attribution du Marché :
 MAIF Associations , Collectivités - Centre de Gestion spécialisée Le Pilon du Roy - Bât C 85 rue Pierre Berthier 13854 AIX EN PROVENCE CEDEX 3 <br/>
-<a href="/entreprise-256/siren-341539815"> PARIS NORD ASSURANCES SERVICES</a>    159 RUE DU FAUBOURG POISSIONNIERE 75009 PARIS <br/>
+<a href="/entreprise-549/siren-341539815"> PARIS NORD ASSURANCES SERVICES</a>    159 RUE DU FAUBOURG POISSIONNIERE 75009 PARIS <br/>

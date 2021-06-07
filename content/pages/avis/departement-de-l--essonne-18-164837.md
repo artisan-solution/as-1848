@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
+<a href="/acheteur-137/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
 
 M. Président Le, Département de l'Essonne
 
@@ -31,8 +31,8 @@ EVRY - Département 91 - Essonne
 
 ##### Codes CPV concerné(s) :
 CPV98312000 - **Services de nettoyage de textile** <br/>
-CPV98311000 - **Services de ramassage de linge** <br/>
 CPV98310000 - **Services de blanchisserie et de nettoyage à sec** <br/>
+CPV98311000 - **Services de ramassage de linge** <br/>
 
 ##### Descripteurs :
 Location (matériels) <br/>

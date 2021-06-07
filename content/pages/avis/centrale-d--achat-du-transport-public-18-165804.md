@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-539537886"> CENTRALE D' ACHAT DU TRANSPORT PUBLIC</a><br/>
+<a href="/acheteur-139/siren-539537886"> CENTRALE D' ACHAT DU TRANSPORT PUBLIC</a><br/>
 
 
 
@@ -31,9 +31,9 @@ Paris - Département 75 - Paris
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV37527100 - **Petits trains** <br/>
-CPV34144900 - **Véhicules électriques** <br/>
 CPV34110000 - **Voitures particulières** <br/>
+CPV34144900 - **Véhicules électriques** <br/>
+CPV37527100 - **Petits trains** <br/>
 
 ##### Descripteurs :
 Véhicules <br/>

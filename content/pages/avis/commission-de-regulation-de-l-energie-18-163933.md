@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110000106"> COMMISSION DE REGULATION DE L'ENERGIE</a><br/>
+<a href="/acheteur-131/siren-110000106"> COMMISSION DE REGULATION DE L'ENERGIE</a><br/>
 
 
 
@@ -30,13 +30,13 @@ PARIS - Département 75 - Paris
 25/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV72267000 - **Services de maintenance et de réparation de logiciels** <br/>
 CPV72400000 - **Services internet** <br/>
 CPV72230000 - **Services de développement de logiciels personnalisés** <br/>
-CPV72267000 - **Services de maintenance et de réparation de logiciels** <br/>
 CPV72000000 - **Services de technologies de l'information, conseil, développement de logiciels, internet et appui** <br/>
 
 ##### Descripteurs :
 Informatique (prestations de services) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-431802511"> Netfective Technology</a>    6/8 avenue de Verdun 1916 92250 LA GARENNE COLOMBES <br/>
+<a href="/entreprise-559/siren-431802511"> Netfective Technology</a>    6/8 avenue de Verdun 1916 92250 LA GARENNE COLOMBES <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-180067019"> INSTITUT NATIONAL DE L'INFORMATION GEOGRAPHIQUE ET FORESTIERE</a><br/>
+<a href="/acheteur-132/siren-180067019"> INSTITUT NATIONAL DE L'INFORMATION GEOGRAPHIQUE ET FORESTIERE</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV38424000 - **Matériel de mesure et de contrôle** <br/>
 Equipements spécialisés <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-301546669"> Sdmo Quiniou</a>    bp 40101 67500 Haguenau <br/>
-<a href="/entreprise-256/siren-352623086"> Zimmer Sas</a>    Domaine La Bruyere 57690 Zimming <br/>
+<a href="/entreprise-544/siren-301546669"> Sdmo Quiniou</a>    bp 40101 67500 Haguenau <br/>
+<a href="/entreprise-551/siren-352623086"> Zimmer Sas</a>    Domaine La Bruyere 57690 Zimming <br/>

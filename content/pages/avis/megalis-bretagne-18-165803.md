@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-253514491"> MEGALIS BRETAGNE</a><br/>
+<a href="/acheteur-138/siren-253514491"> MEGALIS BRETAGNE</a><br/>
 
 
 
@@ -31,15 +31,15 @@ Cesson sevigne - Département 35 - Ile-et-Vilaine
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV30162000 - **Cartes à puce** <br/>
 CPV18925200 - **Étuis** <br/>
+CPV30162000 - **Cartes à puce** <br/>
 CPV30233300 - **Lecteurs de cartes à puce** <br/>
 
 ##### Descripteurs :
 Contrôle d'accès <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-492580717"> APCARDS</a>    3 rue Joseph Cugnot 35220 CHATEAUBOURG <br/>
-<a href="/entreprise-266/siren-527948814"> FAMOCO</a>    59 avenue Victor Hugo 75016 Paris <br/>
-<a href="/entreprise-253/siren-304635451"> ISRA</a>    ZA Les Revols Rue du Vercors 26540 MOURS ST EUSEBE <br/>
+<a href="/entreprise-566/siren-492580717"> APCARDS</a>    3 rue Joseph Cugnot 35220 CHATEAUBOURG <br/>
+<a href="/entreprise-571/siren-527948814"> FAMOCO</a>    59 avenue Victor Hugo 75016 Paris <br/>
+<a href="/entreprise-544/siren-304635451"> ISRA</a>    ZA Les Revols Rue du Vercors 26540 MOURS ST EUSEBE <br/>
 IDCAPT - ZI DE COURTINE 50 RUE BERTHY ALBRECHT 84000 AVIGNON <br/>

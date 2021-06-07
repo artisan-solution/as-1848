@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-180007015"> OFFICE NATIONAL DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE</a><br/>
+<a href="/acheteur-132/siren-180007015"> OFFICE NATIONAL DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE</a><br/>
 
 
 
@@ -37,5 +37,5 @@ Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
 ATELIER D ARCHITECTURE JACQUES DE WELLE Architecte DPLG - 18 rue Emeric DAVID 13100 AIX EN PROVENCE <br/>
-<a href="/entreprise-269/siren-807517065"> Cabinet Philippe GRANDFILS</a>    75 avenue Parmentier 75544 PARIS <br/>
+<a href="/entreprise-577/siren-807517065"> Cabinet Philippe GRANDFILS</a>    75 avenue Parmentier 75544 PARIS <br/>
 SARL TIERCELIN - 82 rue Léonard De Vinci ZAC St Martin 84120 PERTUIS <br/>

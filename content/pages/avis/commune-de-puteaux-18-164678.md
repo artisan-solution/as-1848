@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219200623"> COMMUNE DE PUTEAUX</a><br/>
+<a href="/acheteur-136/siren-219200623"> COMMUNE DE PUTEAUX</a><br/>
 
 
 
@@ -31,12 +31,12 @@ Puteaux - Département 92 - Hauts-de-Seine
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV37524000 - **Jeux** <br/>
 CPV37520000 - **Jouets** <br/>
+CPV37524000 - **Jeux** <br/>
 
 ##### Descripteurs :
 Jeux, jouets <br/>
 
 ### Attribution du Marché :
 PINTEL JOUETS / JOUECLUB ENTREPRISE - 16 rue Fabre d'Eglantine 75012 Paris <br/>
-<a href="/entreprise-267/siren-572178663"> OGEO</a>    82 avenue du Président Wilson 93214 La plaine saint denis <br/>
+<a href="/entreprise-572/siren-572178663"> OGEO</a>    82 avenue du Président Wilson 93214 La plaine saint denis <br/>

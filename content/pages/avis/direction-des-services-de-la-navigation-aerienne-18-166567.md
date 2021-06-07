@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-120064027"> DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE</a><br/>
+<a href="/acheteur-131/siren-120064027"> DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE</a><br/>
 
 Hélène BARLAN
 
@@ -38,4 +38,4 @@ Chauffage (travaux) <br/>
 Climatisation <br/>
 
 ### Attribution du Marché :
-ENGIE ENERGIE SERVICES - ENGIE Cofely - 4 route de Bassens 33306 LORMONT <br/>
+<a href="/entreprise-572/siren-552046955"> ENGIE ENERGIE SERVICES - ENGIE Cofely</a>    4 route de Bassens 33306 LORMONT <br/>

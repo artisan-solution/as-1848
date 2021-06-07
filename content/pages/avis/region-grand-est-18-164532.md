@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200052264"> REGION GRAND EST</a><br/>
+<a href="/acheteur-133/siren-200052264"> REGION GRAND EST</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Equipement industriel <br/>
 Equipements spécialisés <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-789740057"> BEAM</a>    8 rue Schertz bâtiment 3 67089 Strasbourg <br/>
+<a href="/entreprise-575/siren-789740057"> BEAM</a>    8 rue Schertz bâtiment 3 67089 Strasbourg <br/>

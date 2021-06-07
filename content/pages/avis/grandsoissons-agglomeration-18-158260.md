@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-240200477"> GRANDSOISSONS AGGLOMERATION</a><br/>
+<a href="/acheteur-137/siren-240200477"> GRANDSOISSONS AGGLOMERATION</a><br/>
 
 
 
@@ -36,6 +36,6 @@ CUFFIES - Département 02 - Aisne
 Electricité, gaz (fourniture) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-539028654"> Terralis</a>    12 Allée des Nobel 02200 Soissons <br/>
+<a href="/entreprise-572/siren-539028654"> Terralis</a>    12 Allée des Nobel 02200 Soissons <br/>
 Total Energie Gaz - 2, Place Jean Millier, La Défense 6 92400 Courbevoie <br/>
-<a href="/entreprise-267/siren-552081317"> Electricité de France</a>    22 AVENUE DE WAGRAM 75008 Paris <br/>
+<a href="/entreprise-572/siren-552081317"> Electricité de France</a>    22 AVENUE DE WAGRAM 75008 Paris <br/>

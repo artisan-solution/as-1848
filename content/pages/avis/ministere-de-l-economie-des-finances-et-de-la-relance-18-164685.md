@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110020013"> MINISTERE DE L'ECONOMIE DES FINANCES ET DE LA RELANCE</a><br/>
+<a href="/acheteur-131/siren-110020013"> MINISTERE DE L'ECONOMIE DES FINANCES ET DE LA RELANCE</a><br/>
 
 
 
@@ -30,8 +30,8 @@ PARIS - Département 75 - Paris
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV39500000 - **Articles textiles** <br/>
 CPV18000000 - **Vêtements, articles chaussants, bagages et accessoires** <br/>
+CPV39500000 - **Articles textiles** <br/>
 
 ##### Descripteurs :
 Textile <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300553"> COMMUNE DE MARSEILLE</a><br/>
+<a href="/acheteur-134/siren-211300553"> COMMUNE DE MARSEILLE</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Electricité (travaux) <br/>
 
 ### Attribution du Marché :
 INEO PROVENCE CÔTE D'AZUR SAS - 205 rue George Claude BP no241000 Pôle d'Activités d'Aix-en-Provence 13797 Aix-en-Provence cedex 3 <br/>
-<a href="/entreprise-253/siren-056800659"> SNEF SA</a>    87 avenue des Aygalades 13015 Marseille <br/>
-<a href="/entreprise-253/siren-308250570"> Électricité Industrielle JP Fauche SAS</a>    1 montée de St Menet Espace Valentine Bât A 13011 Marseille <br/>
+<a href="/entreprise-543/siren-056800659"> SNEF SA</a>    87 avenue des Aygalades 13015 Marseille <br/>
+<a href="/entreprise-544/siren-308250570"> Électricité Industrielle JP Fauche SAS</a>    1 montée de St Menet Espace Valentine Bât A 13011 Marseille <br/>

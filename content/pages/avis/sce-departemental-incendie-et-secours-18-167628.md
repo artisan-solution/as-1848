@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-283100014"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
+<a href="/acheteur-139/siren-283100014"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
 
 Mme POUMIROL Emilienne, Présidente
 
@@ -39,5 +39,5 @@ Bâtiment <br/>
 ### Attribution du Marché :
 SLB - 5 impasse Pradié 31270 Villeneuve tolosane <br/>
 JEAN LEFEBVRE MIDI-PYRÉNÉES - 1rue de la Production 31320 Castanet tolosan <br/>
-<a href="/entreprise-258/siren-390354041"> DL GARONNE</a>    1 rue Marcel Langer 31600 Seysses <br/>
-<a href="/entreprise-268/siren-789948148"> MODULEM</a>    1606 route de Toulouse 31340 La magdelaine sur tarn <br/>
+<a href="/entreprise-553/siren-390354041"> DL GARONNE</a>    1 rue Marcel Langer 31600 Seysses <br/>
+<a href="/entreprise-575/siren-789948148"> MODULEM</a>    1606 route de Toulouse 31340 La magdelaine sur tarn <br/>

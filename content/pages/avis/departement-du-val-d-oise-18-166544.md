@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229501275"> DEPARTEMENT DU VAL D OISE</a><br/>
+<a href="/acheteur-137/siren-229501275"> DEPARTEMENT DU VAL D OISE</a><br/>
 
 
 
@@ -30,8 +30,8 @@ CERGY PONTOISE - Département 95 - Val-d'oise
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV45000000 - **Travaux de construction** <br/>
 CPV45223220 - **Travaux de gros œuvre** <br/>
+CPV45000000 - **Travaux de construction** <br/>
 
 ##### Descripteurs :
 Gros oeuvre <br/>

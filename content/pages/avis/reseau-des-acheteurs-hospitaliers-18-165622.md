@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130005010"> RESEAU DES ACHETEURS HOSPITALIERS</a><br/>
+<a href="/acheteur-131/siren-130005010"> RESEAU DES ACHETEURS HOSPITALIERS</a><br/>
 
 
 
@@ -39,4 +39,4 @@ Matériel de bureau <br/>
 Matériel d'imprimerie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-562046235"> PITNEY BOWES</a>    9 rue Paul Lafargue - Immeuble Le Triangle CS 20012 93456 La Plaine Saint-Denis <br/>
+<a href="/entreprise-572/siren-562046235"> PITNEY BOWES</a>    9 rue Paul Lafargue - Immeuble Le Triangle CS 20012 93456 La Plaine Saint-Denis <br/>

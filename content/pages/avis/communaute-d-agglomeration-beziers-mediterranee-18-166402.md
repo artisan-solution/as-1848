@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243400769"> COMMUNAUTE D AGGLOMERATION BEZIERS MEDITERRANEE</a><br/>
+<a href="/acheteur-137/siren-243400769"> COMMUNAUTE D AGGLOMERATION BEZIERS MEDITERRANEE</a><br/>
 
 LACAS Frédéric, Président
 
@@ -37,4 +37,4 @@ CPV34928480 - **Conteneurs et poubelles de déchets** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-778151944"> Plastic Omnium SU</a>    ZI du capiscol 34500 Béziers <br/>
+<a href="/entreprise-575/siren-778151944"> Plastic Omnium SU</a>    ZI du capiscol 34500 Béziers <br/>

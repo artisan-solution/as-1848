@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200070928"> CC TERRE DE PICARDIE</a><br/>
+<a href="/acheteur-133/siren-200070928"> CC TERRE DE PICARDIE</a><br/>
 
 
 
@@ -31,16 +31,16 @@ ESTREES DENIECOURT - Département 80 - Somme
 29/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV66515200 - **Services d'assurance de biens** <br/>
+CPV66514110 - **Services d'assurance de véhicules à moteur** <br/>
 CPV66513100 - **Services d'assurance défense et recours** <br/>
 CPV66516000 - **Services d'assurance responsabilité civile** <br/>
 CPV66510000 - **Services d'assurance** <br/>
-CPV66515200 - **Services d'assurance de biens** <br/>
-CPV66514110 - **Services d'assurance de véhicules à moteur** <br/>
 
 ##### Descripteurs :
 Assurance <br/>
 
 ### Attribution du Marché :
 SARL 2C COURTAGE - 7 rue G.Magnoac 65000 TARBES <br/>
-<a href="/entreprise-256/siren-341539815"> Paris Nord Assurances Services</a>    159 rue Faubourg Poissonnière 75009 PARIS <br/>
-<a href="/entreprise-253/siren-301309605"> SMACL ASSURANCES</a>    141 avenue Salvador Allende 79031 NIORT <br/>
+<a href="/entreprise-549/siren-341539815"> Paris Nord Assurances Services</a>    159 rue Faubourg Poissonnière 75009 PARIS <br/>
+<a href="/entreprise-544/siren-301309605"> SMACL ASSURANCES</a>    141 avenue Salvador Allende 79031 NIORT <br/>

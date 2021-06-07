@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-213201072"> COMMUNE DE CONDOM</a><br/>
+<a href="/acheteur-134/siren-213201072"> COMMUNE DE CONDOM</a><br/>
 
 
 
@@ -37,7 +37,7 @@ CPV71000000 - **Services d'architecture, services de construction, services d'in
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-499732493"> ORFEA ACOUSTIQUE</a>    8 rue du Professeur lavignolle 33000 bordeaux <br/>
-<a href="/entreprise-262/siren-441442704"> SAS SUD ETUDES ET EQUIPEMENT INDUSTRIE</a>    Domaine de l'escapade bâtiment D 203 avenue Paul Julien 13100 le tholonet <br/>
+<a href="/entreprise-567/siren-499732493"> ORFEA ACOUSTIQUE</a>    8 rue du Professeur lavignolle 33000 bordeaux <br/>
+<a href="/entreprise-561/siren-441442704"> SAS SUD ETUDES ET EQUIPEMENT INDUSTRIE</a>    Domaine de l'escapade bâtiment D 203 avenue Paul Julien 13100 le tholonet <br/>
 SARL François GUIBERT ARCHITECTE - 75 quai de Paludate 33800 bordeaux <br/>
 ALIENOR INGENIERIE - 4 allée de la Crabette 33600 pessac <br/>

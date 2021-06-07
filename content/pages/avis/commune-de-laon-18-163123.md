@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-210203873"> COMMUNE DE LAON</a><br/>
+<a href="/acheteur-134/siren-210203873"> COMMUNE DE LAON</a><br/>
 
 
 
@@ -31,12 +31,12 @@ LAON - Département 02 - Aisne
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV09132100 - **Essence sans plomb** <br/>
 CPV09134200 - **Carburant diesel** <br/>
 CPV30163100 - **Cartes pour l'achat de carburant** <br/>
+CPV09132100 - **Essence sans plomb** <br/>
 
 ##### Descripteurs :
 Carburant, hydrocarbure <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-801050493"> Wex europe services sas</a>    20 rue Cambon 75001 PARIS <br/>
+<a href="/entreprise-577/siren-801050493"> Wex europe services sas</a>    20 rue Cambon 75001 PARIS <br/>

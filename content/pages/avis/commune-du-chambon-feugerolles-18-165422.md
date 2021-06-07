@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-214200446"> COMMUNE DU CHAMBON FEUGEROLLES</a><br/>
+<a href="/acheteur-135/siren-214200446"> COMMUNE DU CHAMBON FEUGEROLLES</a><br/>
 
 
 
@@ -31,13 +31,13 @@ Le Chambon-Feugerolles - Département 42 - Loire
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV90911300 - **Services de nettoyage de vitres** <br/>
 CPV90910000 - **Services de nettoyage** <br/>
 CPV90911000 - **Services de nettoyage de logements, de bâtiments et de vitres** <br/>
 CPV90900000 - **Services de nettoyage et d'hygiène** <br/>
+CPV90911300 - **Services de nettoyage de vitres** <br/>
 
 ##### Descripteurs :
 Nettoyage de locaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-067800425"> Onet Services</a>    Cd 12 -69360 Solaize 69360 Solaize <br/>
+<a href="/entreprise-543/siren-067800425"> Onet Services</a>    Cd 12 -69360 Solaize 69360 Solaize <br/>

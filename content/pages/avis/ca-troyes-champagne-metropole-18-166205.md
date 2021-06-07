@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200069250"> CA TROYES CHAMPAGNE METROPOLE</a><br/>
+<a href="/acheteur-133/siren-200069250"> CA TROYES CHAMPAGNE METROPOLE</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Abonnement <br/>
 
 ### Attribution du Marché :
 Zeugmo - 89, bis rue Général Mangin 38100 Grenoble <br/>
-<a href="/entreprise-257/siren-388249146"> arte france développement</a>    8, rue Marceaui 92130 Issy les moulineaux <br/>
+<a href="/entreprise-553/siren-388249146"> arte france développement</a>    8, rue Marceaui 92130 Issy les moulineaux <br/>

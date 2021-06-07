@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200041309"> SYNDICAT DEPARTEMENTAL DES ENERGIES DE SEINE-ET-MARNE</a><br/>
+<a href="/acheteur-133/siren-200041309"> SYNDICAT DEPARTEMENTAL DES ENERGIES DE SEINE-ET-MARNE</a><br/>
 
 
 
@@ -32,13 +32,13 @@ LA ROCHETTE - Département 77 - Seine-et-Marne
 ##### Codes CPV concerné(s) :
 CPV65300000 - **Distribution d'électricité et services connexes** <br/>
 CPV31682000 - **Approvisionnement en électricité** <br/>
-CPV09310000 - **Électricité** <br/>
 CPV71314100 - **Services d'électricité** <br/>
+CPV09310000 - **Électricité** <br/>
 
 ##### Descripteurs :
 Electricité, gaz (fourniture) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-552081317"> DIRECT ENERGIE</a>    2, bis rue Louis Armand 75525 Paris <br/>
-<a href="/entreprise-267/siren-542107651"> ENGIE</a>    1 PL SAMUEL DE CHAMPLAIN 92400 COURBEVOIE <br/>
+<a href="/entreprise-572/siren-552081317"> DIRECT ENERGIE</a>    2, bis rue Louis Armand 75525 Paris <br/>
+<a href="/entreprise-572/siren-542107651"> ENGIE</a>    1 PL SAMUEL DE CHAMPLAIN 92400 COURBEVOIE <br/>
 TOTAL ENERGIE GAZ -  92250 LA GARENNE COLOMBES <br/>

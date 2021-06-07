@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200059889"> GRAND PARIS SEINE ET OISE</a><br/>
+<a href="/acheteur-133/siren-200059889"> GRAND PARIS SEINE ET OISE</a><br/>
 
 
 
@@ -36,11 +36,11 @@ CPV79311000 - **Services d'études** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-801238338"> MODAAL</a>    55 Cours Gambetta 69003 LYON <br/>
-<a href="/entreprise-263/siren-477829261"> INterland</a>    72 rue d'Alsace 69100 VILLEURBANNE <br/>
+<a href="/entreprise-577/siren-801238338"> MODAAL</a>    55 Cours Gambetta 69003 LYON <br/>
+<a href="/entreprise-563/siren-477829261"> INterland</a>    72 rue d'Alsace 69100 VILLEURBANNE <br/>
 Société d'Etudes Générales pour l'Aménagement du Territoire (SEGAT) - 6 bis, rue Bonnefoix 94200 Ivry-sur-Seine <br/>
-<a href="/entreprise-257/siren-380465971"> SYSTRA FONCIER</a>    72 rue Henry Farman 75015 PARIS <br/>
-<a href="/entreprise-268/siren-785936592"> GEOFIT EXPERT</a>    7 rue du Fossé Blanc - Bâtiment C1 92230 GENNEVILLIERS <br/>
+<a href="/entreprise-552/siren-380465971"> SYSTRA FONCIER</a>    72 rue Henry Farman 75015 PARIS <br/>
+<a href="/entreprise-575/siren-785936592"> GEOFIT EXPERT</a>    7 rue du Fossé Blanc - Bâtiment C1 92230 GENNEVILLIERS <br/>
 Société d'Etudes Générales pour l'Aménagement du Territoire (SEGAT) - 6 bis, rue Jean Bonnefoix 94200 Ivry-sur-Seine <br/>
 Société d'Etudes Générales pour l'Aménagement du Territoire (SEGAT) - 6 bis, rue Jean Bonnefoix 94200 Ivry-sur-Seine <br/>
-<a href="/entreprise-260/siren-422218339"> CABINET COUDRAY</a>    1 rue Raoul Ponchon - CS 34442 35044 RENNES CEDEX <br/>
+<a href="/entreprise-558/siren-422218339"> CABINET COUDRAY</a>    1 rue Raoul Ponchon - CS 34442 35044 RENNES CEDEX <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217302967"> COMMUNE DE TIGNES</a><br/>
+<a href="/acheteur-135/siren-217302967"> COMMUNE DE TIGNES</a><br/>
 
 
 
@@ -31,10 +31,10 @@ TIGNES - Département 73 - Savoie
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV90620000 - **Services de déneigement** <br/>
-CPV60181000 - **Location de camions avec chauffeur** <br/>
-CPV60182000 - **Location de véhicules industriels avec chauffeur** <br/>
 CPV45500000 - **Location de machines et de matériel de construction et de génie civil avec opérateur** <br/>
+CPV60182000 - **Location de véhicules industriels avec chauffeur** <br/>
+CPV60181000 - **Location de camions avec chauffeur** <br/>
+CPV90620000 - **Services de déneigement** <br/>
 
 ##### Descripteurs :
 Déneigement <br/>

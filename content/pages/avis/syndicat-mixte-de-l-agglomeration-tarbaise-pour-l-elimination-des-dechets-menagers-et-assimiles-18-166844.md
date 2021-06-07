@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-256500869"> SYNDICAT MIXTE DE L'AGGLOMERATION TARBAISE POUR L'ELIMINATION DES DECHETS MENAGERS ET ASSIMILES</a><br/>
+<a href="/acheteur-138/siren-256500869"> SYNDICAT MIXTE DE L'AGGLOMERATION TARBAISE POUR L'ELIMINATION DES DECHETS MENAGERS ET ASSIMILES</a><br/>
 
 M. le Président
 
@@ -38,5 +38,5 @@ Benne <br/>
 Véhicules (acquisition) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-306762824"> ARROUZE SAS</a>    RN 134 64121 Serres-Castet <br/>
+<a href="/entreprise-544/siren-306762824"> ARROUZE SAS</a>    RN 134 64121 Serres-Castet <br/>
 SEMAT SA - 335 Avenue Jean Guiton 17028 La Rochelle <br/>

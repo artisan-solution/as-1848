@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-186901559"> AGENCE EAU RHONE MEDITERRANEE ET CORSE</a><br/>
+<a href="/acheteur-132/siren-186901559"> AGENCE EAU RHONE MEDITERRANEE ET CORSE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV72262000 - **Services de développement de logiciels** <br/>
 Informatique (prestations de services) <br/>
 
 ### Attribution du Marché :
-ECONOCOM - OSIATIS INGENIERIE - 21 rue Descartes - Immeuble Astrale 92350 LE PLESSIS-ROBINSON <br/>
+<a href="/entreprise-548/siren-338898869"> ECONOCOM - OSIATIS INGENIERIE</a>    21 rue Descartes - Immeuble Astrale 92350 LE PLESSIS-ROBINSON <br/>

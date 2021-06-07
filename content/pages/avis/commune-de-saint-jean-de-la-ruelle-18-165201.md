@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-214502858"> COMMUNE DE SAINT JEAN DE LA RUELLE</a><br/>
+<a href="/acheteur-135/siren-214502858"> COMMUNE DE SAINT JEAN DE LA RUELLE</a><br/>
 
 Le Maire
 
@@ -37,4 +37,4 @@ CPV39162110 - **Fournitures scolaires** <br/>
 Articles de bureau et articles scolaires <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-401494828"> Papeteries Pichon</a>    ZI Molina - 97 rue jean perrin 42350 La Talaudière <br/>
+<a href="/entreprise-555/siren-401494828"> Papeteries Pichon</a>    ZI Molina - 97 rue jean perrin 42350 La Talaudière <br/>

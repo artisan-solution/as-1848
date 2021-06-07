@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-261700025"> CENTRE HOSPITALIER DE SAINTONGE SAINTES</a><br/>
+<a href="/acheteur-138/siren-261700025"> CENTRE HOSPITALIER DE SAINTONGE SAINTES</a><br/>
 
 Mme FERCHAUD Suzy, Centre Hospitalier de Saintonge
 
@@ -31,11 +31,11 @@ SAINTES - Département 17 - Charente-Maritime
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV45112500 - **Travaux de terrassement** <br/>
 CPV45223300 - **Travaux de construction de parkings** <br/>
+CPV45112500 - **Travaux de terrassement** <br/>
 
 ##### Descripteurs :
 Voirie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-399307370"> Eiffage Route Sud Ouest</a>    ZAC Belle Aire Nord Rue Christophe Colomb 17441 Aytre <br/>
+<a href="/entreprise-555/siren-399307370"> Eiffage Route Sud Ouest</a>    ZAC Belle Aire Nord Rue Christophe Colomb 17441 Aytre <br/>

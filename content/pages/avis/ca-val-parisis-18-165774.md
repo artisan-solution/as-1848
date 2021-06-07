@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200058485"> CA VAL PARISIS</a><br/>
+<a href="/acheteur-133/siren-200058485"> CA VAL PARISIS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV90690000 - **Services d'enlèvement des graffitis** <br/>
 Nettoyage urbain <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-265/siren-505132225"> Tv Net</a>    19 rue paul cezanne 95420 Magny-en-Vexin <br/>
+<a href="/entreprise-568/siren-505132225"> Tv Net</a>    19 rue paul cezanne 95420 Magny-en-Vexin <br/>

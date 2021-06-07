@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200089456"> COMMUNAUTE D'AGGLOMERATION SEINE EURE</a><br/>
+<a href="/acheteur-134/siren-200089456"> COMMUNAUTE D'AGGLOMERATION SEINE EURE</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Assainissement <br/>
 Curage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-667350086"> MAILLOT SAS</a>    VOIE DU FUTUR Cedex 27701 27100 VAL DE REUIL <br/>
+<a href="/entreprise-573/siren-667350086"> MAILLOT SAS</a>    VOIE DU FUTUR Cedex 27701 27100 VAL DE REUIL <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200033116"> COMMUNAUTE DE COMMUNES CLUSES ARVE ET MONTAGNES</a><br/>
+<a href="/acheteur-132/siren-200033116"> COMMUNAUTE DE COMMUNES CLUSES ARVE ET MONTAGNES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV60130000 - **Services spécialisés de transport routier de passagers** <br/>
 Transport <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-378493555"> Mont Blanc Bus</a>    591 promenade Marie Paradis 74400 Chamonix-Mont-Blanc <br/>
+<a href="/entreprise-551/siren-378493555"> Mont Blanc Bus</a>    591 promenade Marie Paradis 74400 Chamonix-Mont-Blanc <br/>

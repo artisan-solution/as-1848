@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243400520"> COMMUNAUTE DE COMMUNES DU PAYS DE LUNEL</a><br/>
+<a href="/acheteur-137/siren-243400520"> COMMUNAUTE DE COMMUNES DU PAYS DE LUNEL</a><br/>
 
 
 
@@ -31,8 +31,8 @@ Lunel - Département 34 - Hérault
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV50700000 - **Services de réparation et d'entretien d'installations de bâtiments** <br/>
 CPV50711000 - **Services de réparation et d'entretien d'installations électriques de bâtiment** <br/>
+CPV50700000 - **Services de réparation et d'entretien d'installations de bâtiments** <br/>
 
 ##### Descripteurs :
 Abris <br/>
@@ -40,6 +40,6 @@ Maintenance <br/>
 
 ### Attribution du Marché :
 MTM EUROGEM Agence de Montpellier - 503 Rue due Roucagnier 34400 LUNEL VIEL <br/>
-<a href="/entreprise-263/siren-479737926"> ENERGYS SAS</a>    Campus du Golf Bâtiment 11 8 Rue des Vergers 34130 MUDAISON <br/>
+<a href="/entreprise-564/siren-479737926"> ENERGYS SAS</a>    Campus du Golf Bâtiment 11 8 Rue des Vergers 34130 MUDAISON <br/>
 MTM EUROGEM Agence de Montpellier - 503 Rue du Roucagnier 34400 LUNEL VIEL <br/>
-ENGIE COFELY Engie Energie Services Agence Languedoc-Rousillon - 201 Rue Euclide Parc Eureka CS 49531 34960 MONTPELLIER CEDEX 2 <br/>
+<a href="/entreprise-572/siren-552046955"> ENGIE COFELY Engie Energie Services Agence Languedoc-Rousillon</a>    201 Rue Euclide Parc Eureka CS 49531 34960 MONTPELLIER CEDEX 2 <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-224500017"> DEPARTEMENT DU LOIRET</a><br/>
+<a href="/acheteur-137/siren-224500017"> DEPARTEMENT DU LOIRET</a><br/>
 
 
 
@@ -31,11 +31,11 @@ ORLEANS - Département 45 - Loiret
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV71300000 - **Services d'ingénierie** <br/>
 CPV79311000 - **Services d'études** <br/>
+CPV71300000 - **Services d'ingénierie** <br/>
 
 ##### Descripteurs :
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-444532915"> Sce</a>    4 rue Viviani 44200 Nantes <br/>
+<a href="/entreprise-562/siren-444532915"> Sce</a>    4 rue Viviani 44200 Nantes <br/>

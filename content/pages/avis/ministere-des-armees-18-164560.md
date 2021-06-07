@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV50710000 - **Services de réparation et d'entretien d'installations électriq
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-308250570"> ELECTRICITE INDUSTRIELLE JP FAUCHE</a>    1 Montée de Saint-Ménet Espace Valentine Bât A 13011 MARSEILLE <br/>
+<a href="/entreprise-544/siren-308250570"> ELECTRICITE INDUSTRIELLE JP FAUCHE</a>    1 Montée de Saint-Ménet Espace Valentine Bât A 13011 MARSEILLE <br/>

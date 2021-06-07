@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219300076"> COMMUNE DE BLANC MESNIL</a><br/>
+<a href="/acheteur-136/siren-219300076"> COMMUNE DE BLANC MESNIL</a><br/>
 
 Monsieur le Maire, Maire du Blanc Mesnil
 
@@ -37,4 +37,4 @@ CPV45454100 - **Travaux de réfection** <br/>
 Equipements spécialisés <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-537508814"> TECH AUDIO</a>    46 rue Duhesme 75018 Paris <br/>
+<a href="/entreprise-572/siren-537508814"> TECH AUDIO</a>    46 rue Duhesme 75018 Paris <br/>

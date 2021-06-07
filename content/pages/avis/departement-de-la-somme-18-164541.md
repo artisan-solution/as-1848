@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-228000014"> DEPARTEMENT DE LA SOMME</a><br/>
+<a href="/acheteur-137/siren-228000014"> DEPARTEMENT DE LA SOMME</a><br/>
 
 Mme Gallois Nadège, Département de la Somme
 
@@ -31,12 +31,12 @@ Daours - Département 80 - Somme
 26/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV71336000 - **Services d'assistance dans le domaine de l'ingénierie** <br/>
 CPV71300000 - **Services d'ingénierie** <br/>
+CPV71336000 - **Services d'assistance dans le domaine de l'ingénierie** <br/>
 
 ##### Descripteurs :
 Etude <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-439115205"> SARL CARICAIE</a>    68, RUE DE L'AQUEDUC 75010 PARIS <br/>
+<a href="/entreprise-561/siren-439115205"> SARL CARICAIE</a>    68, RUE DE L'AQUEDUC 75010 PARIS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-246800254"> SIVOM DE L'AGGLOMERATION MULHOUSIENNE</a><br/>
+<a href="/acheteur-137/siren-246800254"> SIVOM DE L'AGGLOMERATION MULHOUSIENNE</a><br/>
 
 
 
@@ -39,4 +39,4 @@ Ordures ménagères (prestations) <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-343403531"> COVED SAS</a>    Zone Industrielle - Rue d'Ensisheim 68190 UNGERSHEIM <br/>
+<a href="/entreprise-549/siren-343403531"> COVED SAS</a>    Zone Industrielle - Rue d'Ensisheim 68190 UNGERSHEIM <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-228300018"> DEPARTEMENT DU VAR</a><br/>
+<a href="/acheteur-137/siren-228300018"> DEPARTEMENT DU VAR</a><br/>
 
 
 
@@ -32,8 +32,8 @@ TOULON - Département 83 - Var
 
 ##### Codes CPV concerné(s) :
 CPV45340000 - **Travaux d'installation de clôtures, de garde-corps et de dispositifs de sécurité** <br/>
-CPV45233200 - **Travaux de revêtement divers** <br/>
 CPV45260000 - **Travaux de couverture et travaux d'autres corps de métier spécialisés** <br/>
+CPV45233200 - **Travaux de revêtement divers** <br/>
 
 ##### Descripteurs :
 Abris <br/>
@@ -42,4 +42,4 @@ Maçonnerie <br/>
 Terrasse <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-812572147"> Ceb</a>    zone artisanale 04700 Oraison <br/>
+<a href="/entreprise-578/siren-812572147"> Ceb</a>    zone artisanale 04700 Oraison <br/>

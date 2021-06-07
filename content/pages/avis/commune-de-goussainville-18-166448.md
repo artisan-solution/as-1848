@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219502804"> COMMUNE DE GOUSSAINVILLE</a><br/>
+<a href="/acheteur-136/siren-219502804"> COMMUNE DE GOUSSAINVILLE</a><br/>
 
 
 
@@ -31,11 +31,11 @@ GOUSSAINVILLE - Département 95 - Val-d'oise
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV45255500 - **Travaux de forage et d'exploration** <br/>
 CPV41110000 - **Eau potable** <br/>
+CPV45255500 - **Travaux de forage et d'exploration** <br/>
 
 ##### Descripteurs :
 Forage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-308598861"> Forages Masse</a>    Herisson 17380 Chantemerle-sur-la-Soie <br/>
+<a href="/entreprise-544/siren-308598861"> Forages Masse</a>    Herisson 17380 Chantemerle-sur-la-Soie <br/>

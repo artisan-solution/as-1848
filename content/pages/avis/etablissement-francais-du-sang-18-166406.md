@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-428822852"> ETABLISSEMENT FRANCAIS DU SANG</a><br/>
+<a href="/acheteur-139/siren-428822852"> ETABLISSEMENT FRANCAIS DU SANG</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Transport <br/>
 ### Attribution du Marché :
 Autocars Ambrosini - Résidence Pauline Bonaparte Route d'Atala 20090 Ajaccio <br/>
 Transports Vinard - Penta Corvese 20230 Canale di verde <br/>
-<a href="/entreprise-260/siren-423806264"> Bio Service Logistique</a>    93, boulevard de la Valbarelle 13011 Marseille <br/>
+<a href="/entreprise-559/siren-423806264"> BIO SERVICE LOGISTIQUE</a>    93, boulevard de la Valbarelle 13011 Marseille <br/>
 France Colis Santé - Allée des arts graphiques 06700 Saint Laurent du Var <br/>

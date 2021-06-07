@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-285900015"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
+<a href="/acheteur-139/siren-285900015"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
 
 
 
@@ -31,13 +31,13 @@ LILLE - Département 59 - Nord
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV37412240 - **Instruments ou accessoires de plongée** <br/>
 CPV50000000 - **Services de réparation et d'entretien** <br/>
+CPV37412240 - **Instruments ou accessoires de plongée** <br/>
 
 ##### Descripteurs :
 Matériel de sécurité <br/>
 
 ### Attribution du Marché :
 SARL AQUAMANIA VADE RETRO/TOPSTAR - 6 rue de la Maison Blanche 33380 Marcheprime <br/>
-<a href="/entreprise-257/siren-377894290"> SARL AIR PUR INDUSTRIES</a>    10 rue Edouard Belin 25400 Exincourt <br/>
-<a href="/entreprise-266/siren-523700938"> DIVEBOUTIK</a>    2 rue du Fort - CRT3 Lesquin 59273 Fretin <br/>
+<a href="/entreprise-551/siren-377894290"> SARL AIR PUR INDUSTRIES</a>    10 rue Edouard Belin 25400 Exincourt <br/>
+<a href="/entreprise-570/siren-523700938"> DIVEBOUTIK</a>    2 rue du Fort - CRT3 Lesquin 59273 Fretin <br/>

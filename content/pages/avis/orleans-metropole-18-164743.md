@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-244500468"> ORLEANS METROPOLE</a><br/>
+<a href="/acheteur-137/siren-244500468"> ORLEANS METROPOLE</a><br/>
 
 Le President
 
@@ -31,13 +31,13 @@ ORLEANS - Département 45 - Loiret
 26/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV79311000 - **Services d'études** <br/>
-CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
-CPV66171000 - **Services de conseils financiers** <br/>
 CPV79111000 - **Services de conseil juridique** <br/>
+CPV66171000 - **Services de conseils financiers** <br/>
+CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
+CPV79311000 - **Services d'études** <br/>
 
 ##### Descripteurs :
 Assistance à maîtrise d'ouvrage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-535191506"> Atelier PréAU</a>    19 bd Victor Hugo 44200 Nantes <br/>
+<a href="/entreprise-572/siren-535191506"> Atelier PréAU</a>    19 bd Victor Hugo 44200 Nantes <br/>

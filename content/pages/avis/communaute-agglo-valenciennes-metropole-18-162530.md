@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-245901160"> COMMUNAUTE AGGLO VALENCIENNES METROPOLE</a><br/>
+<a href="/acheteur-137/siren-245901160"> COMMUNAUTE AGGLO VALENCIENNES METROPOLE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV22213000 - **Magazines** <br/>
 Impression <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-354200438"> Imprimerie Léonce Deprez</a>    ZI - 130 Rue de Houchain 62620 RUITZ <br/>
+<a href="/entreprise-551/siren-354200438"> Imprimerie Léonce Deprez</a>    ZI - 130 Rue de Houchain 62620 RUITZ <br/>

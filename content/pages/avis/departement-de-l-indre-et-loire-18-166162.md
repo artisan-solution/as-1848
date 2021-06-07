@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-223700014"> DEPARTEMENT DE L'INDRE ET LOIRE</a><br/>
+<a href="/acheteur-137/siren-223700014"> DEPARTEMENT DE L'INDRE ET LOIRE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV50750000 - **Services d'entretien d'ascenseurs** <br/>
 Ascenseur <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-542107800"> Otis</a>    7-9 Avenue Du Danemark 37074 Tours Cedex 2 <br/>
+<a href="/entreprise-572/siren-542107800"> Otis</a>    7-9 Avenue Du Danemark 37074 Tours Cedex 2 <br/>

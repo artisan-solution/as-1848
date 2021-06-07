@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200067213"> COMMUNAUTE URBAINE DU GRAND REIMS</a><br/>
+<a href="/acheteur-133/siren-200067213"> COMMUNAUTE URBAINE DU GRAND REIMS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
 Etude <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-383012564"> sas verdi picardie</a>    9 rue Hippolyte devaux 80300 albert <br/>
+<a href="/entreprise-552/siren-383012564"> sas verdi picardie</a>    9 rue Hippolyte devaux 80300 albert <br/>

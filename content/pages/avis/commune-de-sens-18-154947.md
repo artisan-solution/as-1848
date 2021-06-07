@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218903870"> COMMUNE DE SENS</a><br/>
+<a href="/acheteur-136/siren-218903870"> COMMUNE DE SENS</a><br/>
 
 Ville de Sens
 
@@ -37,4 +37,4 @@ CPV79711000 - **Services de surveillance d'installations d'alarme** <br/>
 Télésurveillance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-483333563"> PACK SECURITE</a>    2 chemin des Ruelles 89380 APPOIGNY <br/>
+<a href="/entreprise-565/siren-483333563"> PACK SECURITE</a>    2 chemin des Ruelles 89380 APPOIGNY <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215906066"> COMMUNE DE VALENCIENNES</a><br/>
+<a href="/acheteur-135/siren-215906066"> COMMUNE DE VALENCIENNES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV34927100 - **Sel de déneigement** <br/>
 Sel de déneigement <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-424731750"> ROCK SAS</a>    11 rue gustave hirn- BP 1258 68055 MULHOUSE CEDEX <br/>
+<a href="/entreprise-559/siren-424731750"> ROCK SAS</a>    11 rue gustave hirn- BP 1258 68055 MULHOUSE CEDEX <br/>

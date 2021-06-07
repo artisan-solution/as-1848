@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213801855"> COMMUNE DE GRENOBLE</a><br/>
+<a href="/acheteur-134/siren-213801855"> COMMUNE DE GRENOBLE</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV90910000 - **Services de nettoyage** <br/>
 Nettoyage de locaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-398372615"> Stem Propreté</a>    3, rue de l'Europe 38640 Claix <br/>
-Europe Services Proprete (E S P) - 296 Rue De Le Bealiere 38113 Veurey Voroize <br/>
+<a href="/entreprise-555/siren-398372615"> Stem Propreté</a>    3, rue de l'Europe 38640 Claix <br/>
+<a href="/entreprise-559/siren-423888932"> Europe Services Proprete (E S P)</a>    296 Rue De Le Bealiere 38113 Veurey Voroize <br/>

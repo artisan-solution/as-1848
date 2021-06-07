@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-260600705"> CENTRE HOSPITALIER REGIONAL</a><br/>
+<a href="/acheteur-138/siren-260600705"> CENTRE HOSPITALIER REGIONAL</a><br/>
 
 
 
@@ -32,8 +32,8 @@ NICE - Département 06 - Alpes-Maritimes
 ##### Codes CPV concerné(s) :
 CPV33125000 - **Matériel pour exploration urologique** <br/>
 CPV33141000 - **Consommables médicaux autres que chimiques à usage unique et consommables hématologiques** <br/>
-CPV33141220 - **Canules** <br/>
 CPV33141200 - **Cathéters** <br/>
+CPV33141220 - **Canules** <br/>
 
 ##### Descripteurs :
 Produits pharmaceutiques <br/>

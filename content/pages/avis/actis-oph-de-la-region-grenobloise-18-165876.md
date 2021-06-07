@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-348579095"> ACTIS OPH DE LA REGION GRENOBLOISE</a><br/>
+<a href="/acheteur-139/siren-348579095"> ACTIS OPH DE LA REGION GRENOBLOISE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV66510000 - **Services d'assurance** <br/>
 Assurance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-321502049"> verspieren</a>    8 avenue du Stade de France 93218 LA PLAINE SAINT DENIS <br/>
+<a href="/entreprise-546/siren-321502049"> verspieren</a>    8 avenue du Stade de France 93218 LA PLAINE SAINT DENIS <br/>

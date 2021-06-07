@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-285900015"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
+<a href="/acheteur-139/siren-285900015"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
 
 
 
@@ -31,8 +31,8 @@ LILLE - Département 59 - Nord
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV09132100 - **Essence sans plomb** <br/>
 CPV09134200 - **Carburant diesel** <br/>
+CPV09132100 - **Essence sans plomb** <br/>
 CPV30163100 - **Cartes pour l'achat de carburant** <br/>
 
 ##### Descripteurs :
@@ -40,4 +40,4 @@ Carburant, hydrocarbure <br/>
 
 ### Attribution du Marché :
 Société des pétroles Shell - 307, rue d'Estienne d'Orves 92708 Colombes <br/>
-<a href="/entreprise-267/siren-531680445"> Total Marketing France</a>    Immeuble Spazio - 562, avenue du Parc de l'Ile 92000 Nanterre <br/>
+<a href="/entreprise-571/siren-531680445"> Total Marketing France</a>    Immeuble Spazio - 562, avenue du Parc de l'Ile 92000 Nanterre <br/>

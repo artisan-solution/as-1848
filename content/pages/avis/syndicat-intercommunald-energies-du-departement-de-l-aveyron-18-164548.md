@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200052090"> SYNDICAT INTERCOMMUNALD'ENERGIES DU DEPARTEMENT DE L'AVEYRON</a><br/>
+<a href="/acheteur-133/siren-200052090"> SYNDICAT INTERCOMMUNALD'ENERGIES DU DEPARTEMENT DE L'AVEYRON</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Electricité (travaux) <br/>
 Délégation de service public <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-444608442"> ENEDIS</a>    34 PLACE DES COROLLES 92079 PARIS LA DEFENSE <br/>
-<a href="/entreprise-267/siren-552081317"> EDF</a>    22-30 AVENUE DE WAGRAM 75008 PARIS <br/>
+<a href="/entreprise-562/siren-444608442"> ENEDIS</a>    34 PLACE DES COROLLES 92079 PARIS LA DEFENSE <br/>
+<a href="/entreprise-572/siren-552081317"> EDF</a>    22-30 AVENUE DE WAGRAM 75008 PARIS <br/>

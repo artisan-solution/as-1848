@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-552032708"> REGIE IMMOBILIERE DE LA VILLE DE PARIS</a><br/>
+<a href="/acheteur-139/siren-552032708"> REGIE IMMOBILIERE DE LA VILLE DE PARIS</a><br/>
 
 
 
@@ -31,14 +31,14 @@ Paris - Département 75 - Paris
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV45200000 - **Travaux de construction complète ou partielle et travaux de génie civil** <br/>
 CPV45112700 - **Travaux d'aménagement paysager** <br/>
 CPV45421151 - **Installation de cuisines équipées** <br/>
+CPV45200000 - **Travaux de construction complète ou partielle et travaux de génie civil** <br/>
 
 ##### Descripteurs :
 Bâtiment <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-314490293"> Le Froid Bornet</a>    63 rue de Bicêtre 94240 L'Hay les Roses <br/>
-<a href="/entreprise-265/siren-503980682"> Amt</a>    14-16 Voie de Montavas 91320 Wissous <br/>
-<a href="/entreprise-255/siren-327643235"> Universal Paysage</a>    8 rue Philippe Lebon 77500 Chelles <br/>
+<a href="/entreprise-545/siren-314490293"> Le Froid Bornet</a>    63 rue de Bicêtre 94240 L'Hay les Roses <br/>
+<a href="/entreprise-568/siren-503980682"> Amt</a>    14-16 Voie de Montavas 91320 Wissous <br/>
+<a href="/entreprise-547/siren-327643235"> Universal Paysage</a>    8 rue Philippe Lebon 77500 Chelles <br/>

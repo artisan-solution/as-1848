@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-287410203"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
+<a href="/acheteur-139/siren-287410203"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Maintenance <br/>
 Porte automatique, portail <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-537902827"> FRANCE FERMETURES SODEX</a>    100 Chemin de Près Bouvaux - Seynod 74600 ANNECY <br/>
+<a href="/entreprise-572/siren-537902827"> FRANCE FERMETURES SODEX</a>    100 Chemin de Près Bouvaux - Seynod 74600 ANNECY <br/>

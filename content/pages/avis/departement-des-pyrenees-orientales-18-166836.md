@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-226600013"> DEPARTEMENT DES PYRENEES-ORIENTALES</a><br/>
+<a href="/acheteur-137/siren-226600013"> DEPARTEMENT DES PYRENEES-ORIENTALES</a><br/>
 
 Mme MALHERBE Hermeline, Madame la Présidente du Département
 
@@ -31,11 +31,11 @@ PERPIGNAN - Département 66 - Pyrénées-Orientales
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV45252125 - **Travaux d'enrochement** <br/>
 CPV45112500 - **Travaux de terrassement** <br/>
+CPV45252125 - **Travaux d'enrochement** <br/>
 
 ##### Descripteurs :
 Equipement hydraulique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-393061767"> TDA</a>    Chemin de la Carrerasse 66700 Argelès-sur-Mer <br/>
+<a href="/entreprise-554/siren-393061767"> TDA</a>    Chemin de la Carrerasse 66700 Argelès-sur-Mer <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300553"> COMMUNE DE MARSEILLE</a><br/>
+<a href="/acheteur-134/siren-211300553"> COMMUNE DE MARSEILLE</a><br/>
 
 
 
@@ -31,10 +31,10 @@ MARSEILLE - Département 13 - Bouches-du-Rhône
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV30120000 - **Photocopieurs et matériel d'impression offset** <br/>
-CPV33180000 - **Assistance fonctionnelle** <br/>
 CPV71356200 - **Services d'assistance technique** <br/>
+CPV33180000 - **Assistance fonctionnelle** <br/>
 CPV30121100 - **Photocopieurs** <br/>
+CPV30120000 - **Photocopieurs et matériel d'impression offset** <br/>
 
 ##### Descripteurs :
 Assistance technique <br/>

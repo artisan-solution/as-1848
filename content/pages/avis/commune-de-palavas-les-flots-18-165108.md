@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213401920"> COMMUNE DE PALAVAS-LES-FLOTS</a><br/>
+<a href="/acheteur-134/siren-213401920"> COMMUNE DE PALAVAS-LES-FLOTS</a><br/>
 
 JEANJEAN Christian, Maire
 
@@ -38,4 +38,4 @@ CPV51121000 - **Services d'installation de matériel de culture physique (fitnes
 Equipement sportif <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-490938230"> Protec Sport</a>    7 impasse Gutenberg 38110 Rochetoirin <br/>
+<a href="/entreprise-566/siren-490938230"> Protec Sport</a>    7 impasse Gutenberg 38110 Rochetoirin <br/>

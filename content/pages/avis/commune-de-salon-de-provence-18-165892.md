@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211301031"> COMMUNE DE SALON DE PROVENCE</a><br/>
+<a href="/acheteur-134/siren-211301031"> COMMUNE DE SALON DE PROVENCE</a><br/>
 
 
 
@@ -32,13 +32,13 @@ SALON DE PROVENCE - Département 13 - Bouches-du-Rhône
 
 ##### Codes CPV concerné(s) :
 CPV64210000 - **Services de téléphonie et de transmission de données** <br/>
-CPV64212000 - **Services de téléphonie mobile** <br/>
-CPV72400000 - **Services internet** <br/>
 CPV64200000 - **Services de télécommunications** <br/>
+CPV72400000 - **Services internet** <br/>
+CPV64212000 - **Services de téléphonie mobile** <br/>
 
 ##### Descripteurs :
 Télécommunications <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-397480930"> BOUYGUES TELECOM</a>    13-15 avenue du Maréchal Juin rue Henry Farman 92360 MEUDON LA FORET <br/>
+<a href="/entreprise-554/siren-397480930"> BOUYGUES TELECOM</a>    13-15 avenue du Maréchal Juin rue Henry Farman 92360 MEUDON LA FORET <br/>
 ORANGE-AGENCE ENTREPRISES RHONE MEDITERRANEE - L'ensoleillée Bât. D 305 rue Maurice Aicardi-Lejard CS 8050 13098 AIX EN PROVENCE CEDEX 2 <br/>

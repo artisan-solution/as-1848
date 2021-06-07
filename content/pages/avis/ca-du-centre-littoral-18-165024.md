@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-249730045"> CA DU CENTRE LITTORAL</a><br/>
+<a href="/acheteur-137/siren-249730045"> CA DU CENTRE LITTORAL</a><br/>
 
 Marie-Laure PHINERA-HORTH
 
@@ -37,4 +37,4 @@ CPV44161200 - **Canalisations d'eau** <br/>
 Ouvrage hydraulique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-418273934"> EIFFAGE METAL GUYANE</a>    PK1 ROUTE DE DEGRAD DES CANNES 97300 CAYENNE <br/>
+<a href="/entreprise-558/siren-418273934"> EIFFAGE METAL GUYANE</a>    PK1 ROUTE DE DEGRAD DES CANNES 97300 CAYENNE <br/>

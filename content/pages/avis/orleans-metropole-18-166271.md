@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-244500468"> ORLEANS METROPOLE</a><br/>
+<a href="/acheteur-137/siren-244500468"> ORLEANS METROPOLE</a><br/>
 
 
 
@@ -31,13 +31,13 @@ ORLEANS - Département 45 - Loiret
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV90910000 - **Services de nettoyage** <br/>
-CPV90911200 - **Services de nettoyage de bâtiments** <br/>
 CPV90911000 - **Services de nettoyage de logements, de bâtiments et de vitres** <br/>
+CPV90911200 - **Services de nettoyage de bâtiments** <br/>
+CPV90910000 - **Services de nettoyage** <br/>
 
 ##### Descripteurs :
 Nettoyage de locaux <br/>
 Nettoyage urbain <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-265/siren-505132225"> Tv Net</a>    19 rue paul cezanne 95420 Magny-en-Vexin <br/>
+<a href="/entreprise-568/siren-505132225"> Tv Net</a>    19 rue paul cezanne 95420 Magny-en-Vexin <br/>

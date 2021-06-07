@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219502770"> COMMUNE DE GONESSE</a><br/>
+<a href="/acheteur-136/siren-219502770"> COMMUNE DE GONESSE</a><br/>
 
 BLAZY Jean-Pierre, Maire
 

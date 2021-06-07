@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219300555"> COMMUNE DE PANTIN</a><br/>
+<a href="/acheteur-136/siren-219300555"> COMMUNE DE PANTIN</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV45261900 - **Réparation et entretien de toiture** <br/>
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-539049502"> COBAT</a>    17, Rue de la Briqueterie - Z.A La Tuilerie 77500 CHELLES <br/>
+<a href="/entreprise-572/siren-539049502"> COBAT</a>    17, Rue de la Briqueterie - Z.A La Tuilerie 77500 CHELLES <br/>

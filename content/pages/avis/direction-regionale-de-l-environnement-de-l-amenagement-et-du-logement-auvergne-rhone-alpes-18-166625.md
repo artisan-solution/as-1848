@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130006729"> DIRECTION REGIONALE DE L'ENVIRONNEMENT DE L'AMENAGEMENT ET DU LOGEMENT AUVERGNE-RHONE-ALPES</a><br/>
+<a href="/acheteur-131/siren-130006729"> DIRECTION REGIONALE DE L'ENVIRONNEMENT DE L'AMENAGEMENT ET DU LOGEMENT AUVERGNE-RHONE-ALPES</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Prestations de services <br/>
 ### Attribution du Marché :
 TEKHNÊ Architectes et Urbanistes SARL - 43 rue des Hérideaux 69008 LYON <br/>
 BIG BANG SARL - 114 Grande rue de la Guillotiere 69007 LYON <br/>
-<a href="/entreprise-268/siren-722013174"> SETEC INTERNATIONAL SAS</a>    5 CHEMIN DES GORGES DE CABRIES 13127 VITROLLES <br/>
+<a href="/entreprise-573/siren-722013174"> SETEC INTERNATIONAL SAS</a>    5 CHEMIN DES GORGES DE CABRIES 13127 VITROLLES <br/>

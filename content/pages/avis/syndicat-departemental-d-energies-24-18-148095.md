@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-252401476"> SYNDICAT DEPARTEMENTAL D'ENERGIES 24</a><br/>
+<a href="/acheteur-137/siren-252401476"> SYNDICAT DEPARTEMENTAL D'ENERGIES 24</a><br/>
 
 
 
@@ -31,10 +31,10 @@ Périgueux - Département 24 - Dordogne
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV34928530 - **Lampes d'éclairage public** <br/>
 CPV34928500 - **Équipement d'éclairage public** <br/>
-CPV31600000 - **Matériel électrique** <br/>
 CPV31500000 - **Appareils d'éclairage et lampes électriques** <br/>
+CPV31600000 - **Matériel électrique** <br/>
+CPV34928530 - **Lampes d'éclairage public** <br/>
 
 ##### Descripteurs :
 Eclairage public <br/>

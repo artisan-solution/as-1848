@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215104217"> COMMUNE DE REIMS</a><br/>
+<a href="/acheteur-135/siren-215104217"> COMMUNE DE REIMS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV79610000 - **Services de placement de personnel** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-271/siren-841943467"> ASSOCIATION REIMS ESPOIR</a>    9 rue Marie Dominique Maingot 51100 Reims <br/>
+<a href="/entreprise-581/siren-841943467"> ASSOCIATION REIMS ESPOIR</a>    9 rue Marie Dominique Maingot 51100 Reims <br/>

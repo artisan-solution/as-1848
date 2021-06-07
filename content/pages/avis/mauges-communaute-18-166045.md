@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200060010"> MAUGES COMMUNAUTE</a><br/>
+<a href="/acheteur-133/siren-200060010"> MAUGES COMMUNAUTE</a><br/>
 
 
 
@@ -38,6 +38,6 @@ Prestations de services <br/>
 Transport <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-315577395"> VOYAGES BESSON</a>    21 rue Nationale 49690 Coron <br/>
-<a href="/entreprise-253/siren-069200616"> Augereau autocars</a>    26 rue d'Anjou - Le Longeron 49710 Sèvremoine <br/>
-<a href="/entreprise-254/siren-320889835"> VOYAGES CORDIER</a>    6 rue des Portières 49180 St-Barthélémy d'Anjou <br/>
+<a href="/entreprise-545/siren-315577395"> VOYAGES BESSON</a>    21 rue Nationale 49690 Coron <br/>
+<a href="/entreprise-543/siren-069200616"> Augereau autocars</a>    26 rue d'Anjou - Le Longeron 49710 Sèvremoine <br/>
+<a href="/entreprise-546/siren-320889835"> VOYAGES CORDIER</a>    6 rue des Portières 49180 St-Barthélémy d'Anjou <br/>

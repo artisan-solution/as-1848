@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-221800014"> DEPARTEMENT DU CHER</a><br/>
+<a href="/acheteur-137/siren-221800014"> DEPARTEMENT DU CHER</a><br/>
 
 AUTISSIER Michel, Président
 
@@ -39,7 +39,7 @@ Menuiserie <br/>
 Serrurerie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-344415898"> EGCRI</a>    Chemin de Vouzay 18000 BOURGES <br/>
+<a href="/entreprise-549/siren-344415898"> EGCRI</a>    Chemin de Vouzay 18000 BOURGES <br/>
 ALVES GUIHARD - ZI 18570 LA CHAPELLE SAINT URSIN <br/>
-<a href="/entreprise-268/siren-753575760"> ALVES METALLERIE</a>    ZI 18570 LA CHAPELLE SAINT URSIN <br/>
+<a href="/entreprise-574/siren-753575760"> ALVES METALLERIE</a>    ZI 18570 LA CHAPELLE SAINT URSIN <br/>
 SIGURET - Rue Lamartine 18390 SAINT GERMAIN DU PUY <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200069250"> CA TROYES CHAMPAGNE METROPOLE</a><br/>
+<a href="/acheteur-133/siren-200069250"> CA TROYES CHAMPAGNE METROPOLE</a><br/>
 
 
 
@@ -37,6 +37,6 @@ CPV79980000 - **Services d'abonnement** <br/>
 Abonnement <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-432327286"> Learnorama</a>    91, rue du Faubourg Saint Honoré 75008 Paris <br/>
+<a href="/entreprise-560/siren-432327286"> Learnorama</a>    91, rue du Faubourg Saint Honoré 75008 Paris <br/>
 Le kiosque - 10, rue de la pépinière 75008 Paris <br/>
-<a href="/entreprise-261/siren-438275331"> Cyberlibris</a>    6, place de la Madeleine 75008 Paris <br/>
+<a href="/entreprise-560/siren-438275331"> Cyberlibris</a>    6, place de la Madeleine 75008 Paris <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-222200016"> DEPARTEMENT DES COTES D'ARMOR</a><br/>
+<a href="/acheteur-137/siren-222200016"> DEPARTEMENT DES COTES D'ARMOR</a><br/>
 
 
 
@@ -38,5 +38,5 @@ CPV45221112 - **Travaux de construction de ponts de chemin de fer** <br/>
 Ouvrage d'art <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-265/siren-509295838"> BIDAULT</a>     22440 PLOUFRAGAN <br/>
-<a href="/entreprise-253/siren-308051168"> ROUSSEL BTP</a>     22510 MONCONTOUR <br/>
+<a href="/entreprise-569/siren-509295838"> BIDAULT</a>     22440 PLOUFRAGAN <br/>
+<a href="/entreprise-544/siren-308051168"> ROUSSEL BTP</a>     22510 MONCONTOUR <br/>

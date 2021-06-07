@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-221100019"> DEPARTEMENT DE L AUDE</a><br/>
+<a href="/acheteur-137/siren-221100019"> DEPARTEMENT DE L AUDE</a><br/>
 
 Monsieur le Président du Conseil Départemental de l'Aude
 
@@ -30,9 +30,9 @@ CARCASSONNE - Département 11 - Aude
 26/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV44112200 - **Revêtements de sol** <br/>
-CPV45233200 - **Travaux de revêtement divers** <br/>
 CPV45261100 - **Travaux de charpente** <br/>
+CPV45233200 - **Travaux de revêtement divers** <br/>
+CPV44112200 - **Revêtements de sol** <br/>
 
 ##### Descripteurs :
 Amiante (désamiantage) <br/>

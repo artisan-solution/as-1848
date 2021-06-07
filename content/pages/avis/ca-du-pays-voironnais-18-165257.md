@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243800984"> CA DU PAYS VOIRONNAIS</a><br/>
+<a href="/acheteur-137/siren-243800984"> CA DU PAYS VOIRONNAIS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV92312211 - **Services d'agences de rédaction** <br/>
 Publicité, Communication <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-339089617"> New Deal</a>    19 rue rené thomas 38000 Grenoble <br/>
+<a href="/entreprise-548/siren-339089617"> New Deal</a>    19 rue rené thomas 38000 Grenoble <br/>

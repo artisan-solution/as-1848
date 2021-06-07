@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300470"> COMMUNE D ISTRES</a><br/>
+<a href="/acheteur-134/siren-211300470"> COMMUNE D ISTRES</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV79998000 - **Services d'accompagnement professionnel** <br/>
 Formation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-390589133"> Ecf Sud Prevention Securite</a>    19 rue H ,A Mauras 13016 Marseille <br/>
+<a href="/entreprise-553/siren-390589133"> Ecf Sud Prevention Securite</a>    19 rue H ,A Mauras 13016 Marseille <br/>
 <a href=""> Abc Nimes Formation</a>    4 Rue Du 11 Novembre 1918 30000 Nîmes <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-287100010"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
+<a href="/acheteur-139/siren-287100010"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Serrurerie <br/>
 Porte automatique, portail <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-542107800"> PORTIS DIVISION D'OTIS</a>    14 rue ingénieur Bertin 21600 Longvic <br/>
+<a href="/entreprise-572/siren-542107800"> PORTIS DIVISION D'OTIS</a>    14 rue ingénieur Bertin 21600 Longvic <br/>

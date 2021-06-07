@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200068989"> CA DINAN AGGLOMERATION</a><br/>
+<a href="/acheteur-133/siren-200068989"> CA DINAN AGGLOMERATION</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV55321000 - **Services de préparation de repas** <br/>
 Denrées alimentaires <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-334159472"> ANSAMBLE</a>    ALL Gabriel Lippmann 56000 VANNES <br/>
+<a href="/entreprise-548/siren-334159472"> ANSAMBLE</a>    ALL Gabriel Lippmann 56000 VANNES <br/>

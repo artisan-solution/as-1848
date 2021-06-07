@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215904103"> COMMUNE DE MONS EN BAROEUL</a><br/>
+<a href="/acheteur-135/siren-215904103"> COMMUNE DE MONS EN BAROEUL</a><br/>
 
 
 
@@ -31,18 +31,18 @@ Mons en baroeul - Département 59 - Nord
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV66513000 - **Services d'assurance défense et recours et service d'assurance tous risques chantier** <br/>
-CPV66512000 - **Services d'assurances accidents et maladie** <br/>
 CPV66515000 - **Services d'assurance dommages ou pertes** <br/>
-CPV66514110 - **Services d'assurance de véhicules à moteur** <br/>
 CPV66516000 - **Services d'assurance responsabilité civile** <br/>
+CPV66512000 - **Services d'assurances accidents et maladie** <br/>
+CPV66514110 - **Services d'assurance de véhicules à moteur** <br/>
+CPV66513000 - **Services d'assurance défense et recours et service d'assurance tous risques chantier** <br/>
 
 ##### Descripteurs :
 Assurance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-775670466"> AREAS DOMMAGES</a>    47/49 rue de Miromesnil 75008 Paris <br/>
-<a href="/entreprise-255/siren-335171096"> SMACL ASSURANCES</a>    141 avenue Salvador Allende 79031 Niort cédex <br/>
-<a href="/entreprise-256/siren-341539815"> PARIS NORD ASSURANCES SERVICES</a>    159 rue du Faubourg Poissonnière 75009 Paris <br/>
+<a href="/entreprise-574/siren-775670466"> AREAS DOMMAGES</a>    47/49 rue de Miromesnil 75008 Paris <br/>
+<a href="/entreprise-548/siren-335171096"> SMACL ASSURANCES</a>    141 avenue Salvador Allende 79031 Niort cédex <br/>
+<a href="/entreprise-549/siren-341539815"> PARIS NORD ASSURANCES SERVICES</a>    159 rue du Faubourg Poissonnière 75009 Paris <br/>
 CRAMA DU NORD EST - GROUPAMA NORD EST - 2 rue Léon Patoux 51686 Reims cédex <br/>
-<a href="/entreprise-255/siren-335171096"> SMACL ASSURANCES</a>    141 avenue Salvador Allende 79031 Niort cédex 9 <br/>
+<a href="/entreprise-548/siren-335171096"> SMACL ASSURANCES</a>    141 avenue Salvador Allende 79031 Niort cédex 9 <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200042174"> LORIENT AGGLOMERATION</a><br/>
+<a href="/acheteur-133/siren-200042174"> LORIENT AGGLOMERATION</a><br/>
 
 M. METAIRIE Norbert, Président
 
@@ -38,4 +38,4 @@ CPV45331000 - **Travaux d'installation de matériel de chauffage, de ventilation
 Chauffage (matériel) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-272/siren-854800745"> Axima Concept</a>    165 rue de la Montagne du Salut 56600 Lanester <br/>
+<a href="/entreprise-581/siren-854800745"> Axima Concept</a>    165 rue de la Montagne du Salut 56600 Lanester <br/>

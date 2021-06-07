@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-263800302"> CENTRE HOSPITALIER REGIONAL DE GRENOBLE</a><br/>
+<a href="/acheteur-138/siren-263800302"> CENTRE HOSPITALIER REGIONAL DE GRENOBLE</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV72250000 - **Services de maintenance des systèmes et services d'assistance**
 Informatique (maintenance serveurs et réseaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-402120208"> AUTOMATIQUE ET INDUSTRIE</a>    145 rue Louis Barran 38430 SAINT JEAN DE MOIRANS <br/>
+<a href="/entreprise-555/siren-402120208"> AUTOMATIQUE ET INDUSTRIE</a>    145 rue Louis Barran 38430 SAINT JEAN DE MOIRANS <br/>

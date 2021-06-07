@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200067213"> COMMUNAUTE URBAINE DU GRAND REIMS</a><br/>
+<a href="/acheteur-133/siren-200067213"> COMMUNAUTE URBAINE DU GRAND REIMS</a><br/>
 
 Mme C3C Pôle Services Urbains Stéphanie BAHUCHET
 
@@ -37,6 +37,6 @@ Outillage <br/>
 Composteur <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-410553820"> QUADRIA</a>    Parc labory-baudan 68 rue blaise pascal 33127 Saint-jean-d'illac <br/>
-<a href="/entreprise-268/siren-778151944"> PLASTIC OMNIUM SYSTEMES URBAINS</a>    Bâtiment b 3 rue garibaldi 69800 Saint priest cedex <br/>
-<a href="/entreprise-255/siren-331035618"> ASSOCIATION EMERAUDE ID</a>    17 rue louis broglie 22307 Lannion cedex <br/>
+<a href="/entreprise-556/siren-410553820"> QUADRIA</a>    Parc labory-baudan 68 rue blaise pascal 33127 Saint-jean-d'illac <br/>
+<a href="/entreprise-575/siren-778151944"> PLASTIC OMNIUM SYSTEMES URBAINS</a>    Bâtiment b 3 rue garibaldi 69800 Saint priest cedex <br/>
+<a href="/entreprise-547/siren-331035618"> ASSOCIATION EMERAUDE ID</a>    17 rue louis broglie 22307 Lannion cedex <br/>

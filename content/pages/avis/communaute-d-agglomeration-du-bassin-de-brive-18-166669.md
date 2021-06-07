@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200043172"> COMMUNAUTE D'AGGLOMERATION DU BASSIN DE BRIVE</a><br/>
+<a href="/acheteur-133/siren-200043172"> COMMUNAUTE D'AGGLOMERATION DU BASSIN DE BRIVE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ Assainissement <br/>
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-675520241"> MIANE ET VINATIER</a>    ZI Beauregard - CS 60074 19102 BRIVE CEDEX <br/>
+<a href="/entreprise-573/siren-675520241"> MIANE ET VINATIER</a>    ZI Beauregard - CS 60074 19102 BRIVE CEDEX <br/>

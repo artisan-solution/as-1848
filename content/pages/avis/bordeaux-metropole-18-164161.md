@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243300316"> BORDEAUX METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243300316"> BORDEAUX METROPOLE</a><br/>
 
 
 
@@ -31,11 +31,11 @@ BORDEAUX - Département 33 - Gironde
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV72310000 - **Services de traitement de données** <br/>
 CPV72510000 - **Services de gestion relatifs à l'informatique** <br/>
+CPV72310000 - **Services de traitement de données** <br/>
 
 ##### Descripteurs :
 Assistance à maîtrise d'ouvrage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-524957537"> Pramana</a>      paris <br/>
+<a href="/entreprise-570/siren-524957537"> Pramana</a>      paris <br/>

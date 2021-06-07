@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213701956"> COMMUNE DE LA RICHE</a><br/>
+<a href="/acheteur-134/siren-213701956"> COMMUNE DE LA RICHE</a><br/>
 
 M. SCHWARTZ Wilfried, Maire
 
@@ -37,4 +37,4 @@ CPV34144431 - **Balayeuses aspiratrices** <br/>
 Véhicules (acquisition) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-312378870"> Eurovoirie</a>    40 avenue Eugène Gazeau 60300 Senlis <br/>
+<a href="/entreprise-545/siren-312378870"> Eurovoirie</a>    40 avenue Eugène Gazeau 60300 Senlis <br/>

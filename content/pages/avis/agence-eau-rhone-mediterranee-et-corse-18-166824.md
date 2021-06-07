@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-186901559"> AGENCE EAU RHONE MEDITERRANEE ET CORSE</a><br/>
+<a href="/acheteur-132/siren-186901559"> AGENCE EAU RHONE MEDITERRANEE ET CORSE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ Prestations de services <br/>
 Informatique (maintenance serveurs et réseaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-811934363"> NXO FRANCE</a>    PARC TECHNOLAND-ZI CHAMP DOLIN 2 ALLEE DES ABRUZZES 69800 Saint Priest <br/>
+<a href="/entreprise-578/siren-811934363"> NXO FRANCE</a>    PARC TECHNOLAND-ZI CHAMP DOLIN 2 ALLEE DES ABRUZZES 69800 Saint Priest <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243400488"> COMMUNAUTE DE COMMUNES LA DOMITIENNE</a><br/>
+<a href="/acheteur-137/siren-243400488"> COMMUNAUTE DE COMMUNES LA DOMITIENNE</a><br/>
 
 
 
@@ -37,5 +37,5 @@ Benne <br/>
 Véhicules (acquisition) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-318102027"> Mecalour GIE</a>      Béziers <br/>
-<a href="/entreprise-268/siren-775573009"> Faun Environnement</a>      Guilherand Granges <br/>
+<a href="/entreprise-546/siren-318102027"> Mecalour GIE</a>      Béziers <br/>
+<a href="/entreprise-574/siren-775573009"> Faun Environnement</a>      Guilherand Granges <br/>

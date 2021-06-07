@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211401187"> COMMUNE DE CAEN</a><br/>
+<a href="/acheteur-134/siren-211401187"> COMMUNE DE CAEN</a><br/>
 
 Service passation des contrats
 
@@ -38,5 +38,5 @@ Bâtiment <br/>
 Démolition <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-490043098"> AUVISYS</a>    23 RUE DENIS PAPIN 14840 DEMOUVILLE <br/>
+<a href="/entreprise-566/siren-490043098"> AUVISYS</a>    23 RUE DENIS PAPIN 14840 DEMOUVILLE <br/>
 SARL MESIRARD CHAUDRONNERIE - ZA LE MESNIL 14111 LOUVIGNY <br/>

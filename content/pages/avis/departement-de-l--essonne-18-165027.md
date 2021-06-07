@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
+<a href="/acheteur-137/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
 
 M. Président Le
 
@@ -37,4 +37,4 @@ CPV66510000 - **Services d'assurance** <br/>
 Assistance juridique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-438556649"> HERDIA</a>    51 rue st Georges 75009 Paris <br/>
+<a href="/entreprise-561/siren-438556649"> HERDIA</a>    51 rue st Georges 75009 Paris <br/>

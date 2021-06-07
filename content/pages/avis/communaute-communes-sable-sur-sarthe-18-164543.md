@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-247200090"> COMMUNAUTE COMMUNES SABLE SUR SARTHE</a><br/>
+<a href="/acheteur-137/siren-247200090"> COMMUNAUTE COMMUNES SABLE SUR SARTHE</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV90511000 - **Services de collecte des ordures** <br/>
 Ordures ménagères (prestations) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-432105914"> BRANGEON ENVIRONNEMENT</a>      La Pommeraye <br/>
-<a href="/entreprise-256/siren-344263702"> SUEZ RV OUEST</a>      Nantes <br/>
+<a href="/entreprise-559/siren-432105914"> BRANGEON ENVIRONNEMENT</a>      La Pommeraye <br/>
+<a href="/entreprise-549/siren-344263702"> SUEZ RV OUEST</a>      Nantes <br/>

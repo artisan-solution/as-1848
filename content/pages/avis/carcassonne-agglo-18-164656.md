@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200035715"> CARCASSONNE AGGLO</a><br/>
+<a href="/acheteur-133/siren-200035715"> CARCASSONNE AGGLO</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV45500000 - **Location de machines et de matériel de construction et de géni
 Location (matériels) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-537915936"> CEGELEC</a>    ZI La Bouriette- Boulevard Denis Papin 11000 Carcassonne <br/>
+<a href="/entreprise-572/siren-537915936"> CEGELEC</a>    ZI La Bouriette- Boulevard Denis Papin 11000 Carcassonne <br/>

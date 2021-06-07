@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130022833"> CHAMBRE DE COMMERCE ET D'INDUSTRIE TERRITORIALE DE LA MARNE EN CHAMPAGNE</a><br/>
+<a href="/acheteur-132/siren-130022833"> CHAMBRE DE COMMERCE ET D'INDUSTRIE TERRITORIALE DE LA MARNE EN CHAMPAGNE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV77310000 - **Réalisation et entretien d'espaces verts** <br/>
 Espaces verts <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-383077187"> ARTOPIA</a>    rue Charles Marie Ravel 51520 Martin sur le Pre <br/>
+<a href="/entreprise-552/siren-383077187"> ARTOPIA</a>    rue Charles Marie Ravel 51520 Martin sur le Pre <br/>

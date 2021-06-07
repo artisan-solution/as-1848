@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-249500109"> COMMUNAUTE D'AGGLO DE CERGY-PONTOISE</a><br/>
+<a href="/acheteur-137/siren-249500109"> COMMUNAUTE D'AGGLO DE CERGY-PONTOISE</a><br/>
 
 Le President
 
@@ -43,7 +43,7 @@ Menuiserie <br/>
 Revêtements de sols <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-431391770"> POINT SERVICE</a>    ZI 23, route de Delincourt 27140 GISORS <br/>
-<a href="/entreprise-266/siren-527320238"> LAUNET</a>    22, avenue Blaise Pascal 60000 BEAUVAIS <br/>
+<a href="/entreprise-559/siren-431391770"> POINT SERVICE</a>    ZI 23, route de Delincourt 27140 GISORS <br/>
+<a href="/entreprise-571/siren-527320238"> LAUNET</a>    22, avenue Blaise Pascal 60000 BEAUVAIS <br/>
 J. S. AMENAGEMENTS - 49, quai de l'Oise 95290 L'ISLE ADAM <br/>
-<a href="/entreprise-257/siren-381171115"> ART MANIAC SAS</a>    10, ruelle Dordet 95400 VILLIERS-LE-BEL <br/>
+<a href="/entreprise-552/siren-381171115"> ART MANIAC SAS</a>    10, ruelle Dordet 95400 VILLIERS-LE-BEL <br/>

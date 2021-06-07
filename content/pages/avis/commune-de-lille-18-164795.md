@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215903501"> COMMUNE DE LILLE</a><br/>
+<a href="/acheteur-135/siren-215903501"> COMMUNE DE LILLE</a><br/>
 
 
 
@@ -31,10 +31,10 @@ LILLE - Département 59 - Nord
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV71621000 - **Services d'analyse technique ou services de conseil** <br/>
-CPV03452000 - **Arbres** <br/>
 CPV90711100 - **Évaluation des risques et dangers autre que pour la construction** <br/>
 CPV71620000 - **Services d'analyses** <br/>
+CPV03452000 - **Arbres** <br/>
+CPV71621000 - **Services d'analyse technique ou services de conseil** <br/>
 
 ##### Descripteurs :
 Espaces verts <br/>
@@ -42,4 +42,4 @@ Espaces verts <br/>
 ### Attribution du Marché :
 Trade and Management Consult Partners - 7 Avenue des Noisetiers 01170 Watermael-Boisfort <br/>
 Cabinet Vincent Dellus - 13 Impasse Camille Flammarion 85000 La Roche-sur-Yon <br/>
-<a href="/entreprise-269/siren-799092986"> ARBORETUDE SARL</a>    39 rue de Saverne 67120 MOLSHEIM <br/>
+<a href="/entreprise-576/siren-799092986"> ARBORETUDE SARL</a>    39 rue de Saverne 67120 MOLSHEIM <br/>

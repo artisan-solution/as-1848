@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-302990445"> CAISSE CENTRALE DE MUTUALITE SOCIALE AGRICOLE</a><br/>
+<a href="/acheteur-139/siren-302990445"> CAISSE CENTRALE DE MUTUALITE SOCIALE AGRICOLE</a><br/>
 
 
 
@@ -31,12 +31,12 @@ BOBIGNY - Département 93 - Seine-Saint-Denis
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV63120000 - **Services de stockage et d'entreposage** <br/>
 CPV60100000 - **Services de transport routier** <br/>
+CPV63120000 - **Services de stockage et d'entreposage** <br/>
 
 ##### Descripteurs :
 Bâtiments modulaires <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-349145243"> STACI</a>    Avenue du Fond de Vaux 95310 Saint Ouen l'Aumone <br/>
+<a href="/entreprise-550/siren-349145243"> STACI</a>    Avenue du Fond de Vaux 95310 Saint Ouen l'Aumone <br/>

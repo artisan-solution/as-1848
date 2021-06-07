@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217605401"> COMMUNE DE ROUEN</a><br/>
+<a href="/acheteur-136/siren-217605401"> COMMUNE DE ROUEN</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Electricité, gaz (fourniture) <br/>
 
 ### Attribution du Marché :
 Total Energie Gaz - Immeuble Nova - 71 Boulevard National - Cs 20004 92257 La Garenne <br/>
-<a href="/entreprise-262/siren-451225692"> Eni Gas , Power France</a>    24 Rue Jacques Ibert - Cs 50001 92533 Levallois Perret Cedex <br/>
+<a href="/entreprise-563/siren-451225692"> Eni Gas , Power France</a>    24 Rue Jacques Ibert - Cs 50001 92533 Levallois Perret Cedex <br/>
 Societe D'Approvisionnement Et De Vente D'Energie (Save) - 16 Rue Gaillon 75002 Paris <br/>

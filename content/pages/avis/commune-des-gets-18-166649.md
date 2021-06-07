@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217401348"> COMMUNE DES GETS</a><br/>
+<a href="/acheteur-136/siren-217401348"> COMMUNE DES GETS</a><br/>
 
 
 
@@ -31,11 +31,11 @@ Les Gets - Département 74 - Haute-Savoie
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV90911000 - **Services de nettoyage de logements, de bâtiments et de vitres** <br/>
 CPV90911200 - **Services de nettoyage de bâtiments** <br/>
+CPV90911000 - **Services de nettoyage de logements, de bâtiments et de vitres** <br/>
 
 ##### Descripteurs :
 Nettoyage de locaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-390919405"> Sms Nettoyage</a>    463, route des Blaves 74200 Allinges <br/>
+<a href="/entreprise-553/siren-390919405"> Sms Nettoyage</a>    463, route des Blaves 74200 Allinges <br/>

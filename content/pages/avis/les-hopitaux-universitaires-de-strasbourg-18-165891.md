@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-266700574"> LES HOPITAUX UNIVERSITAIRES DE STRASBOURG</a><br/>
+<a href="/acheteur-138/siren-266700574"> LES HOPITAUX UNIVERSITAIRES DE STRASBOURG</a><br/>
 
 
 
@@ -37,4 +37,4 @@ Abris <br/>
 Consommables médicaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-652025289"> FRESENIUS MEDICAL CARE France</a>    Parc médicis 47 avenue des Pépinières 94832 FRESNES CEDEX <br/>
+<a href="/entreprise-573/siren-652025289"> FRESENIUS MEDICAL CARE France</a>    Parc médicis 47 avenue des Pépinières 94832 FRESNES CEDEX <br/>

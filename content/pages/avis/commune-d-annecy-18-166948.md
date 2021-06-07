@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200063402"> COMMUNE D'ANNECY</a><br/>
+<a href="/acheteur-133/siren-200063402"> COMMUNE D'ANNECY</a><br/>
 
 
 
@@ -31,11 +31,11 @@ ANNECY - Département 74 - Haute-Savoie
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV16311100 - **Tondeuses à gazon pour pelouses, parcs ou terrains de sports** <br/>
 CPV39714100 - **Aérateurs** <br/>
+CPV16311100 - **Tondeuses à gazon pour pelouses, parcs ou terrains de sports** <br/>
 
 ##### Descripteurs :
 Matériel agricole, horticole <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-796880474"> Bosson Sas</a>    123, route de la Bergue 74380 Cranves-Sales <br/>
+<a href="/entreprise-576/siren-796880474"> Bosson Sas</a>    123, route de la Bergue 74380 Cranves-Sales <br/>

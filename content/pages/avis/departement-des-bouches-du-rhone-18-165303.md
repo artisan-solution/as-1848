@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-221300015"> DEPARTEMENT DES BOUCHES DU RHONE</a><br/>
+<a href="/acheteur-137/siren-221300015"> DEPARTEMENT DES BOUCHES DU RHONE</a><br/>
 
 SAM-PCS DAP, CONSEIL DEPARTEMENTAL DES BOUCHES-DU-RHONE
 
@@ -35,4 +35,4 @@ MARSEILLE - Département 13 - Bouches-du-Rhône
 Location (matériels) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-429374630"> CONCEPT GROUP</a>    Parc d'activités de nicopoulis lot 211 rue des lauriers 83170 Brignoles <br/>
+<a href="/entreprise-559/siren-429374630"> CONCEPT GROUP</a>    Parc d'activités de nicopoulis lot 211 rue des lauriers 83170 Brignoles <br/>

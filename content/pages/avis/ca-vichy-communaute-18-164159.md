@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200071363"> CA VICHY COMMUNAUTE</a><br/>
+<a href="/acheteur-133/siren-200071363"> CA VICHY COMMUNAUTE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV50720000 - **Services de réparation et d'entretien de chauffage central** <b
 Chauffage (exploitation, entretien) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-456500537"> DALKIA</a>      Clermont-Ferrand <br/>
+<a href="/entreprise-563/siren-456500537"> DALKIA</a>      Clermont-Ferrand <br/>

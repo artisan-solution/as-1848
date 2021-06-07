@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
+<a href="/acheteur-137/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
 
 
 
@@ -38,6 +38,6 @@ Carburant, hydrocarbure <br/>
 Combustible <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-531680445"> TOTAL MARKETING FRANCE SAS</a>    Immeuble SPAZIO 562 Avenue du parc de l'île 92000 Nanterre <br/>
 SEDOC - 20 rue Cambon 75001 Paris <br/>
-<a href="/entreprise-254/siren-315281113"> SIPLEC</a>    26 quai Marcel Boyer CS 10027 94859 Ivry sur Seine <br/>
+<a href="/entreprise-545/siren-315281113"> SIPLEC</a>    26 quai Marcel Boyer CS 10027 94859 Ivry sur Seine <br/>
+<a href="/entreprise-571/siren-531680445"> TOTAL MARKETING FRANCE SAS</a>    Immeuble SPAZIO 562 Avenue du parc de l'île 92000 Nanterre <br/>

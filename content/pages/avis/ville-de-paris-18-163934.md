@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Prestations de services <br/>
 Délégation de service public <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-320229644"> INDIGO INFRA</a>    4, place de la Pyramide 92800 PUTEAUX LA DEFENSE <br/>
+<a href="/entreprise-546/siren-320229644"> INDIGO INFRA</a>    4, place de la Pyramide 92800 PUTEAUX LA DEFENSE <br/>

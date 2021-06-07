@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-246300701"> CLERMONT AUVERGNE METROPOLE</a><br/>
+<a href="/acheteur-137/siren-246300701"> CLERMONT AUVERGNE METROPOLE</a><br/>
 
 Le Président
 
@@ -37,4 +37,4 @@ CPV71221000 - **Services d'architecte pour les bâtiments** <br/>
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-393206735"> ANTEA FRANCE</a>    Le Parc du Lyonnais 392 rue des Mercières 69140 Rillieux-la-Pape <br/>
+<a href="/entreprise-554/siren-393206735"> ANTEA FRANCE</a>    Le Parc du Lyonnais 392 rue des Mercières 69140 Rillieux-la-Pape <br/>

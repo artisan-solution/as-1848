@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110014016"> MINISTERE DE L'INTERIEUR</a><br/>
+<a href="/acheteur-131/siren-110014016"> MINISTERE DE L'INTERIEUR</a><br/>
 
 
 
@@ -39,4 +39,4 @@ Prestations de services <br/>
 ### Attribution du Marché :
 LAIR ET ROYNETTE - 5 Place Charles BERAUDIER 69003 LYON <br/>
 SAS CLIC - 9 rue du docteur Normand BP 345 39104 DOLE CEDEX <br/>
-<a href="/entreprise-264/siren-493334429"> EGIS</a>    6 rue Saint-John PERSE 21000 DIJON <br/>
+<a href="/entreprise-566/siren-493334429"> EGIS</a>    6 rue Saint-John PERSE 21000 DIJON <br/>

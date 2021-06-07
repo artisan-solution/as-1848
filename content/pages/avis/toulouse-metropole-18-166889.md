@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243100518"> TOULOUSE METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243100518"> TOULOUSE METROPOLE</a><br/>
 
 
 
@@ -31,14 +31,14 @@ TOULOUSE - Département 31 - Haute-Garonne
 01/12/2018
 
 ##### Codes CPV concerné(s) :
+CPV44221200 - **Portes** <br/>
 CPV44221300 - **Portails** <br/>
 CPV31224500 - **Bornes** <br/>
 CPV34928300 - **Barrières de sécurité** <br/>
-CPV44221200 - **Portes** <br/>
 
 ##### Descripteurs :
 Maintenance <br/>
 
 ### Attribution du Marché :
 EES - FONTANIE - 1 allée des pionniers de l'aéropostale - BP 74096 31029 Toulouse cedex 4 <br/>
-<a href="/entreprise-267/siren-592052302"> KONE</a>    8 allée Paul Harris - BP 30113 31201 Toulouse cedex 2 <br/>
+<a href="/entreprise-573/siren-592052302"> KONE</a>    8 allée Paul Harris - BP 30113 31201 Toulouse cedex 2 <br/>

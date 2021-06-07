@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213300320"> COMMUNE DE BASSENS</a><br/>
+<a href="/acheteur-134/siren-213300320"> COMMUNE DE BASSENS</a><br/>
 
 M. TURON Jean-Pierre, Maire
 
@@ -31,8 +31,8 @@ Bassens - Département 33 - Gironde
 26/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV45443000 - **Travaux de façade** <br/>
 CPV45454100 - **Travaux de réfection** <br/>
+CPV45443000 - **Travaux de façade** <br/>
 
 ##### Descripteurs :
 Bâtiment <br/>

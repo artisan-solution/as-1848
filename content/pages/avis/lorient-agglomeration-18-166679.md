@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200042174"> LORIENT AGGLOMERATION</a><br/>
+<a href="/acheteur-133/siren-200042174"> LORIENT AGGLOMERATION</a><br/>
 
 M. METAIRIE Norbert, Président
 
@@ -36,4 +36,4 @@ LORIENT - Département 56 - Morbihan
 Canalisations <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-351320650"> TELEREP France</a>    10 rue Gay Lussac 35170 BRUZ <br/>
+<a href="/entreprise-550/siren-351320650"> TELEREP France</a>    10 rue Gay Lussac 35170 BRUZ <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215903501"> COMMUNE DE LILLE</a><br/>
+<a href="/acheteur-135/siren-215903501"> COMMUNE DE LILLE</a><br/>
 
 
 
@@ -31,14 +31,14 @@ LILLE - Département 59 - Nord
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV71620000 - **Services d'analyses** <br/>
-CPV90700000 - **Services relatifs à l'environnement** <br/>
-CPV71610000 - **Services d'essais et d'analyses de la composition et de la pureté** <br/>
 CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
+CPV90700000 - **Services relatifs à l'environnement** <br/>
+CPV71620000 - **Services d'analyses** <br/>
+CPV71610000 - **Services d'essais et d'analyses de la composition et de la pureté** <br/>
 CPV71313000 - **Services de conseil en ingénierie de l'environnement** <br/>
 
 ##### Descripteurs :
 Audit <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-682008222"> BURGEAP SAS</a>    27 rue de Vanves 92772 Boulogne-Billancourt cedex <br/>
+<a href="/entreprise-573/siren-682008222"> BURGEAP SAS</a>    27 rue de Vanves 92772 Boulogne-Billancourt cedex <br/>

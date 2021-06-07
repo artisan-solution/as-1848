@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200067254"> CA PAU BEARN PYRENEES</a><br/>
+<a href="/acheteur-133/siren-200067254"> CA PAU BEARN PYRENEES</a><br/>
 
 BAYROU FRANCOIS, PRESIDENT
 
@@ -38,5 +38,5 @@ CPV38437000 - **Pipettes de laboratoire et accessoires** <br/>
 Laboratoire (fourniture) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-803544741"> GALENA DISTRIBUTION</a>    10 Av de lesseps 33610 Canéjan <br/>
-<a href="/entreprise-260/siren-421287855"> vwr international</a>    26 avenue léonard de vinci 33600 Pessac <br/>
+<a href="/entreprise-577/siren-803544741"> GALENA DISTRIBUTION</a>    10 Av de lesseps 33610 Canéjan <br/>
+<a href="/entreprise-558/siren-421287855"> vwr international</a>    26 avenue léonard de vinci 33600 Pessac <br/>

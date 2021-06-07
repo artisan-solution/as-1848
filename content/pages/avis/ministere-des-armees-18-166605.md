@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 
 
@@ -35,4 +35,4 @@ RENNES - Département 35 - Ile-et-Vilaine
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-391905486"> EIFFAGE CONSTRUCTION CENTRE</a>    Avenue Louis Billant 18570 La Chapelle St Ursin <br/>
+<a href="/entreprise-554/siren-391905486"> EIFFAGE CONSTRUCTION CENTRE</a>    Avenue Louis Billant 18570 La Chapelle St Ursin <br/>

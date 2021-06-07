@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213300320"> COMMUNE DE BASSENS</a><br/>
+<a href="/acheteur-134/siren-213300320"> COMMUNE DE BASSENS</a><br/>
 
 M. Turon Jean-Pierre, Maire
 

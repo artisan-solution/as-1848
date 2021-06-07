@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130022668"> CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION GRAND EST</a><br/>
+<a href="/acheteur-132/siren-130022668"> CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION GRAND EST</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV22440000 - **Formules de chèque** <br/>
 Chèque cadeau <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-393365135"> EDENRED FRANCE</a>    166 180 Boulevard Gabriel PERI 92240 MALAKOFF <br/>
+<a href="/entreprise-554/siren-393365135"> EDENRED FRANCE</a>    166 180 Boulevard Gabriel PERI 92240 MALAKOFF <br/>

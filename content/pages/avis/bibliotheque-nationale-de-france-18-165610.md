@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-180046252"> BIBLIOTHEQUE NATIONALE DE FRANCE</a><br/>
+<a href="/acheteur-132/siren-180046252"> BIBLIOTHEQUE NATIONALE DE FRANCE</a><br/>
 
 Président
 
@@ -37,4 +37,4 @@ CPV45313100 - **Travaux d'installation d'ascenseurs** <br/>
 Ascenseur <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-592052302"> KONE</a>    Centre d'Affaires Objectif - 2 rue Louis Armand - Hall 1 92600 ASNIERES-SUR-SEINE <br/>
+<a href="/entreprise-573/siren-592052302"> KONE</a>    Centre d'Affaires Objectif - 2 rue Louis Armand - Hall 1 92600 ASNIERES-SUR-SEINE <br/>

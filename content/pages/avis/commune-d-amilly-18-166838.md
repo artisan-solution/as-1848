@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-214500043"> COMMUNE D AMILLY</a><br/>
+<a href="/acheteur-135/siren-214500043"> COMMUNE D AMILLY</a><br/>
 
 
 
@@ -44,4 +44,4 @@ Véhicules (acquisition) <br/>
 
 ### Attribution du Marché :
 Renault Basty - Avenue D'Antibes 45200 Amilly <br/>
-<a href="/entreprise-261/siren-434225017"> Jardins loisirs 78</a>    10 Rue de la Haie aux vaches 78690 Les Essarts Le Roi <br/>
+<a href="/entreprise-560/siren-434225017"> Jardins loisirs 78</a>    10 Rue de la Haie aux vaches 78690 Les Essarts Le Roi <br/>

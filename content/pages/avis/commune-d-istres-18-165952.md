@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300470"> COMMUNE D ISTRES</a><br/>
+<a href="/acheteur-134/siren-211300470"> COMMUNE D ISTRES</a><br/>
 
 
 
@@ -31,11 +31,11 @@ ISTRES - Département 13 - Bouches-du-Rhône
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV92300000 - **Services de divertissement** <br/>
 CPV18530000 - **Cadeaux et prix** <br/>
+CPV92300000 - **Services de divertissement** <br/>
 
 ##### Descripteurs :
 Chèque cadeau <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-642044366"> Up</a>    27-29 avenue des Louvresses 92230 Gennevilliers <br/>
+<a href="/entreprise-573/siren-642044366"> Up</a>    27-29 avenue des Louvresses 92230 Gennevilliers <br/>

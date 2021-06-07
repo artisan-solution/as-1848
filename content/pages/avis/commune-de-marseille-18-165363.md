@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300553"> COMMUNE DE MARSEILLE</a><br/>
+<a href="/acheteur-134/siren-211300553"> COMMUNE DE MARSEILLE</a><br/>
 
 
 
@@ -39,4 +39,4 @@ Nettoyage urbain <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-DERICHEBOURG Propreté SAS - ZAC de la Haie Griselle 6 allée des Coquelicots 94470 Boissy Saint Léger <br/>
+<a href="/entreprise-573/siren-702021114"> DERICHEBOURG Propreté SAS</a>    ZAC de la Haie Griselle 6 allée des Coquelicots 94470 Boissy Saint Léger <br/>

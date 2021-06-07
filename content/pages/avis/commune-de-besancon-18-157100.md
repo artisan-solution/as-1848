@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-212500565"> COMMUNE DE BESANCON</a><br/>
+<a href="/acheteur-134/siren-212500565"> COMMUNE DE BESANCON</a><br/>
 
 
 
@@ -32,10 +32,10 @@ Besançon - Département 25 - Doubs
 
 ##### Codes CPV concerné(s) :
 CPV45200000 - **Travaux de construction complète ou partielle et travaux de génie civil** <br/>
-CPV45232420 - **Travaux de construction de stations d'épuration des eaux usées** <br/>
+CPV45231221 - **Travaux de construction de canalisations d'alimentation en gaz** <br/>
 CPV71300000 - **Services d'ingénierie** <br/>
 CPV45252122 - **Digesteurs de boues** <br/>
-CPV45231221 - **Travaux de construction de canalisations d'alimentation en gaz** <br/>
+CPV45232420 - **Travaux de construction de stations d'épuration des eaux usées** <br/>
 
 ##### Descripteurs :
 Canalisations <br/>

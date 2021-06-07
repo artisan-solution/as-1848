@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-257500017"> SYNDICAT DES EAUX D ILE DE FRANCE</a><br/>
+<a href="/acheteur-138/siren-257500017"> SYNDICAT DES EAUX D ILE DE FRANCE</a><br/>
 
 
 
@@ -38,4 +38,4 @@ CPV75112000 - **Services administratifs relatifs aux activités des entreprises*
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-301251880"> PHONE REGIE</a>    3 rue cambronne 75540 PARIS <br/>
+<a href="/entreprise-544/siren-301251880"> PHONE REGIE</a>    3 rue cambronne 75540 PARIS <br/>

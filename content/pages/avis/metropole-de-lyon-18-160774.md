@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200046977"> METROPOLE DE LYON</a><br/>
+<a href="/acheteur-133/siren-200046977"> METROPOLE DE LYON</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Assainissement <br/>
 Station d'épuration (exploitation) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-392928826"> SERNED</a>    2 CHEMIN DU GENIE, BP 61 69200 VENISSIEUX <br/>
+<a href="/entreprise-554/siren-392928826"> SERNED</a>    2 CHEMIN DU GENIE, BP 61 69200 VENISSIEUX <br/>
 TRANSPORTS ROUTIERS THIERRY COSTE TRTC - ZAC DU PONT A LUNETTES - 9 RUE DU PONT A LUNETTES 69390 VOURLES <br/>

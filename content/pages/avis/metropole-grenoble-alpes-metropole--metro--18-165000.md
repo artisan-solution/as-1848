@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200040715"> METROPOLE GRENOBLE-ALPES-METROPOLE (METRO)</a><br/>
+<a href="/acheteur-133/siren-200040715"> METROPOLE GRENOBLE-ALPES-METROPOLE (METRO)</a><br/>
 
 
 
@@ -38,5 +38,5 @@ CPV24957000 - **Additifs chimiques** <br/>
 Station d'épuration (travaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-522023100"> Feracid</a>    158 avenue de Stalingrad 92712 Colombes <br/>
-<a href="/entreprise-256/siren-349305318"> Kemira</a>    17 route de Rosheim 67000 Strasbourg <br/>
+<a href="/entreprise-570/siren-522023100"> Feracid</a>    158 avenue de Stalingrad 92712 Colombes <br/>
+<a href="/entreprise-550/siren-349305318"> Kemira</a>    17 route de Rosheim 67000 Strasbourg <br/>

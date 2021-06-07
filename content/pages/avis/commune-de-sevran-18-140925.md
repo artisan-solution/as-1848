@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219300712"> COMMUNE DE SEVRAN</a><br/>
+<a href="/acheteur-136/siren-219300712"> COMMUNE DE SEVRAN</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Repas, traiteur <br/>
 
 ### Attribution du Marché :
 KMC ANIMATION -   LE MESNIL LE ROI <br/>
-<a href="/entreprise-256/siren-343472825"> SEMGEST</a>      VILLEJUIF <br/>
+<a href="/entreprise-549/siren-343472825"> SEMGEST</a>      VILLEJUIF <br/>
 TRAITEUR ALEXANDRE -   CREPY EN VALOIS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130020365"> SECRETARIAT GENERAL POUR L'ADMINISTRATION DU MINISTERE DE L'INTERIEUR OUEST</a><br/>
+<a href="/acheteur-132/siren-130020365"> SECRETARIAT GENERAL POUR L'ADMINISTRATION DU MINISTERE DE L'INTERIEUR OUEST</a><br/>
 
 Mme Flore Desquins
 
@@ -36,4 +36,4 @@ Assistance à maîtrise d'ouvrage <br/>
 
 ### Attribution du Marché :
 ATAE _ bureau d'angers - 152 ave patton bp 80111 49001 Angers cedex 01 <br/>
-<a href="/entreprise-261/siren-433250834"> DEKRA</a>    8 bis rue daniel meyer 37100 Tours <br/>
+<a href="/entreprise-560/siren-433250834"> DEKRA</a>    8 bis rue daniel meyer 37100 Tours <br/>

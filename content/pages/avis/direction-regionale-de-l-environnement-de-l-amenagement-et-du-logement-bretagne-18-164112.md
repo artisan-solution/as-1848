@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130010002"> DIRECTION REGIONALE DE L'ENVIRONNEMENT DE L'AMENAGEMENT ET DU LOGEMENT BRETAGNE</a><br/>
+<a href="/acheteur-132/siren-130010002"> DIRECTION REGIONALE DE L'ENVIRONNEMENT DE L'AMENAGEMENT ET DU LOGEMENT BRETAGNE</a><br/>
 
 
 
@@ -37,5 +37,5 @@ Assainissement <br/>
 Dépollution <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-384545281"> TRIADIS Services</a>    49, avenue des Grenots 91160 Etampes <br/>
+<a href="/entreprise-552/siren-384545281"> TRIADIS Services</a>    49, avenue des Grenots 91160 Etampes <br/>
 COLAS CENTRE OUEST (co-traitant) - 2, rue Gaspard Coriolis 44300 Nantes <br/>

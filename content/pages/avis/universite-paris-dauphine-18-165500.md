@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-197546922"> UNIVERSITE PARIS DAUPHINE</a><br/>
+<a href="/acheteur-132/siren-197546922"> UNIVERSITE PARIS DAUPHINE</a><br/>
 
 
 
@@ -35,4 +35,4 @@ PARIS - Département 75 - Paris
 Abonnement <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-448531236"> EBSCO INFORMATION SERVICES sas</a>    Immeuble Le Nobel - 3 rue Jacques Rueff 92183 Anthony <br/>
+<a href="/entreprise-562/siren-448531236"> EBSCO INFORMATION SERVICES sas</a>    Immeuble Le Nobel - 3 rue Jacques Rueff 92183 Anthony <br/>

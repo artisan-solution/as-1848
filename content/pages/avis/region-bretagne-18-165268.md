@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-233500016"> REGION BRETAGNE</a><br/>
+<a href="/acheteur-137/siren-233500016"> REGION BRETAGNE</a><br/>
 
 Mme LOTON Caroline, Région Bretagne
 
@@ -31,12 +31,12 @@ RENNES - Département 35 - Ile-et-Vilaine
 27/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV42163000 - **Générateurs de vapeur** <br/>
 CPV42924730 - **Appareils de nettoyage à eau sous pression** <br/>
 CPV39713410 - **Machines de nettoyage des sols** <br/>
+CPV42163000 - **Générateurs de vapeur** <br/>
 
 ##### Descripteurs :
 Equipements spécialisés <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-687050302"> GROUPE PIERRE LE GOFF</a>    Rue nungesser et coli 44860 Saint-aignan de grand-lieu <br/>
+<a href="/entreprise-573/siren-687050302"> GROUPE PIERRE LE GOFF</a>    Rue nungesser et coli 44860 Saint-aignan de grand-lieu <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200049104"> EAUX DE VIENNE - SIVEER</a><br/>
+<a href="/acheteur-133/siren-200049104"> EAUX DE VIENNE - SIVEER</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Alimentation en eau potable <br/>
 Réseaux divers <br/>
 
 ### Attribution du Marché :
-SA SEGEC - 70 avenue Aristide Briand 36400 LA CHATRE <br/>
 SAS SPAC - 54 avenue Lavoisier, ZAC du Parco 56700 HENNEBONT <br/>
+SA SEGEC - 70 avenue Aristide Briand 36400 LA CHATRE <br/>

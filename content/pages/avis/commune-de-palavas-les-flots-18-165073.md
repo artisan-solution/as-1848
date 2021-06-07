@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213401920"> COMMUNE DE PALAVAS-LES-FLOTS</a><br/>
+<a href="/acheteur-134/siren-213401920"> COMMUNE DE PALAVAS-LES-FLOTS</a><br/>
 
 JEANJEAN Christian, Maire
 
@@ -37,4 +37,4 @@ CPV79713000 - **Services de gardiennage** <br/>
 Gardiennage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-499784544"> T2S Gardiennage</a>    145 Rue Joe Dassin 34080 Montpellier <br/>
+<a href="/entreprise-567/siren-499784544"> T2S Gardiennage</a>    145 Rue Joe Dassin 34080 Montpellier <br/>

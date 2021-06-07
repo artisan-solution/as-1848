@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-283300028"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
+<a href="/acheteur-139/siren-283300028"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
 
 
 
@@ -31,13 +31,13 @@ BORDEAUX - Département 33 - Gironde
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV90921000 - **Services de désinfection et de désinfestation** <br/>
-CPV90923000 - **Services de dératisation** <br/>
 CPV90470000 - **Services de curage des égouts** <br/>
+CPV90923000 - **Services de dératisation** <br/>
+CPV90921000 - **Services de désinfection et de désinfestation** <br/>
 
 ##### Descripteurs :
 Canalisations <br/>
 Chèque cadeau <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-662005214"> ISS HYGIENE ET PREVENTION</a>    12 rue Fructidor 75017 Paris <br/>
+<a href="/entreprise-573/siren-662005214"> ISS HYGIENE ET PREVENTION</a>    12 rue Fructidor 75017 Paris <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200053403"> REGION NORMANDIE</a><br/>
+<a href="/acheteur-133/siren-200053403"> REGION NORMANDIE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV39151000 - **Mobilier divers** <br/>
 Mobilier <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-383653938"> SARL DPC</a>    1 RUE PIERRE ET MARIE CURIE 79300 BRESSUIRE <br/>
+<a href="/entreprise-552/siren-383653938"> SARL DPC</a>    1 RUE PIERRE ET MARIE CURIE 79300 BRESSUIRE <br/>

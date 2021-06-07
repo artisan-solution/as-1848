@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213303241"> COMMUNE DE PINEUILH</a><br/>
+<a href="/acheteur-134/siren-213303241"> COMMUNE DE PINEUILH</a><br/>
 
 M. Mairie de pineulh Marchés publics, Commune de Pineuilh
 
@@ -30,9 +30,9 @@ Pineuilh - Département 33 - Gironde
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV39200000 - **Aménagements** <br/>
 CPV45233140 - **Travaux routiers** <br/>
 CPV45454100 - **Travaux de réfection** <br/>
+CPV39200000 - **Aménagements** <br/>
 
 ##### Descripteurs :
 Voirie <br/>

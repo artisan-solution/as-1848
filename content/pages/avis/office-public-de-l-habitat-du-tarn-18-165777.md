@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-278100011"> OFFICE PUBLIC DE L HABITAT DU TARN</a><br/>
+<a href="/acheteur-138/siren-278100011"> OFFICE PUBLIC DE L HABITAT DU TARN</a><br/>
 
 
 
@@ -31,12 +31,12 @@ ALBI - Département 81 - Tarn
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV90911200 - **Services de nettoyage de bâtiments** <br/>
 CPV90910000 - **Services de nettoyage** <br/>
+CPV90911200 - **Services de nettoyage de bâtiments** <br/>
 
 ##### Descripteurs :
 Nettoyage de locaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-799236575"> Pld Garonne</a>    2098 La Lauragaise 31670 Labège <br/>
-<a href="/entreprise-253/siren-067800425"> Onet Services</a>    13 Rue Henri Moissan 81000 Albi <br/>
+<a href="/entreprise-576/siren-799236575"> Pld Garonne</a>    2098 La Lauragaise 31670 Labège <br/>
+<a href="/entreprise-543/siren-067800425"> Onet Services</a>    13 Rue Henri Moissan 81000 Albi <br/>

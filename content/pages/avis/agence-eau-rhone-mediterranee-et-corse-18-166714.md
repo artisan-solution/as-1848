@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-186901559"> AGENCE EAU RHONE MEDITERRANEE ET CORSE</a><br/>
+<a href="/acheteur-132/siren-186901559"> AGENCE EAU RHONE MEDITERRANEE ET CORSE</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV79315000 - **Services de recherche sociale** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-401130158"> CONTRECHAMP A</a>    2 PLACE CHARDONNET 69001 Lyon <br/>
+<a href="/entreprise-555/siren-401130158"> CONTRECHAMP A</a>    2 PLACE CHARDONNET 69001 Lyon <br/>
 ASCA APPLICATIONS DES SCIENCES DE l'ACTION - 8 rue Legouve 75010 Paris <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215403296"> COMMUNE DE LUNEVILLE</a><br/>
+<a href="/acheteur-135/siren-215403296"> COMMUNE DE LUNEVILLE</a><br/>
 
 
 
@@ -31,8 +31,8 @@ Lunéville - Département 54 - Meurthe-et-Moselle
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV30121100 - **Photocopieurs** <br/>
 CPV30120000 - **Photocopieurs et matériel d'impression offset** <br/>
+CPV30121100 - **Photocopieurs** <br/>
 
 ##### Descripteurs :
 Impression <br/>
@@ -40,4 +40,4 @@ Location (matériels) <br/>
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-326714805"> EST MULTICOPIE SAS</a>      Metz <br/>
+<a href="/entreprise-547/siren-326714805"> EST MULTICOPIE SAS</a>      METZ <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV45453000 - **Travaux de remise en état et de remise à neuf** <br/>
 Serrurerie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-808412548"> SARMATES</a>    5 rue Nicéphore Niepce 91420 MORANGIS <br/>
+<a href="/entreprise-577/siren-808412548"> SARMATES</a>    5 rue Nicéphore Niepce 91420 MORANGIS <br/>

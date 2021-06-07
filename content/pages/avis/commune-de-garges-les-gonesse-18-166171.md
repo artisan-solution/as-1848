@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219502689"> COMMUNE DE GARGES-LES-GONESSE</a><br/>
+<a href="/acheteur-136/siren-219502689"> COMMUNE DE GARGES-LES-GONESSE</a><br/>
 
 
 
@@ -36,4 +36,4 @@ GARGES LES GONESSE - Département 95 - Val-d'oise
 Mobilier <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-344400866"> HAPPY MONDAY</a>    ZA de la Gare 07320 SAINT-AGREVE <br/>
+<a href="/entreprise-549/siren-344400866"> HAPPY MONDAY</a>    ZA de la Gare 07320 SAINT-AGREVE <br/>

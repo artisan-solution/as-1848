@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-428822852"> ETABLISSEMENT FRANCAIS DU SANG</a><br/>
+<a href="/acheteur-139/siren-428822852"> ETABLISSEMENT FRANCAIS DU SANG</a><br/>
 
 M. juridique Service
 
@@ -31,11 +31,11 @@ Ivry-sur-seine - Département 94 - Val-de-Marne
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV90923000 - **Services de dératisation** <br/>
 CPV90921000 - **Services de désinfection et de désinfestation** <br/>
+CPV90923000 - **Services de dératisation** <br/>
 
 ##### Descripteurs :
 Dératisation, désinsectisation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-389530643"> ELIS PREVENTION NUISIBLES</a>    3, voie du Marquis de Nattes 91070 Bondoufle <br/>
+<a href="/entreprise-553/siren-389530643"> ELIS PREVENTION NUISIBLES</a>    3, voie du Marquis de Nattes 91070 Bondoufle <br/>

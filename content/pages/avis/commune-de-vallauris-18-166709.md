@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-210601555"> COMMUNE DE VALLAURIS</a><br/>
+<a href="/acheteur-134/siren-210601555"> COMMUNE DE VALLAURIS</a><br/>
 
 
 
@@ -31,11 +31,11 @@ VALLAURIS - Département 06 - Alpes-Maritimes
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV34131000 - **Camionnettes à espace ouvert à l'arrière (pick-up)** <br/>
-CPV34136000 - **Fourgons intégrés** <br/>
-CPV34144700 - **Véhicules utilitaires** <br/>
 CPV34144900 - **Véhicules électriques** <br/>
 CPV34114200 - **Voitures de police** <br/>
+CPV34136000 - **Fourgons intégrés** <br/>
+CPV34131000 - **Camionnettes à espace ouvert à l'arrière (pick-up)** <br/>
+CPV34144700 - **Véhicules utilitaires** <br/>
 
 ##### Descripteurs :
 Véhicules (acquisition) <br/>

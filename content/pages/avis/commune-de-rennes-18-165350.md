@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213502388"> COMMUNE DE RENNES</a><br/>
+<a href="/acheteur-134/siren-213502388"> COMMUNE DE RENNES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV90690000 - **Services d'enlèvement des graffitis** <br/>
 Nettoyage urbain <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-439494048"> SERVIR L'ENVIRONNEMENT</a>    ZA DE BEAUSEJOUR 35520 LA MEZIERE <br/>
+<a href="/entreprise-561/siren-439494048"> SERVIR L'ENVIRONNEMENT</a>    ZA DE BEAUSEJOUR 35520 LA MEZIERE <br/>

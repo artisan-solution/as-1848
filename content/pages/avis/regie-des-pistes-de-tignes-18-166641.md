@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-429914831"> REGIE DES PISTES DE TIGNES</a><br/>
+<a href="/acheteur-139/siren-429914831"> REGIE DES PISTES DE TIGNES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV85143000 - **Services ambulanciers** <br/>
 Transport <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-808102842"> Ambulances Les Danaïdes</a>    9 Bis rue des Glières 73700 Seez <br/>
+<a href="/entreprise-577/siren-808102842"> Ambulances Les Danaïdes</a>    9 Bis rue des Glières 73700 Seez <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-220900013"> DEPARTEMENT DE L ARIEGE</a><br/>
+<a href="/acheteur-137/siren-220900013"> DEPARTEMENT DE L ARIEGE</a><br/>
 
 
 
@@ -31,11 +31,11 @@ FOIX - Département 09 - Ariège
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV48900000 - **Logiciels et systèmes informatiques divers** <br/>
 CPV48300000 - **Logiciels de création de documents, de dessin, de synthèse d'images, de planification et de productivité** <br/>
+CPV48900000 - **Logiciels et systèmes informatiques divers** <br/>
 
 ##### Descripteurs :
 Logiciel <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-340546993"> Gfi Progiciels</a>    145 boulevard Victor Hugo 93400 Saint-Ouen <br/>
+<a href="/entreprise-549/siren-340546993"> Gfi Progiciels</a>    145 boulevard Victor Hugo 93400 Saint-Ouen <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-263800302"> CENTRE HOSPITALIER REGIONAL DE GRENOBLE</a><br/>
+<a href="/acheteur-138/siren-263800302"> CENTRE HOSPITALIER REGIONAL DE GRENOBLE</a><br/>
 
 
 
@@ -36,6 +36,6 @@ CPV48000000 - **Logiciels et systèmes d'information** <br/>
 Logiciel <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-382198794"> Business , Decision interactive EOLAS</a>    29 rue Servan 38000 Grenoble <br/>
+<a href="/entreprise-552/siren-382198794"> Business , Decision interactive EOLAS</a>    29 rue Servan 38000 Grenoble <br/>
 A2COM - 1 Boulevard du Trieux 35740 PACE <br/>
-<a href="/entreprise-267/siren-642058739"> BULL SAS</a>    RUE JEAN JAURES BP68 78340 Les clayes-sous-bois <br/>
+<a href="/entreprise-573/siren-642058739"> BULL SAS</a>    RUE JEAN JAURES BP68 78340 Les clayes-sous-bois <br/>

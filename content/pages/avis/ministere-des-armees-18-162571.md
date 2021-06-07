@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 L'Autorité Signataire des Marchés
 
@@ -37,4 +37,4 @@ CPV38112100 - **Systèmes de positionnement à capacité globale (GPS ou équiva
 Matériel électronique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-433185121"> IXBLUE</a>    34, rue de la Croix de fer 78100 Saint Germain en Laye <br/>
+<a href="/entreprise-560/siren-433185121"> IXBLUE</a>    34, rue de la Croix de fer 78100 Saint Germain en Laye <br/>

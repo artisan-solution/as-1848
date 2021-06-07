@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300553"> COMMUNE DE MARSEILLE</a><br/>
+<a href="/acheteur-134/siren-211300553"> COMMUNE DE MARSEILLE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV24000000 - **Produits chimiques** <br/>
 Produits chimiques <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-056806425"> Métaux Moteurs Pompes Industries SAS</a>     13014 Marseille <br/>
+<a href="/entreprise-543/siren-056806425"> Métaux Moteurs Pompes Industries SAS</a>     13014 Marseille <br/>

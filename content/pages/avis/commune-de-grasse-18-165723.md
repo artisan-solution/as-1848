@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-210600698"> COMMUNE DE GRASSE</a><br/>
+<a href="/acheteur-134/siren-210600698"> COMMUNE DE GRASSE</a><br/>
 
 
 
@@ -31,8 +31,8 @@ GRASSE - Département 06 - Alpes-Maritimes
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV41110000 - **Eau potable** <br/>
 CPV45232130 - **Travaux de construction de canalisations d'eaux pluviales** <br/>
+CPV41110000 - **Eau potable** <br/>
 CPV45232411 - **Travaux de construction de canalisations d'eaux usées** <br/>
 CPV44162500 - **Conduites d'eau potable** <br/>
 

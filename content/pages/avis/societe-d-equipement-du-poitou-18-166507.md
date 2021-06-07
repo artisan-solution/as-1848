@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-326080439"> SOCIETE D'EQUIPEMENT DU POITOU</a><br/>
+<a href="/acheteur-139/siren-326080439"> SOCIETE D'EQUIPEMENT DU POITOU</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71300000 - **Services d'ingénierie** <br/>
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-319242731"> Naldeo Sas</a>    27 Rue des Entrepreneurs 86000 Poitiers <br/>
+<a href="/entreprise-546/siren-319242731"> Naldeo Sas</a>    27 Rue des Entrepreneurs 86000 Poitiers <br/>

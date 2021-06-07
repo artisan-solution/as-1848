@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110014016"> MINISTERE DE L'INTERIEUR</a><br/>
+<a href="/acheteur-131/siren-110014016"> MINISTERE DE L'INTERIEUR</a><br/>
 
 
 
@@ -30,11 +30,11 @@ METZ - Département 57 - Moselle
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV90910000 - **Services de nettoyage** <br/>
 CPV55000000 - **Services d'hôtellerie, de restauration et de commerce au détail** <br/>
+CPV90910000 - **Services de nettoyage** <br/>
 
 ##### Descripteurs :
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-342122546"> GEPSA</a>    Immeuble Olympe - 23 avenue Jules Rimet 93210 SAINT DENIS <br/>
+<a href="/entreprise-549/siren-342122546"> GEPSA</a>    Immeuble Olympe - 23 avenue Jules Rimet 93210 SAINT DENIS <br/>

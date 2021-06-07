@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215903501"> COMMUNE DE LILLE</a><br/>
+<a href="/acheteur-135/siren-215903501"> COMMUNE DE LILLE</a><br/>
 
 
 
@@ -31,19 +31,19 @@ LILLE - Département 59 - Nord
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV79212200 - **Services d'audit interne** <br/>
 CPV79212100 - **Services d'audit financier** <br/>
-CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
-CPV79210000 - **Services de comptabilité et d'audit** <br/>
-CPV79212000 - **Services d'audit** <br/>
 CPV79200000 - **Services de comptabilité, services d'audit et services fiscaux** <br/>
+CPV79212000 - **Services d'audit** <br/>
+CPV79210000 - **Services de comptabilité et d'audit** <br/>
+CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
+CPV79212200 - **Services d'audit interne** <br/>
 
 ##### Descripteurs :
 Audit <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-775726417"> KPMG EXPERTISE ET CONSEIL</a>    36 rue Eugène Jacquet CS 75039 59705 Marcq-en-baroeul cedex <br/>
-<a href="/entreprise-268/siren-775726417"> KPMG EXPERTISE ET CONSEIL</a>    36 Eugène Jacquet CS 75039 59075 Marcq-en-baroeul cedex <br/>
-<a href="/entreprise-256/siren-348006446"> ERNST , YOUNG ADVISORY</a>    1-2 Place des Saisons Paris La Défense 1 92400 Courbevoie <br/>
-<a href="/entreprise-264/siren-493418610"> CALIA CONSEIL</a>    24 rue Michal 75013 Paris <br/>
-<a href="/entreprise-261/siren-438476913"> ERNST , YOUNG ET ASSOCIES</a>    1-2 Place des Saisons Paris La Défense 1 92400 Courbevoie <br/>
+<a href="/entreprise-574/siren-775726417"> KPMG EXPERTISE ET CONSEIL</a>    36 rue Eugène Jacquet CS 75039 59705 Marcq-en-baroeul cedex <br/>
+<a href="/entreprise-574/siren-775726417"> KPMG EXPERTISE ET CONSEIL</a>    36 Eugène Jacquet CS 75039 59075 Marcq-en-baroeul cedex <br/>
+<a href="/entreprise-550/siren-348006446"> ERNST , YOUNG ADVISORY</a>    1-2 Place des Saisons Paris La Défense 1 92400 Courbevoie <br/>
+<a href="/entreprise-566/siren-493418610"> CALIA CONSEIL</a>    24 rue Michal 75013 Paris <br/>
+<a href="/entreprise-561/siren-438476913"> ERNST , YOUNG ET ASSOCIES</a>    1-2 Place des Saisons Paris La Défense 1 92400 Courbevoie <br/>

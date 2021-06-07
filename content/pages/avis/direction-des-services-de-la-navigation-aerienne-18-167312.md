@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-120064027"> DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE</a><br/>
+<a href="/acheteur-131/siren-120064027"> DIRECTION DES SERVICES DE LA NAVIGATION AERIENNE</a><br/>
 
 Marie-José BONNET
 
@@ -37,4 +37,4 @@ CPV50532400 - **Services de réparation et d'entretien de matériel de distribut
 Matériel électrique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-322344912"> SPELEM</a>    9 rue Gaston Evrard 31094 Toulouse <br/>
+<a href="/entreprise-546/siren-322344912"> SPELEM</a>    9 rue Gaston Evrard 31094 Toulouse <br/>

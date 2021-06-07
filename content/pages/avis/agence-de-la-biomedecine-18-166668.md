@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-180092587"> AGENCE DE LA BIOMEDECINE</a><br/>
+<a href="/acheteur-132/siren-180092587"> AGENCE DE LA BIOMEDECINE</a><br/>
 
 
 
@@ -31,14 +31,14 @@ ST DENIS - Département 93 - Seine-Saint-Denis
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV63121100 - **Services de stockage** <br/>
-CPV64121200 - **Services de livraison de colis** <br/>
-CPV63120000 - **Services de stockage et d'entreposage** <br/>
 CPV60161000 - **Services de transport de colis** <br/>
+CPV63121100 - **Services de stockage** <br/>
+CPV63120000 - **Services de stockage et d'entreposage** <br/>
+CPV64121200 - **Services de livraison de colis** <br/>
 
 ##### Descripteurs :
 Prestations de services <br/>
 Routage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-417525078"> KOBA</a>    153 rue de Courcelles 75017 Paris <br/>
+<a href="/entreprise-557/siren-417525078"> KOBA</a>    153 rue de Courcelles 75017 Paris <br/>

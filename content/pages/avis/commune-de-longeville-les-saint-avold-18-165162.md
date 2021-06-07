@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215704131"> COMMUNE DE LONGEVILLE LES SAINT AVOLD</a><br/>
+<a href="/acheteur-135/siren-215704131"> COMMUNE DE LONGEVILLE LES SAINT AVOLD</a><br/>
 
 Nathalie WEBERT
 
@@ -39,4 +39,4 @@ Nettoyage de locaux <br/>
 ### Attribution du Marché :
 S2G SAS - 4 rue Jules Verne 57600 FORBACH <br/>
 AF PROPRETE - 4 rue des Artisans 57245 FRONTIGNY <br/>
-<a href="/entreprise-264/siren-495198434"> ECLAIRCIR</a>    Rue Jean Prouvé 57600 FORBACH <br/>
+<a href="/entreprise-567/siren-495198434"> ECLAIRCIR</a>    Rue Jean Prouvé 57600 FORBACH <br/>

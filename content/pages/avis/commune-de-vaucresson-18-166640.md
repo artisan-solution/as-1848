@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219200763"> COMMUNE DE VAUCRESSON</a><br/>
+<a href="/acheteur-136/siren-219200763"> COMMUNE DE VAUCRESSON</a><br/>
 
 
 
@@ -30,8 +30,8 @@ Vaucresson - Département 92 - Hauts-de-Seine
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV77340000 - **Élagage des arbres et taille des haies** <br/>
 CPV45112710 - **Travaux d'aménagement paysager d'espaces verts** <br/>
+CPV77340000 - **Élagage des arbres et taille des haies** <br/>
 
 ##### Descripteurs :
 Espaces verts <br/>
@@ -39,4 +39,4 @@ Prestations de services <br/>
 
 ### Attribution du Marché :
 E.V EN ESPACES VERTS - 3, rue Galois ZA PARIWEST 78310 Maurepas <br/>
-<a href="/entreprise-266/siren-523874246"> BELBEOC'H</a>    8, rue des Hauts Reposoirs 78520 Limay <br/>
+<a href="/entreprise-570/siren-523874246"> BELBEOC'H</a>    8, rue des Hauts Reposoirs 78520 Limay <br/>

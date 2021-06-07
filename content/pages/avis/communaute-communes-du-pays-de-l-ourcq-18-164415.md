@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-247700065"> COMMUNAUTE COMMUNES DU PAYS DE L'OURCQ</a><br/>
+<a href="/acheteur-137/siren-247700065"> COMMUNAUTE COMMUNES DU PAYS DE L'OURCQ</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV92331210 - **Services d'animation pour enfants** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-793571969"> CHARLOTTE LOISIRS</a>    15, avenue Galois 92340 BOURG LA REINE <br/>
+<a href="/entreprise-576/siren-793571969"> CHARLOTTE LOISIRS</a>    15, avenue Galois 92340 BOURG LA REINE <br/>

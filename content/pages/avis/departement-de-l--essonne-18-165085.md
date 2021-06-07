@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
+<a href="/acheteur-137/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV32571000 - **Infrastructure de communications** <br/>
 Télécommunications <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-512664194"> ORANGE CYBERDEFENSE</a>    54 place de l'Ellipse 92983 Paris la Defense <br/>
+<a href="/entreprise-569/siren-512664194"> ORANGE CYBERDEFENSE</a>    54 place de l'Ellipse 92983 Paris la Defense <br/>

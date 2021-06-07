@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-242900314"> BREST METROPOLE</a><br/>
+<a href="/acheteur-137/siren-242900314"> BREST METROPOLE</a><br/>
 
 
 
@@ -31,13 +31,13 @@ BREST - Département 29 - Finistère
 29/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV71313400 - **Étude d'impact sur l'environnement pour la construction** <br/>
 CPV71300000 - **Services d'ingénierie** <br/>
 CPV71313000 - **Services de conseil en ingénierie de l'environnement** <br/>
-CPV71313400 - **Étude d'impact sur l'environnement pour la construction** <br/>
 
 ##### Descripteurs :
 Etude <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-390613610"> BIOTOPE</a>    28 quai de la Douane 29200 Brest <br/>
-<a href="/entreprise-259/siren-401503792"> ARCADIS ESG</a>    2, rue Jacques Brel, BP 10121 44817 Saint Herblain cedex <br/>
+<a href="/entreprise-553/siren-390613610"> BIOTOPE</a>    28 quai de la Douane 29200 Brest <br/>
+<a href="/entreprise-555/siren-401503792"> ARCADIS ESG</a>    2, rue Jacques Brel, BP 10121 44817 Saint Herblain cedex <br/>

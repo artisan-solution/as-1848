@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219400801"> COMMUNE DE VINCENNES</a><br/>
+<a href="/acheteur-136/siren-219400801"> COMMUNE DE VINCENNES</a><br/>
 
 Mme Libert-albanel Charlotte, Mairie de Vincennes
 
@@ -39,4 +39,4 @@ Prestations de services <br/>
 
 ### Attribution du Marché :
 Société synerglace - 2/5, rue de la Forets 68990 Heimsbrunn <br/>
-<a href="/entreprise-270/siren-808022321"> Ucpa sports loisirs</a>    37, avenue Hélène Muller 94320 Thiais <br/>
+<a href="/entreprise-577/siren-808022321"> Ucpa sports loisirs</a>    37, avenue Hélène Muller 94320 Thiais <br/>

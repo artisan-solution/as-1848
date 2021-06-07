@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-220800049"> DEPARTEMENT DES ARDENNES</a><br/>
+<a href="/acheteur-137/siren-220800049"> DEPARTEMENT DES ARDENNES</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Impression <br/>
 Matériel d'imprimerie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-682039078"> LIXXBAIL</a>    12 place des Etats-Unis 92548 MONTROUGE <br/>
-<a href="/entreprise-268/siren-738205269"> CANON FRANCE</a>    17 quai du Président Paul Doumer 92414 COURBEVOIE <br/>
+<a href="/entreprise-573/siren-682039078"> LIXXBAIL</a>    12 place des Etats-Unis 92548 MONTROUGE <br/>
+<a href="/entreprise-574/siren-738205269"> CANON FRANCE</a>    17 quai du Président Paul Doumer 92414 COURBEVOIE <br/>

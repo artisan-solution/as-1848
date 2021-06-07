@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213304173"> COMMUNE DE SAINTE HELENE</a><br/>
+<a href="/acheteur-134/siren-213304173"> COMMUNE DE SAINTE HELENE</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV71200000 - **Services d'architecture** <br/>
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-DM-ARCHITECTES DE MARCO - 7 allée des Eyquems 33700 MERIGNAC <br/>
+<a href="/entreprise-554/siren-391886975"> DM-ARCHITECTES DE MARCO</a>    7 allée des Eyquems 33700 MERIGNAC <br/>

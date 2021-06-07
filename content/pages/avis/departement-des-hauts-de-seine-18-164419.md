@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229200506"> DEPARTEMENT DES HAUTS-DE-SEINE</a><br/>
+<a href="/acheteur-137/siren-229200506"> DEPARTEMENT DES HAUTS-DE-SEINE</a><br/>
 
 
 
@@ -43,4 +43,4 @@ Voirie <br/>
 
 ### Attribution du Marché :
 CITEOS - 18, avenue du Général de Gaulle 92220 Bagneux <br/>
-<a href="/entreprise-255/siren-329198337"> COLAS</a>    11 quai du Rancy 94381 Bonneuil-sur-Marne <br/>
+<a href="/entreprise-547/siren-329198337"> COLAS</a>    11 quai du Rancy 94381 Bonneuil-sur-Marne <br/>

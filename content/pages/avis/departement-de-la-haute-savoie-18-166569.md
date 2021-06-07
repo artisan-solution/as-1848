@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-227400017"> DEPARTEMENT DE LA HAUTE SAVOIE</a><br/>
+<a href="/acheteur-137/siren-227400017"> DEPARTEMENT DE LA HAUTE SAVOIE</a><br/>
 
 
 
@@ -37,6 +37,6 @@ CPV71356100 - **Services de contrôle technique** <br/>
 Contrôle technique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-437807795"> Auto Bilan France</a>    11-13 Avenue Georges Politzer 78190 Trappes <br/>
-Ctat - 33 Chemin des Tissottes 74200 Thonon-les-Bains <br/>
-<a href="/entreprise-267/siren-538170010"> Sfctc</a>    39 rue de la crete 74960 Cran-Gevrier <br/>
+<a href="/entreprise-560/siren-437807795"> Auto Bilan France</a>    11-13 Avenue Georges Politzer 78190 Trappes <br/>
+<a href="/entreprise-570/siren-524028032"> Ctat</a>    33 Chemin des Tissottes 74200 Thonon-les-Bains <br/>
+<a href="/entreprise-572/siren-538170010"> Sfctc</a>    39 rue de la crete 74960 Cran-Gevrier <br/>

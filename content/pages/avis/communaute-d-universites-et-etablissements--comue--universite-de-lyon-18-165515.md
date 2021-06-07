@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130021363"> COMMUNAUTE D'UNIVERSITES ET ETABLISSEMENTS (COMUE) UNIVERSITE DE LYON</a><br/>
+<a href="/acheteur-132/siren-130021363"> COMMUNAUTE D'UNIVERSITES ET ETABLISSEMENTS (COMUE) UNIVERSITE DE LYON</a><br/>
 
 
 
@@ -36,7 +36,7 @@ CPV71000000 - **Services d'architecture, services de construction, services d'in
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-451587562"> TEM PARTNERS</a>    25, rue Joannès Carret CS 60121 69266 Lyon cedex 09 <br/>
-<a href="/entreprise-262/siren-444177935"> MOON SAFARI SAS</a>    7, allée de Chartres 33000 Bordeaux <br/>
+<a href="/entreprise-563/siren-451587562"> TEM PARTNERS</a>    25, rue Joannès Carret CS 60121 69266 Lyon cedex 09 <br/>
+<a href="/entreprise-562/siren-444177935"> MOON SAFARI SAS</a>    7, allée de Chartres 33000 Bordeaux <br/>
 SARL DA Architectes - 28, rue des 3 bornes 75011 Paris <br/>
-<a href="/entreprise-266/siren-518169347"> SIGMA ACOUSTIQUE</a>    12, rue Jean Monnet 12000 Rodez <br/>
+<a href="/entreprise-570/siren-518169347"> SIGMA ACOUSTIQUE</a>    12, rue Jean Monnet 12000 Rodez <br/>

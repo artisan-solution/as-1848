@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-225900018"> DEPARTEMENT DU NORD</a><br/>
+<a href="/acheteur-137/siren-225900018"> DEPARTEMENT DU NORD</a><br/>
 
 
 
@@ -31,13 +31,13 @@ LILLE - Département 59 - Nord
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV38300000 - **Instruments de mesure** <br/>
-CPV16000000 - **Machines agricoles** <br/>
 CPV31640000 - **Machines et appareils à usage spécifique** <br/>
+CPV16000000 - **Machines agricoles** <br/>
+CPV38300000 - **Instruments de mesure** <br/>
 
 ##### Descripteurs :
 Outillage <br/>
 
 ### Attribution du Marché :
 SAS MAPP Votre matériel de Jardin - 823 avenue de l'Epinette 59113 Seclin <br/>
-<a href="/entreprise-267/siren-563820489"> LEGALLAIS</a>    7 rue d'Atalante - CITIS 14200 HEROUVILLE SAINT CLAIR <br/>
+<a href="/entreprise-572/siren-563820489"> LEGALLAIS</a>    7 rue d'Atalante - CITIS 14200 HEROUVILLE SAINT CLAIR <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200068120"> CA QUIMPER BRETAGNE OCCIDENTALE</a><br/>
+<a href="/acheteur-133/siren-200068120"> CA QUIMPER BRETAGNE OCCIDENTALE</a><br/>
 
 
 
@@ -38,4 +38,4 @@ CPV71410000 - **Services d'urbanisme** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-444523526"> ARTELIA VILLE ET TRANSPORT</a>    Port de Plaisance du Moulin Blanc 29200 Brest <br/>
+<a href="/entreprise-562/siren-444523526"> ARTELIA VILLE ET TRANSPORT</a>    Port de Plaisance du Moulin Blanc 29200 Brest <br/>

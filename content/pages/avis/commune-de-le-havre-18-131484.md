@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217603513"> COMMUNE DE LE HAVRE</a><br/>
+<a href="/acheteur-136/siren-217603513"> COMMUNE DE LE HAVRE</a><br/>
 
 
 
@@ -38,8 +38,8 @@ Prestations de services <br/>
 
 ### Attribution du Marché :
 Association Sans Detour - 24 rue Georges Heuillard 76600 Le Havre <br/>
-<a href="/entreprise-257/siren-379726078"> Association TRAIT D UNION</a>    9 rue Maurice Tronelle 76620 LE HAVRE <br/>
+<a href="/entreprise-551/siren-379726078"> Association TRAIT D UNION</a>    9 rue Maurice Tronelle 76620 LE HAVRE <br/>
 CJSB - 19 rue de la Sous-Bretonne 76620 LE HAVRE <br/>
-<a href="/entreprise-255/siren-332737394"> IFAC</a>    53 rue du Révérend Père Christian Gilbert 92600 Asnières <br/>
-<a href="/entreprise-261/siren-434681417"> Association Eugène VARLIN</a>    1 Allée Emile Aubry 76610 LE HAVRE <br/>
-<a href="/entreprise-268/siren-781065982"> Association Saint Thomas Daquin</a>    39 rue Louis Delamare 76600 Le Havre <br/>
+<a href="/entreprise-548/siren-332737394"> IFAC</a>    53 rue du Révérend Père Christian Gilbert 92600 Asnières <br/>
+<a href="/entreprise-560/siren-434681417"> Association Eugène VARLIN</a>    1 Allée Emile Aubry 76610 LE HAVRE <br/>
+<a href="/entreprise-575/siren-781065982"> Association Saint Thomas Daquin</a>    39 rue Louis Delamare 76600 Le Havre <br/>

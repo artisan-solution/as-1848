@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200044048"> CC OSARTIS MARQUION</a><br/>
+<a href="/acheteur-133/siren-200044048"> CC OSARTIS MARQUION</a><br/>
 
 M. le Président de la Communauté de Communes Osartis-Marquion
 
@@ -37,4 +37,4 @@ Prestations de services <br/>
 Transport <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-812740009"> SAS RJ TRANSPORT ET MOBILITÉ</a>    16, rue de Vitry 62490 NOYELLES-SOUS-BELLONNE <br/>
+<a href="/entreprise-578/siren-812740009"> SAS RJ TRANSPORT ET MOBILITÉ</a>    16, rue de Vitry 62490 NOYELLES-SOUS-BELLONNE <br/>

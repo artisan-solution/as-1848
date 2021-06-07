@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200040590"> COMMUNAUTE D'AGGLOMERATION VILLEFRANCHE BEAUJOLAIS SAONE</a><br/>
+<a href="/acheteur-133/siren-200040590"> COMMUNAUTE D'AGGLOMERATION VILLEFRANCHE BEAUJOLAIS SAONE</a><br/>
 
 FAURITE Daniel, Président
 
@@ -38,4 +38,4 @@ Location (matériels) <br/>
 Reprographie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-686750183"> VOTRE BUREAU</a>    303 rue Fernand Léger 71000 Mâcon <br/>
+<a href="/entreprise-573/siren-686750183"> VOTRE BUREAU</a>    303 rue Fernand Léger 71000 Mâcon <br/>

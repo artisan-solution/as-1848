@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219722139"> COMMUNE DU LAMENTIN</a><br/>
+<a href="/acheteur-137/siren-219722139"> COMMUNE DU LAMENTIN</a><br/>
 
 
 
@@ -31,14 +31,14 @@ LE LAMENTIN MARTINIQUE - Département 972 - Martinique
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV44191000 - **Matériaux divers de construction en bois** <br/>
 CPV45431000 - **Carrelages** <br/>
-CPV44111200 - **Ciment** <br/>
-CPV44191100 - **Contreplaqué** <br/>
 CPV44190000 - **Matériaux de construction divers** <br/>
+CPV44111200 - **Ciment** <br/>
+CPV44191000 - **Matériaux divers de construction en bois** <br/>
+CPV44191100 - **Contreplaqué** <br/>
 
 ##### Descripteurs :
 Matériaux de construction <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-271/siren-833805682"> POINT MAT MASTER</a>    Les Hauts de Californie Morne Pavillon 97232 Le Lamentin Martinique <br/>
+<a href="/entreprise-580/siren-833805682"> POINT MAT MASTER</a>    Les Hauts de Californie Morne Pavillon 97232 Le Lamentin Martinique <br/>

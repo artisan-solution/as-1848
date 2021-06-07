@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200036473"> COMMUNAUTE D'AGGLOMERATION DE SAINTES</a><br/>
+<a href="/acheteur-133/siren-200036473"> COMMUNAUTE D'AGGLOMERATION DE SAINTES</a><br/>
 
 Mme KARINE TARDY-BOURLION
 
@@ -37,4 +37,4 @@ CPV90918000 - **Services de nettoyage de poubelles** <br/>
 Nettoyage urbain <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-778151944"> Plastic omnium</a>    Rue Pierre de Maupertuis ZA de Ker Lann 35170 BRUZ <br/>
+<a href="/entreprise-575/siren-778151944"> Plastic omnium</a>    Rue Pierre de Maupertuis ZA de Ker Lann 35170 BRUZ <br/>

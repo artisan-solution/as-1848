@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV45000000 - **Travaux de construction** <br/>
 Tous corps d'état <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-811726561"> PUEBLA SAS</a>    14 rue Crespin du Gaast 75011 PARIS <br/>
+<a href="/entreprise-578/siren-811726561"> PUEBLA SAS</a>    14 rue Crespin du Gaast 75011 PARIS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218300093"> COMMUNE DE BANDOL</a><br/>
+<a href="/acheteur-136/siren-218300093"> COMMUNE DE BANDOL</a><br/>
 
 
 
@@ -32,12 +32,12 @@ Bandol - Département 83 - Var
 
 ##### Codes CPV concerné(s) :
 CPV45232410 - **Travaux d'assainissement** <br/>
-CPV45233140 - **Travaux routiers** <br/>
 CPV45112700 - **Travaux d'aménagement paysager** <br/>
+CPV45233140 - **Travaux routiers** <br/>
 CPV45232130 - **Travaux de construction de canalisations d'eaux pluviales** <br/>
-CPV45233293 - **Installation de mobilier urbain** <br/>
 CPV45233222 - **Travaux de pavage et de resurfaçage de chaussées** <br/>
 CPV45112710 - **Travaux d'aménagement paysager d'espaces verts** <br/>
+CPV45233293 - **Installation de mobilier urbain** <br/>
 
 ##### Descripteurs :
 Arrosage <br/>
@@ -52,11 +52,11 @@ Terrassement <br/>
 Voirie et réseaux divers <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-499325439"> SOLS AZUR</a>    ZAC du carreau de la mine 13590 MEYREUIL <br/>
-<a href="/entreprise-261/siren-439987405"> EHTP</a>    rue Jacques Monod 83340 LE LUC EN PROVENCE <br/>
-<a href="/entreprise-261/siren-432554905"> SOCIETE PROVENCALE DE TRAVAUX</a>    362 chemin des Arnaud 83130 LA GARDE <br/>
-<a href="/entreprise-264/siren-487469330"> GUINTOLI</a>    rue Jacques Monod 83340 LE LUC EN PROVENCE <br/>
-<a href="/entreprise-268/siren-788140028"> BELLE ENVIRONNEMENT</a>    rue andré Malraux - BP333 26208 MONTELIMAR CEDEX <br/>
-<a href="/entreprise-255/siren-329405211"> COLAS MIDI MEDITERRANEE</a>    173 avenue de Bruxelles 83507 LA SEYNE SUR MER CEDEX <br/>
-<a href="/entreprise-259/siren-409791860"> MOBIL CONCEPTS</a>    37 chemin de la poste royale 34690 FABREGUES <br/>
-<a href="/entreprise-253/siren-304601206"> MEDITERRANEE ENVIRONNEMENT</a>    126 chemin Lou Foévi 83190 OLLIOULES <br/>
+<a href="/entreprise-567/siren-499325439"> SOLS AZUR</a>    ZAC du carreau de la mine 13590 MEYREUIL <br/>
+<a href="/entreprise-561/siren-439987405"> EHTP</a>    rue Jacques Monod 83340 LE LUC EN PROVENCE <br/>
+<a href="/entreprise-560/siren-432554905"> SOCIETE PROVENCALE DE TRAVAUX</a>    362 chemin des Arnaud 83130 LA GARDE <br/>
+<a href="/entreprise-565/siren-487469330"> GUINTOLI</a>    rue Jacques Monod 83340 LE LUC EN PROVENCE <br/>
+<a href="/entreprise-575/siren-788140028"> BELLE ENVIRONNEMENT</a>    rue andré Malraux - BP333 26208 MONTELIMAR CEDEX <br/>
+<a href="/entreprise-547/siren-329405211"> COLAS MIDI MEDITERRANEE</a>    173 avenue de Bruxelles 83507 LA SEYNE SUR MER CEDEX <br/>
+<a href="/entreprise-556/siren-409791860"> MOBIL CONCEPTS</a>    37 chemin de la poste royale 34690 FABREGUES <br/>
+<a href="/entreprise-544/siren-304601206"> MEDITERRANEE ENVIRONNEMENT</a>    126 chemin Lou Foévi 83190 OLLIOULES <br/>

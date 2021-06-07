@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-226000016"> DEPARTEMENT DE L'OISE</a><br/>
+<a href="/acheteur-137/siren-226000016"> DEPARTEMENT DE L'OISE</a><br/>
 
 Madame la Présidente du Conseil départemental
 
@@ -37,4 +37,4 @@ Etude <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-480114362"> Groupe ENEIS</a>    2 boulevard Saint Martin 75010 Paris <br/>
+<a href="/entreprise-564/siren-480114362"> Groupe ENEIS</a>    2 boulevard Saint Martin 75010 Paris <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-227605409"> DEPARTEMENT DE LA SEINE MARITIME</a><br/>
+<a href="/acheteur-137/siren-227605409"> DEPARTEMENT DE LA SEINE MARITIME</a><br/>
 
 MARTIN Pascal, Président
 
@@ -37,4 +37,4 @@ CPV45340000 - **Travaux d'installation de clôtures, de garde-corps et de dispos
 Clôture <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-720501030"> CLOTURES LANGLOIS</a>    3 RUE DE MARCONI - ZI LA MAINE - BP 1016 76150 MAROMME CEDEX <br/>
+<a href="/entreprise-573/siren-720501030"> CLOTURES LANGLOIS</a>    3 RUE DE MARCONI - ZI LA MAINE - BP 1016 76150 MAROMME CEDEX <br/>

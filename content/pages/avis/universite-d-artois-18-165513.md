@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-196244016"> UNIVERSITE D ARTOIS</a><br/>
+<a href="/acheteur-132/siren-196244016"> UNIVERSITE D ARTOIS</a><br/>
 
 Mme KORKUT Tania, Université d'Artois
 
@@ -37,4 +37,4 @@ CPV66516000 - **Services d'assurance responsabilité civile** <br/>
 Assurance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-775709702"> Maif</a>    14/16 boulevard de la mothe 54000 Nancy <br/>
+<a href="/entreprise-574/siren-775709702"> Maif</a>    14/16 boulevard de la mothe 54000 Nancy <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 M. GAUBERT Anne Marie, Etablissement du service d'infrastructure de la défense de Bordeaux
 
@@ -36,4 +36,4 @@ BORDEAUX - Département 33 - Gironde
 Tous corps d'état <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-271/siren-847250602"> BOURDARIOS</a>    60 boulevard de Thibaud - BP 48484 31084 Toulouse cedex 1 <br/>
+<a href="/entreprise-581/siren-847250602"> BOURDARIOS</a>    60 boulevard de Thibaud - BP 48484 31084 Toulouse cedex 1 <br/>

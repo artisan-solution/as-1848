@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-244400438"> COMMUNAUTE DE COMMUNES DE GRAND LIEU</a><br/>
+<a href="/acheteur-137/siren-244400438"> COMMUNAUTE DE COMMUNES DE GRAND LIEU</a><br/>
 
 M. Johann BOBLIN, Président
 

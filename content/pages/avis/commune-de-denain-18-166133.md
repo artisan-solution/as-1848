@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215901729"> COMMUNE DE DENAIN</a><br/>
+<a href="/acheteur-135/siren-215901729"> COMMUNE DE DENAIN</a><br/>
 
 Mme Dufour-Tonini Anne-Lise, Maire
 
@@ -31,14 +31,14 @@ Denain - Département 59 - Nord
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV34922100 - **Marquage routier** <br/>
 CPV34992200 - **Panneaux de signalisation routière** <br/>
 CPV34928400 - **Mobilier urbain** <br/>
+CPV34922100 - **Marquage routier** <br/>
 
 ##### Descripteurs :
 Mobilier urbain <br/>
 Signalisation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-272/siren-968502377"> Signature</a>    6 avenue de l'europe 59280 Armentière <br/>
-<a href="/entreprise-272/siren-968502377"> Signature</a>    6 avenue de l'europe 59280 Armentières <br/>
+<a href="/entreprise-582/siren-968502377"> Signature</a>    6 avenue de l'europe 59280 Armentière <br/>
+<a href="/entreprise-582/siren-968502377"> Signature</a>    6 avenue de l'europe 59280 Armentières <br/>

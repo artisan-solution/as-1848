@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217605401"> COMMUNE DE ROUEN</a><br/>
+<a href="/acheteur-136/siren-217605401"> COMMUNE DE ROUEN</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV45317300 - **Travaux d'installation électrique d'appareils de distribution**
 Electricité (travaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-387934177"> Desormeaux</a>    38 Rue Lambard Bp212 76120 Grand Quevilly <br/>
+<a href="/entreprise-553/siren-387934177"> Desormeaux</a>    38 Rue Lambard Bp212 76120 Grand Quevilly <br/>

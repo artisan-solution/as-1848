@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217605401"> COMMUNE DE ROUEN</a><br/>
+<a href="/acheteur-136/siren-217605401"> COMMUNE DE ROUEN</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV79111000 - **Services de conseil juridique** <br/>
 Assistance juridique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-480191527"> ALTRA CONSULTING</a>    40 RUE DE LIEGE 75008 PARIS <br/>
+<a href="/entreprise-564/siren-480191527"> ALTRA CONSULTING</a>    40 RUE DE LIEGE 75008 PARIS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229501275"> DEPARTEMENT DU VAL D OISE</a><br/>
+<a href="/acheteur-137/siren-229501275"> DEPARTEMENT DU VAL D OISE</a><br/>
 
 Mme CD95 la présidente, Le Conseil départemental du Val d'Oise
 
@@ -31,8 +31,8 @@ CERGY PONTOISE - Département 95 - Val-d'oise
 27/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV63000000 - **Services d'appui et services auxiliaires dans le domaine des transports, services des agences de voyages** <br/>
 CPV63100000 - **Services de manutention et d'entreposage de cargaisons** <br/>
+CPV63000000 - **Services d'appui et services auxiliaires dans le domaine des transports, services des agences de voyages** <br/>
 
 ##### Descripteurs :
 Déménagement <br/>
@@ -41,4 +41,4 @@ Transport <br/>
 ### Attribution du Marché :
 Société CVSD - 1 DIGUE D'ALFORTVILLE 94000 CRETEIL <br/>
 Société ORGANIDEM - 131, avenue Charles Floquet 93150 LE BLANC MESNIL <br/>
-<a href="/entreprise-261/siren-435047014"> I TECH TRANSFERT</a>    ZI Les Richardets 36 rue du Ballon 93160 NOISY LE GRAND <br/>
+<a href="/entreprise-560/siren-435047014"> I TECH TRANSFERT</a>    ZI Les Richardets 36 rue du Ballon 93160 NOISY LE GRAND <br/>

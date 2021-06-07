@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219740198"> COMMUNE DE SAINTE ROSE</a><br/>
+<a href="/acheteur-137/siren-219740198"> COMMUNE DE SAINTE ROSE</a><br/>
 
 
 
@@ -37,6 +37,6 @@ CPV22113000 - **Livres de bibliothèque** <br/>
 Livres <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-347811051"> Librairie Sas Autrement</a>    82-88 Rue Juliette Dodu 97400 Saint-Denis <br/>
-<a href="/entreprise-254/siren-317526309"> Rdm Video</a>    125-127 bd Gambetta 95110 Sannois <br/>
-<a href="/entreprise-267/siren-531445070"> Book In Diffusion</a>    22 rue des Prés Hays 14790 Verson <br/>
+<a href="/entreprise-550/siren-347811051"> Librairie Sas Autrement</a>    82-88 Rue Juliette Dodu 97400 Saint-Denis <br/>
+<a href="/entreprise-545/siren-317526309"> Rdm Video</a>    125-127 bd Gambetta 95110 Sannois <br/>
+<a href="/entreprise-571/siren-531445070"> Book In Diffusion</a>    22 rue des Prés Hays 14790 Verson <br/>

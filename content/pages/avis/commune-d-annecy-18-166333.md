@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200063402"> COMMUNE D'ANNECY</a><br/>
+<a href="/acheteur-133/siren-200063402"> COMMUNE D'ANNECY</a><br/>
 
 
 
@@ -32,8 +32,8 @@ ANNECY - Département 74 - Haute-Savoie
 
 ##### Codes CPV concerné(s) :
 CPV79111000 - **Services de conseil juridique** <br/>
-CPV71400000 - **Services d'urbanisme et d'architecture paysagère** <br/>
 CPV71240000 - **Services d'architecture, d'ingénierie et de planification** <br/>
+CPV71400000 - **Services d'urbanisme et d'architecture paysagère** <br/>
 
 ##### Descripteurs :
 Assistance à maîtrise d'ouvrage <br/>

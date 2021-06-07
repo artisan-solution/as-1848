@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219200045"> COMMUNE D ASNIERES SUR SEINE</a><br/>
+<a href="/acheteur-136/siren-219200045"> COMMUNE D ASNIERES SUR SEINE</a><br/>
 
 
 
@@ -31,12 +31,12 @@ ASNIERES SUR SEINE - Département 92 - Hauts-de-Seine
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV45261420 - **Travaux d'étanchéification** <br/>
 CPV45431000 - **Carrelages** <br/>
-CPV45223220 - **Travaux de gros œuvre** <br/>
 CPV45442100 - **Travaux de peinture** <br/>
 CPV45330000 - **Travaux de plomberie** <br/>
 CPV45310000 - **Travaux d'équipement électrique** <br/>
+CPV45261420 - **Travaux d'étanchéification** <br/>
+CPV45223220 - **Travaux de gros œuvre** <br/>
 
 ##### Descripteurs :
 Bâtiment <br/>

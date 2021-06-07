@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211400478"> COMMUNE DE BAYEUX</a><br/>
+<a href="/acheteur-134/siren-211400478"> COMMUNE DE BAYEUX</a><br/>
 
 
 
@@ -39,4 +39,4 @@ Logiciel <br/>
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-337621841"> RICOH FRANCE SAS</a>    Parc icade paris orly rungis - 7/9 avenue robert schuman - parc d'affaires silic 94150 Rungis <br/>
+<a href="/entreprise-548/siren-337621841"> RICOH FRANCE SAS</a>    Parc icade paris orly rungis - 7/9 avenue robert schuman - parc d'affaires silic 94150 Rungis <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-249500109"> COMMUNAUTE D'AGGLO DE CERGY-PONTOISE</a><br/>
+<a href="/acheteur-137/siren-249500109"> COMMUNAUTE D'AGGLO DE CERGY-PONTOISE</a><br/>
 
 Le President
 
@@ -31,11 +31,11 @@ CERGY PONTOISE - Département 95 - Val-d'oise
 27/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV71335000 - **Études techniques** <br/>
-CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
 CPV71356200 - **Services d'assistance technique** <br/>
 CPV75310000 - **Services de prestations** <br/>
+CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
 CPV79311000 - **Services d'études** <br/>
+CPV71335000 - **Études techniques** <br/>
 
 ##### Descripteurs :
 Assistance technique <br/>
@@ -44,4 +44,4 @@ Prestations de services <br/>
 Assistance à maîtrise d'ouvrage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-804448587"> QCS SERVICES</a>    Vélizy plus - bât. D 78140 Vélizy-Villacoublay <br/>
+<a href="/entreprise-577/siren-804448587"> QCS SERVICES</a>    Vélizy plus - bât. D 78140 Vélizy-Villacoublay <br/>

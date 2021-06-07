@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300553"> COMMUNE DE MARSEILLE</a><br/>
+<a href="/acheteur-134/siren-211300553"> COMMUNE DE MARSEILLE</a><br/>
 
 
 
@@ -31,8 +31,8 @@ MARSEILLE - Département 13 - Bouches-du-Rhône
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV72420000 - **Services de développement de l'internet** <br/>
 CPV72400000 - **Services internet** <br/>
+CPV72420000 - **Services de développement de l'internet** <br/>
 
 ##### Descripteurs :
 Site internet <br/>

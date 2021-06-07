@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218300424"> COMMUNE DE COGOLIN</a><br/>
+<a href="/acheteur-136/siren-218300424"> COMMUNE DE COGOLIN</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV31680000 - **Fournitures et accessoires électriques** <br/>
 Illumination <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-603750084"> EGTE SERRADORI</a>    ZA DU CARREOU 83480 PUGET SUR ARGENS <br/>
-<a href="/entreprise-256/siren-343829784"> BLACHERE ILLUMINATIONS</a>    Zone Industrielle des Bourguignons 84000 APT <br/>
+<a href="/entreprise-573/siren-603750084"> EGTE SERRADORI</a>    ZA DU CARREOU 83480 PUGET SUR ARGENS <br/>
+<a href="/entreprise-549/siren-343829784"> BLACHERE ILLUMINATIONS</a>    Zone Industrielle des Bourguignons 84000 APT <br/>

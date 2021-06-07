@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-278500012"> OFFICE PUBLIC DE L HABITAT DE VENDEE</a><br/>
+<a href="/acheteur-138/siren-278500012"> OFFICE PUBLIC DE L HABITAT DE VENDEE</a><br/>
 
 
 
@@ -31,13 +31,13 @@ LA ROCHE SUR YON - Département 85 - Vendée
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV66515000 - **Services d'assurance dommages ou pertes** <br/>
 CPV66513200 - **Services d'assurance tous risques chantier** <br/>
+CPV66515000 - **Services d'assurance dommages ou pertes** <br/>
 
 ##### Descripteurs :
 Assurance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-775684764"> SMABTP</a>    4 impasse Serge Reggiani CS 80372 44816 SAINT HERBLAIN CEDEX <br/>
-<a href="/entreprise-267/siren-572059939"> SIACI SAINT HONORE</a>    immeuble Season 39 rue Mstislav Rostropovitch 75017 PARIS <br/>
+<a href="/entreprise-574/siren-775684764"> SMABTP</a>    4 impasse Serge Reggiani CS 80372 44816 SAINT HERBLAIN CEDEX <br/>
+<a href="/entreprise-572/siren-572059939"> SIACI SAINT HONORE</a>    immeuble Season 39 rue Mstislav Rostropovitch 75017 PARIS <br/>
 MSIG INSURANCE EUROPE AG SUCCURSALE POUR LA FRANCE - 65 RUE DE LA VICTOIRE 75009 PARIS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217703792"> COMMUNE PROVINS</a><br/>
+<a href="/acheteur-136/siren-217703792"> COMMUNE PROVINS</a><br/>
 
 
 
@@ -31,8 +31,8 @@ PROVINS - Département 77 - Seine-et-Marne
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV65111000 - **Distribution d'eau potable** <br/>
 CPV65130000 - **Exploitation de l'alimentation en eau** <br/>
+CPV65111000 - **Distribution d'eau potable** <br/>
 
 ##### Descripteurs :
 Abonnement <br/>

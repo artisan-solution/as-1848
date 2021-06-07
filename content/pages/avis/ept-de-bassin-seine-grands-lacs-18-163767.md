@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200075224"> EPT DE BASSIN SEINE GRANDS LACS</a><br/>
+<a href="/acheteur-133/siren-200075224"> EPT DE BASSIN SEINE GRANDS LACS</a><br/>
 
 M. Molet Valéry
 
@@ -37,4 +37,4 @@ Equipement hydraulique <br/>
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-314016908"> International hydraulique</a>    2 bis rue léon menu 94360 Bry sur marne <br/>
+<a href="/entreprise-545/siren-314016908"> International hydraulique</a>    2 bis rue léon menu 94360 Bry sur marne <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243400520"> COMMUNAUTE DE COMMUNES DU PAYS DE LUNEL</a><br/>
+<a href="/acheteur-137/siren-243400520"> COMMUNAUTE DE COMMUNES DU PAYS DE LUNEL</a><br/>
 
 
 
@@ -39,5 +39,5 @@ Publicité, Communication <br/>
 Signalétique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-325941011"> COMPTOIR NATIONAL DE DIFFUSION</a>    4 Rue des Peupliers 31700 BLAGNAC <br/>
-<a href="/entreprise-260/siren-413195439"> ALLIANCE CONSULTANTS SARL</a>    270 Chemin des Oliviers 34400 LUNEL <br/>
+<a href="/entreprise-547/siren-325941011"> COMPTOIR NATIONAL DE DIFFUSION</a>    4 Rue des Peupliers 31700 BLAGNAC <br/>
+<a href="/entreprise-557/siren-413195439"> ALLIANCE CONSULTANTS SARL</a>    270 Chemin des Oliviers 34400 LUNEL <br/>

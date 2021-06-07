@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213300320"> COMMUNE DE BASSENS</a><br/>
+<a href="/acheteur-134/siren-213300320"> COMMUNE DE BASSENS</a><br/>
 
 M. Turon Jean-Pierre, Maire
 
@@ -39,4 +39,4 @@ Matériel électronique <br/>
 Surveillance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-409867942"> INEO INFRACOM</a>    Avenue du docteur schinazi Zi la palu 33083 Bordeaux cedex <br/>
+<a href="/entreprise-556/siren-409867942"> INEO INFRACOM</a>    Avenue du docteur schinazi Zi la palu 33083 Bordeaux cedex <br/>

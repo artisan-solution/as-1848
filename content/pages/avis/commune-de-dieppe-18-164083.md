@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217602176"> COMMUNE DE DIEPPE</a><br/>
+<a href="/acheteur-136/siren-217602176"> COMMUNE DE DIEPPE</a><br/>
 
 
 
@@ -31,14 +31,14 @@ Dieppe - Département 76 - Seine-Maritime
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV09132100 - **Essence sans plomb** <br/>
 CPV30163100 - **Cartes pour l'achat de carburant** <br/>
 CPV63712210 - **Services de péage autoroutier** <br/>
 CPV09200000 - **Produits pétroliers, charbon et huiles** <br/>
 CPV09134000 - **Gasoils** <br/>
+CPV09132100 - **Essence sans plomb** <br/>
 
 ##### Descripteurs :
 Carburant, hydrocarbure <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-801050493"> Wex Europe Services</a>    104 Rue Nationale 59000 Lille <br/>
+<a href="/entreprise-577/siren-801050493"> Wex Europe Services</a>    104 Rue Nationale 59000 Lille <br/>

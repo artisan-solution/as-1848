@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218301448"> COMMUNE DE LA VALETTE DU VAR</a><br/>
+<a href="/acheteur-136/siren-218301448"> COMMUNE DE LA VALETTE DU VAR</a><br/>
 
 Le Maire
 
@@ -37,4 +37,4 @@ Assainissement <br/>
 Station de pompage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-342188299"> SUD EST ASSAINISSEMENT DU VAR</a>    783 avenue Robert Brun - ZA Camps Laurent 83500 LA SEYNE SUR MER <br/>
+<a href="/entreprise-549/siren-342188299"> SUD EST ASSAINISSEMENT DU VAR</a>    783 avenue Robert Brun - ZA Camps Laurent 83500 LA SEYNE SUR MER <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-247100290"> CU LE CREUSOT MONTCEAU-LES-MINES</a><br/>
+<a href="/acheteur-137/siren-247100290"> CU LE CREUSOT MONTCEAU-LES-MINES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV79512000 - **Centre d'appels** <br/>
 Télécommunications <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-479470031"> THE CALL MACHINE</a>    ZI Lann Sevelin - 109 rue Joseph Bigot 56850 CAUDAN <br/>
+<a href="/entreprise-564/siren-479470031"> THE CALL MACHINE</a>    ZI Lann Sevelin - 109 rue Joseph Bigot 56850 CAUDAN <br/>

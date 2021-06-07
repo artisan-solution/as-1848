@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-251600060"> SM DEPARTEMENTAL D'ELECTRICITE ET DE GAZ DE LA CHARENTE</a><br/>
+<a href="/acheteur-137/siren-251600060"> SM DEPARTEMENTAL D'ELECTRICITE ET DE GAZ DE LA CHARENTE</a><br/>
 
 
 
@@ -31,9 +31,9 @@ ANGOULEME - Département 16 - Charente
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV45232300 - **Travaux de construction de lignes téléphoniques et de lignes de communications et ouvrages annexes** <br/>
 CPV50232000 - **Entretien d'installations d'éclairage public et de feux de signalisation** <br/>
 CPV45231400 - **Travaux de construction de lignes électriques** <br/>
+CPV45232300 - **Travaux de construction de lignes téléphoniques et de lignes de communications et ouvrages annexes** <br/>
 
 ##### Descripteurs :
 Eclairage public <br/>

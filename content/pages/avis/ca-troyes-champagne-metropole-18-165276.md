@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200069250"> CA TROYES CHAMPAGNE METROPOLE</a><br/>
+<a href="/acheteur-133/siren-200069250"> CA TROYES CHAMPAGNE METROPOLE</a><br/>
 
 
 
@@ -31,27 +31,27 @@ Troyes - Département 10 - Aube
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV66515200 - **Services d'assurance de biens** <br/>
-CPV66516100 - **Services d'assurance responsabilité civile automobile** <br/>
-CPV66513100 - **Services d'assurance défense et recours** <br/>
-CPV66510000 - **Services d'assurance** <br/>
 CPV66515000 - **Services d'assurance dommages ou pertes** <br/>
-CPV66515100 - **Services d'assurance incendie** <br/>
 CPV66516000 - **Services d'assurance responsabilité civile** <br/>
+CPV66515100 - **Services d'assurance incendie** <br/>
+CPV66513100 - **Services d'assurance défense et recours** <br/>
+CPV66516100 - **Services d'assurance responsabilité civile automobile** <br/>
+CPV66515200 - **Services d'assurance de biens** <br/>
 CPV66516400 - **Services d'assurance responsabilité civile générale** <br/>
+CPV66510000 - **Services d'assurance** <br/>
 
 ##### Descripteurs :
 Assurance <br/>
 
 ### Attribution du Marché :
-KESTLER Collectivités Entreprises - 2 Ter rue Jean Jaurès 51000 Chalons en Champagne <br/>
-<a href="/entreprise-257/siren-383987625"> Groupama Nord Est</a>    2 rue Leon Patoux - CS 90010 51686 REIMS Cedex 2 <br/>
-<a href="/entreprise-253/siren-301309605"> SMACL Assurances</a>    141 avenue Salvador Allende 79031 NIORT Cedex 9 <br/>
-SIACY SAINT HONORE - 39 rue Mstislav Rostropovitch 75017 PARIS <br/>
-<a href="/entreprise-272/siren-958506156"> CFDP Assurances</a>    9-11 rue Matabiau 31000 TOULOUSE <br/>
-<a href="/entreprise-261/siren-440048882"> MMA IARD</a>    14 boulevard Alexandre et Marie Oyon 72030 Le Mans <br/>
 <a href=""> LIBERTY MUTUAL INSURANCE EUROPE LIMITED</a>    5 boulevard de la Madeleine 75001 PARIS <br/>
-<a href="/entreprise-270/siren-818660771"> ACL COURTAGE</a>    11 rue Faidherbe 46400 SAINT CERE <br/>
-<a href="/entreprise-255/siren-339489379"> HELVETIA ASSURANCES SA</a>    25 Quai Lamandé 76600 LE HAVRE <br/>
-<a href="/entreprise-266/siren-523332740"> K Ré</a>    18 rue du Printemps 68130 ALTKIRCH <br/>
+<a href="/entreprise-579/siren-818660771"> ACL COURTAGE</a>    11 rue Faidherbe 46400 SAINT CERE <br/>
+<a href="/entreprise-548/siren-339489379"> HELVETIA ASSURANCES SA</a>    25 Quai Lamandé 76600 LE HAVRE <br/>
+KESTLER Collectivités Entreprises - 2 Ter rue Jean Jaurès 51000 Chalons en Champagne <br/>
+<a href="/entreprise-552/siren-383987625"> Groupama Nord Est</a>    2 rue Leon Patoux - CS 90010 51686 REIMS Cedex 2 <br/>
+<a href="/entreprise-544/siren-301309605"> SMACL Assurances</a>    141 avenue Salvador Allende 79031 NIORT Cedex 9 <br/>
+SIACY SAINT HONORE - 39 rue Mstislav Rostropovitch 75017 PARIS <br/>
+<a href="/entreprise-582/siren-958506156"> CFDP Assurances</a>    9-11 rue Matabiau 31000 TOULOUSE <br/>
+<a href="/entreprise-561/siren-440048882"> MMA IARD</a>    14 boulevard Alexandre et Marie Oyon 72030 Le Mans <br/>
+<a href="/entreprise-570/siren-523332740"> K Ré</a>    18 rue du Printemps 68130 ALTKIRCH <br/>
 XL INSURANCE COMPANY SE (XL CATLIN) - 50 rue Taitbout 75320 PARIS CEDEX 9 <br/>

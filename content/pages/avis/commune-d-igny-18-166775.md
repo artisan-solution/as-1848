@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219103124"> COMMUNE D IGNY</a><br/>
+<a href="/acheteur-136/siren-219103124"> COMMUNE D IGNY</a><br/>
 
 VIGOUROUX Francisque, Monsieur le Maire
 
@@ -40,4 +40,4 @@ CPV09134200 - **Carburant diesel** <br/>
 Carburant, hydrocarbure <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-531680445"> TOTAL MARKETING FRANCE</a>    562 avenue du parc de l'Ile 92000 Nanterre <br/>
+<a href="/entreprise-571/siren-531680445"> TOTAL MARKETING FRANCE</a>    562 avenue du parc de l'Ile 92000 Nanterre <br/>

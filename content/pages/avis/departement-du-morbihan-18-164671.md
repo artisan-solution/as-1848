@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-225600014"> DEPARTEMENT DU MORBIHAN</a><br/>
+<a href="/acheteur-137/siren-225600014"> DEPARTEMENT DU MORBIHAN</a><br/>
 
 M. DABOUIS Frédéric
 
@@ -38,4 +38,4 @@ Terrassement <br/>
 Amiante (désamiantage) <br/>
 
 ### Attribution du Marché :
-DEMOLITION BRETAGNE SERVICES (SARL) - 2, rue Kervoyel 56250 TREFFLEAN <br/>
+<a href="/entreprise-567/siren-500416599"> DEMOLITION BRETAGNE SERVICES (SARL)</a>    2, rue Kervoyel 56250 TREFFLEAN <br/>

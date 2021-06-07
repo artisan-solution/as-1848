@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-224200014"> DEPARTEMENT DE LA LOIRE</a><br/>
+<a href="/acheteur-137/siren-224200014"> DEPARTEMENT DE LA LOIRE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71300000 - **Services d'ingénierie** <br/>
 Ingénierie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-776398737"> Soliha Solidaire Pour L'Habitat Loire</a>    2 Rue Aristide Briand 42000 Saint-Etienne <br/>
+<a href="/entreprise-574/siren-776398737"> Soliha Solidaire Pour L'Habitat Loire</a>    2 Rue Aristide Briand 42000 Saint-Etienne <br/>

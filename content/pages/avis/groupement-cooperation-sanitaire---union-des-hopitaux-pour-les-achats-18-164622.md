@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130002223"> GROUPEMENT COOPERATION SANITAIRE - UNION DES HOPITAUX POUR LES ACHATS</a><br/>
+<a href="/acheteur-131/siren-130002223"> GROUPEMENT COOPERATION SANITAIRE - UNION DES HOPITAUX POUR LES ACHATS</a><br/>
 
 
 
@@ -31,10 +31,10 @@ Lyon - Département 69 - Rhône
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV30163100 - **Cartes pour l'achat de carburant** <br/>
-CPV30163000 - **Cartes accréditives** <br/>
 CPV09134000 - **Gasoils** <br/>
 CPV09132000 - **Essence** <br/>
+CPV30163100 - **Cartes pour l'achat de carburant** <br/>
+CPV30163000 - **Cartes accréditives** <br/>
 
 ##### Descripteurs :
 Carburant, hydrocarbure <br/>

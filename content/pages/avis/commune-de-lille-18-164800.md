@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215903501"> COMMUNE DE LILLE</a><br/>
+<a href="/acheteur-135/siren-215903501"> COMMUNE DE LILLE</a><br/>
 
 
 
@@ -31,14 +31,14 @@ LILLE - Département 59 - Nord
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV79415200 - **Services de conseil en conception** <br/>
 CPV79822500 - **Services de conception graphique** <br/>
-CPV30200000 - **Matériel et fournitures informatiques** <br/>
-CPV30231300 - **Écrans de visualisation** <br/>
 CPV72212500 - **Services de développement de logiciels de communication et de logiciels multimédia** <br/>
+CPV30200000 - **Matériel et fournitures informatiques** <br/>
+CPV79415200 - **Services de conseil en conception** <br/>
+CPV30231300 - **Écrans de visualisation** <br/>
 
 ##### Descripteurs :
 Informatique (prestations de services) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-397978560"> MAZEDIA</a>    Parc des Moulinets BAT C 16 Boulevard Charles de Gaulle 44800 SAINT-HERBLAIN <br/>
+<a href="/entreprise-554/siren-397978560"> MAZEDIA</a>    Parc des Moulinets BAT C 16 Boulevard Charles de Gaulle 44800 SAINT-HERBLAIN <br/>

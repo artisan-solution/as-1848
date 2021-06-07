@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-210600698"> COMMUNE DE GRASSE</a><br/>
+<a href="/acheteur-134/siren-210600698"> COMMUNE DE GRASSE</a><br/>
 
 
 
@@ -32,14 +32,14 @@ GRASSE - Département 06 - Alpes-Maritimes
 
 ##### Codes CPV concerné(s) :
 CPV34144430 - **Balayeuses** <br/>
-CPV34100000 - **Véhicules à moteur** <br/>
 CPV34144511 - **Bennes à ordures** <br/>
 CPV34142000 - **Camions-grues et camions à plate-forme élévatrice** <br/>
+CPV34100000 - **Véhicules à moteur** <br/>
 
 ##### Descripteurs :
 Véhicules <br/>
 Véhicules (acquisition) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-383888187"> SAS EUROPE SERVICE</a>    Parc d'activité de tronquièresAvenue de GARRIC 15000 AURILLAC <br/>
+<a href="/entreprise-552/siren-383888187"> SAS EUROPE SERVICE</a>    Parc d'activité de tronquièresAvenue de GARRIC 15000 AURILLAC <br/>
 NISS VEHICULES INDUSTRIELS - 1070 RD 6007 06270 VILLENEUVE-LOUBET <br/>

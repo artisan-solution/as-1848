@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213801699"> COMMUNE DE FONTAINE</a><br/>
+<a href="/acheteur-134/siren-213801699"> COMMUNE DE FONTAINE</a><br/>
 
 
 
@@ -31,12 +31,12 @@ FONTAINE - Département 38 - Isère
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV30192700 - **Papeterie** <br/>
+CPV39162110 - **Fournitures scolaires** <br/>
 CPV22111000 - **Livres scolaires** <br/>
 CPV22113000 - **Livres de bibliothèque** <br/>
-CPV39162110 - **Fournitures scolaires** <br/>
-CPV22112000 - **Manuels scolaires** <br/>
 CPV37524100 - **Jeux éducatifs** <br/>
+CPV22112000 - **Manuels scolaires** <br/>
+CPV30192700 - **Papeterie** <br/>
 
 ##### Descripteurs :
 Articles de bureau et articles scolaires <br/>
@@ -45,5 +45,5 @@ Jeux, jouets <br/>
 Papeterie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-272/siren-956513147"> Decitre</a>    16 Rue Jean Desparmet 69371 Lyon Cedex 08 <br/>
-<a href="/entreprise-262/siren-444553465"> Lacoste</a>    15 Za St Louis 84250 Le Thor <br/>
+<a href="/entreprise-582/siren-956513147"> Decitre</a>    16 Rue Jean Desparmet 69371 Lyon Cedex 08 <br/>
+<a href="/entreprise-562/siren-444553465"> Lacoste</a>    15 Za St Louis 84250 Le Thor <br/>

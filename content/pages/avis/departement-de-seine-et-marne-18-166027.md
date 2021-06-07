@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-227700010"> DEPARTEMENT DE SEINE ET MARNE</a><br/>
+<a href="/acheteur-137/siren-227700010"> DEPARTEMENT DE SEINE ET MARNE</a><br/>
 
 
 
@@ -36,5 +36,5 @@ CPV71317210 - **Services de conseil en matière de santé et de sécurité** <br
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-350246039"> PRESENTS</a>    10 rue albert einstein 77420 Champs-sur-marne <br/>
-<a href="/entreprise-265/siren-504612268"> CCR BTP</a>    50 ter rue de ferrières 77600 Bussy-saint-georges <br/>
+<a href="/entreprise-550/siren-350246039"> PRESENTS</a>    10 rue albert einstein 77420 Champs-sur-marne <br/>
+<a href="/entreprise-568/siren-504612268"> CCR BTP</a>    50 ter rue de ferrières 77600 Bussy-saint-georges <br/>

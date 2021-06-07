@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200053403"> REGION NORMANDIE</a><br/>
+<a href="/acheteur-133/siren-200053403"> REGION NORMANDIE</a><br/>
 
 
 
@@ -31,11 +31,11 @@ CAEN - Département 14 - Calvados
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV66515300 - **Services d'assurance intempéries et pertes financières** <br/>
 CPV16651000 - **Incubateurs et écloseries avicoles** <br/>
+CPV66515300 - **Services d'assurance intempéries et pertes financières** <br/>
 
 ##### Descripteurs :
 Assurance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-572059939"> SIACI SAINT HONORE</a>    39 RUE MSTISLAV ROSTROPOVITCH 75017 PARIS <br/>
+<a href="/entreprise-572/siren-572059939"> SIACI SAINT HONORE</a>    39 RUE MSTISLAV ROSTROPOVITCH 75017 PARIS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217803113"> COMMUNE DE HOUILLES</a><br/>
+<a href="/acheteur-136/siren-217803113"> COMMUNE DE HOUILLES</a><br/>
 
 
 
@@ -32,10 +32,10 @@ Houilles - Département 78 - Yvelines
 
 ##### Codes CPV concerné(s) :
 CPV72411000 - **Fournisseur de services internet (ISP)** <br/>
+CPV64212000 - **Services de téléphonie mobile** <br/>
+CPV64210000 - **Services de téléphonie et de transmission de données** <br/>
 CPV64216110 - **Services d'échange de données électroniques** <br/>
 CPV64200000 - **Services de télécommunications** <br/>
-CPV64210000 - **Services de téléphonie et de transmission de données** <br/>
-CPV64212000 - **Services de téléphonie mobile** <br/>
 
 ##### Descripteurs :
 Télécommunications <br/>

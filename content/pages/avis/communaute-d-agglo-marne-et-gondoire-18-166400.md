@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-247700594"> COMMUNAUTE D AGGLO MARNE ET GONDOIRE</a><br/>
+<a href="/acheteur-137/siren-247700594"> COMMUNAUTE D AGGLO MARNE ET GONDOIRE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV90480000 - **Service de gestion du réseau d'assainissement** <br/>
 Assainissement <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-400054383"> Sater Sa</a>    Rue du bras 62500 Saint-Omer <br/>
+<a href="/entreprise-555/siren-400054383"> Sater Sa</a>    Rue du bras 62500 Saint-Omer <br/>

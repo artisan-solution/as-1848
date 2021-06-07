@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-245901152"> CC COEUR D'OSTREVENT</a><br/>
+<a href="/acheteur-137/siren-245901152"> CC COEUR D'OSTREVENT</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
 Etude <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-350662862"> CITEMETRIE SAS</a>    12 RUE DES CORDELIERES 75013 PARIS <br/>
+<a href="/entreprise-550/siren-350662862"> CITEMETRIE SAS</a>    12 RUE DES CORDELIERES 75013 PARIS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-213300114"> COMMUNE DE ARES</a><br/>
+<a href="/acheteur-134/siren-213300114"> COMMUNE DE ARES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV65111000 - **Distribution d'eau potable** <br/>
 Délégation de service public <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-410034607"> SUEZ EAU FRANCE</a>    91 rue Paulin 33050 Bordeaux cedex <br/>
+<a href="/entreprise-556/siren-410034607"> SUEZ EAU FRANCE</a>    91 rue Paulin 33050 Bordeaux cedex <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219200623"> COMMUNE DE PUTEAUX</a><br/>
+<a href="/acheteur-136/siren-219200623"> COMMUNE DE PUTEAUX</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71315400 - **Services d'inspection et de vérification de bâtiment** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-790184675"> BUREAU VERITAS EXPLOITATION</a>    8 cours du Triangle 92800 Puteaux <br/>
+<a href="/entreprise-575/siren-790184675"> BUREAU VERITAS EXPLOITATION</a>    8 cours du Triangle 92800 Puteaux <br/>

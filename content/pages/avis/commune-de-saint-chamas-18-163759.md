@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300926"> COMMUNE DE SAINT CHAMAS</a><br/>
+<a href="/acheteur-134/siren-211300926"> COMMUNE DE SAINT CHAMAS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV09310000 - **Électricité** <br/>
 Electricité, gaz (fourniture) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-552081317"> Edf Commerce</a>    22-30 Avenue de Wagram 75008 Paris <br/>
+<a href="/entreprise-572/siren-552081317"> Edf Commerce</a>    22-30 Avenue de Wagram 75008 Paris <br/>

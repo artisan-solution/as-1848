@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219500634"> COMMUNE DE BEZONS</a><br/>
+<a href="/acheteur-136/siren-219500634"> COMMUNE DE BEZONS</a><br/>
 
 M. LESPARRE Dominique, Maire
 
@@ -40,4 +40,4 @@ Stand <br/>
 ### Attribution du Marché :
 Sarl le rêve - vip organisation - 8, rue du moulin à vent 78310 coignieres <br/>
 Sarl le rêve - vip organisation - 8, rue du moulin à vent 78310 Coignieres <br/>
-<a href="/entreprise-256/siren-350515458"> Sarl compact</a>    5, rue ambroise croizat bp 30523 95195 Goussainville <br/>
+<a href="/entreprise-550/siren-350515458"> Sarl compact</a>    5, rue ambroise croizat bp 30523 95195 Goussainville <br/>

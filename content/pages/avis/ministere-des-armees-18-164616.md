@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV45262660 - **Travaux de désamiantage** <br/>
 Amiante (désamiantage) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-413824319"> AVENIR DECONSTRUCTION SAS</a>    ZI la Palun - 14 avenue Emmanuel Vitria 13120 Gardanne <br/>
+<a href="/entreprise-557/siren-413824319"> AVENIR DECONSTRUCTION SAS</a>    ZI la Palun - 14 avenue Emmanuel Vitria 13120 Gardanne <br/>

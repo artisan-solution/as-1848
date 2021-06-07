@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229200506"> DEPARTEMENT DES HAUTS-DE-SEINE</a><br/>
+<a href="/acheteur-137/siren-229200506"> DEPARTEMENT DES HAUTS-DE-SEINE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV72267000 - **Services de maintenance et de réparation de logiciels** <br/>
 Informatique (prestations de services) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-450550991"> MAGELLIUM</a>    24, rue Hermès BP 12113 31521 Ramonville Saint Agne <br/>
+<a href="/entreprise-563/siren-450550991"> MAGELLIUM</a>    24, rue Hermès BP 12113 31521 Ramonville Saint Agne <br/>

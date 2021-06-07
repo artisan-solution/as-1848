@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219200045"> COMMUNE D ASNIERES SUR SEINE</a><br/>
+<a href="/acheteur-136/siren-219200045"> COMMUNE D ASNIERES SUR SEINE</a><br/>
 
 
 
@@ -31,12 +31,12 @@ ASNIERES SUR SEINE - Département 92 - Hauts-de-Seine
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV44212320 - **Structures diverses** <br/>
 CPV70000000 - **Services immobiliers** <br/>
+CPV44212320 - **Structures diverses** <br/>
 
 ##### Descripteurs :
 Bâtiments modulaires <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-451148803"> SARL LOCABOXE</a>    Route de Saint Baslemont 88800 Ligneville <br/>
+<a href="/entreprise-563/siren-451148803"> SARL LOCABOXE</a>    Route de Saint Baslemont 88800 Ligneville <br/>

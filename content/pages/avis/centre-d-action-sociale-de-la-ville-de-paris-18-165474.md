@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-267500049"> CENTRE D'ACTION SOCIALE DE LA VILLE DE PARIS</a><br/>
+<a href="/acheteur-138/siren-267500049"> CENTRE D'ACTION SOCIALE DE LA VILLE DE PARIS</a><br/>
 
 M. STP, Centre d'action sociale
 
@@ -36,4 +36,4 @@ CPV65300000 - **Distribution d'électricité et services connexes** <br/>
 Etude <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-498019454"> BEVM</a>    2 Mably 21000 Dijon <br/>
+<a href="/entreprise-567/siren-498019454"> BEVM</a>    2 Mably 21000 Dijon <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215706300"> COMMUNE DE SARREBOURG</a><br/>
+<a href="/acheteur-135/siren-215706300"> COMMUNE DE SARREBOURG</a><br/>
 
 GENEVRAY Bernard, Président
 
@@ -37,6 +37,6 @@ CPV66510000 - **Services d'assurance** <br/>
 Assurance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-301309605"> SMACL</a>    141 avenue Salvador Allende 79031 NIORT <br/>
-<a href="/entreprise-253/siren-301573143"> SARRE ET MOSELLE</a>    17 bis avenue Poincaré 57400 SARREBOURG <br/>
+<a href="/entreprise-544/siren-301309605"> SMACL</a>    141 avenue Salvador Allende 79031 NIORT <br/>
+<a href="/entreprise-544/siren-301573143"> SARRE ET MOSELLE</a>    17 bis avenue Poincaré 57400 SARREBOURG <br/>
 Groupement SARL EXPERA ASSURANCES/MMA - 24 rue La Fayette 38816 GRENOBLE <br/>

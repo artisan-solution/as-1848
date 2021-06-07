@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-283812006"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
+<a href="/acheteur-139/siren-283812006"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
 
 
 
@@ -39,6 +39,6 @@ CPV72400000 - **Services internet** <br/>
 Télécommunications <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-380129866"> ORANGE</a>    141, cours Gambetta 69424 Lyon <br/>
+<a href="/entreprise-551/siren-380129866"> ORANGE</a>    141, cours Gambetta 69424 Lyon <br/>
 SFR - 12, rue Jean-Philippe Rameau CS 80001 93634 La Plaine Saint Denis <br/>
-<a href="/entreprise-258/siren-397480930"> BOUYGUES TELECOM</a>    37/39 rue Boissière 75116 Paris <br/>
+<a href="/entreprise-554/siren-397480930"> BOUYGUES TELECOM</a>    37/39 rue Boissière 75116 Paris <br/>

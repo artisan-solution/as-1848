@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243100633"> COMMUNAUTE D'AGGLOMERATION DU SICOVAL</a><br/>
+<a href="/acheteur-137/siren-243100633"> COMMUNAUTE D'AGGLOMERATION DU SICOVAL</a><br/>
 
 
 
@@ -31,15 +31,15 @@ Labège - Département 31 - Haute-Garonne
 01/12/2018
 
 ##### Codes CPV concerné(s) :
-CPV45233120 - **Travaux de construction de routes** <br/>
-CPV45233142 - **Travaux de réparation de routes** <br/>
 CPV45233140 - **Travaux routiers** <br/>
 CPV45232130 - **Travaux de construction de canalisations d'eaux pluviales** <br/>
+CPV45233120 - **Travaux de construction de routes** <br/>
+CPV45233142 - **Travaux de réparation de routes** <br/>
 
 ##### Descripteurs :
 Réseaux divers <br/>
 Voirie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-302698873"> Entreprise Malet</a>    Agence Toulouse Sud 30 avenue de Larrieu 31081 Toulouse Cedex <br/>
-<a href="/entreprise-259/siren-404163487"> SAS Jean Lefebvre Midi-Pyrénées</a>    1 rue de la Production ZI de Vic BP 12149 31321 Castanet Tolosan cedex <br/>
+<a href="/entreprise-544/siren-302698873"> Entreprise Malet</a>    Agence Toulouse Sud 30 avenue de Larrieu 31081 Toulouse Cedex <br/>
+<a href="/entreprise-556/siren-404163487"> SAS Jean Lefebvre Midi-Pyrénées</a>    1 rue de la Production ZI de Vic BP 12149 31321 Castanet Tolosan cedex <br/>

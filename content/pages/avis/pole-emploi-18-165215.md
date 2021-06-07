@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130005481"> POLE EMPLOI</a><br/>
+<a href="/acheteur-131/siren-130005481"> POLE EMPLOI</a><br/>
 
 
 
@@ -31,10 +31,10 @@ CASTELNAU LE LEZ - Département 34 - Hérault
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV90900000 - **Services de nettoyage et d'hygiène** <br/>
-CPV90911300 - **Services de nettoyage de vitres** <br/>
-CPV90919200 - **Services de nettoyage de bureaux** <br/>
 CPV90911200 - **Services de nettoyage de bâtiments** <br/>
+CPV90919200 - **Services de nettoyage de bureaux** <br/>
+CPV90911300 - **Services de nettoyage de vitres** <br/>
+CPV90900000 - **Services de nettoyage et d'hygiène** <br/>
 
 ##### Descripteurs :
 Nettoyage de locaux <br/>
@@ -42,8 +42,8 @@ Nettoyage de locaux <br/>
 ### Attribution du Marché :
 EGTN - 7 et 9 Rue des Prés 58000 NEVERS <br/>
 AGENOR PROPRETE - AGENOR LOOS - 58 rue Galilée 62750 Loos en Gohelle <br/>
-<a href="/entreprise-267/siren-572002186"> ARCADE NETTOYAGE S.A</a>    28-30 rue Jean Jaurès 92800 PUTEAUX <br/>
-<a href="/entreprise-257/siren-388276180"> REGIE DES ECRIVAINS</a>    1 Rue Verlaine 67300 SCHILTIGHEIM <br/>
-<a href="/entreprise-266/siren-512659186"> SEQUOIA PROPRETE ET MULTISERVICES</a>    50 Avenue Gros Bois 94440 Marolles en brie <br/>
+<a href="/entreprise-572/siren-572002186"> ARCADE NETTOYAGE S.A</a>    28-30 rue Jean Jaurès 92800 PUTEAUX <br/>
+<a href="/entreprise-553/siren-388276180"> REGIE DES ECRIVAINS</a>    1 Rue Verlaine 67300 SCHILTIGHEIM <br/>
+<a href="/entreprise-569/siren-512659186"> SEQUOIA PROPRETE ET MULTISERVICES</a>    50 Avenue Gros Bois 94440 Marolles en brie <br/>
 Société de nettoyage provençal - SAS - Actipole 12 - bâtiment A 7 Traverse Gaston de Flotte 13012 Marseille <br/>
-<a href="/entreprise-269/siren-799303268"> PLD MEDITERRANEE</a>    95 rue de Rajol Zone d'activité Fréjorgues Est 34130 MAUGUIO <br/>
+<a href="/entreprise-576/siren-799303268"> PLD MEDITERRANEE</a>    95 rue de Rajol Zone d'activité Fréjorgues Est 34130 MAUGUIO <br/>

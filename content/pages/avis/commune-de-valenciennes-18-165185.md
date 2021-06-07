@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215906066"> COMMUNE DE VALENCIENNES</a><br/>
+<a href="/acheteur-135/siren-215906066"> COMMUNE DE VALENCIENNES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV66515000 - **Services d'assurance dommages ou pertes** <br/>
 Assurance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-775684764"> SMABTP</a>    8 rue Louis Armand CS 71201 75738 Paris cedex 15 <br/>
+<a href="/entreprise-574/siren-775684764"> SMABTP</a>    8 rue Louis Armand CS 71201 75738 Paris cedex 15 <br/>

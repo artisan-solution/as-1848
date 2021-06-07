@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-242900314"> BREST METROPOLE</a><br/>
+<a href="/acheteur-137/siren-242900314"> BREST METROPOLE</a><br/>
 
 M. Président Le
 
@@ -31,11 +31,11 @@ Brest - Département 29 - Finistère
 27/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV45454000 - **Travaux de restructuration** <br/>
 CPV45112700 - **Travaux d'aménagement paysager** <br/>
+CPV45454000 - **Travaux de restructuration** <br/>
 
 ##### Descripteurs :
 Espaces verts <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-480480672"> Minou Paysages</a>    830 route Kerourin 29280 Plouzané <br/>
+<a href="/entreprise-564/siren-480480672"> Minou Paysages</a>    830 route Kerourin 29280 Plouzané <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-532582418"> ROUEN NORMANDIE AMENAGEMENT - SOCIETE PUBLIQUE LOCALE</a><br/>
+<a href="/acheteur-139/siren-532582418"> ROUEN NORMANDIE AMENAGEMENT - SOCIETE PUBLIQUE LOCALE</a><br/>
 
 DE NIJS Rémi, Directeur Général Délégué
 
@@ -39,4 +39,4 @@ Prestations de services <br/>
 Ingénierie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-488147885"> EOD-EX</a>    2-4 Avenue des Canuts 69120 Vaulx-en-Velin <br/>
+<a href="/entreprise-565/siren-488147885"> EOD-EX</a>    2-4 Avenue des Canuts 69120 Vaulx-en-Velin <br/>

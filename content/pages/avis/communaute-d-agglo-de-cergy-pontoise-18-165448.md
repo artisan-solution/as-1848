@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-249500109"> COMMUNAUTE D'AGGLO DE CERGY-PONTOISE</a><br/>
+<a href="/acheteur-137/siren-249500109"> COMMUNAUTE D'AGGLO DE CERGY-PONTOISE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ Produits d'entretien <br/>
 
 ### Attribution du Marché :
 Sanogia Idf Sarl - 29-31, boulevard de la Muette 95140 Garges-Les-Gonesse <br/>
-<a href="/entreprise-253/siren-306979428"> Bayrol France Sas</a>    Chemin des Hirondelles - Bp 52 69572 Dardilly Cedex <br/>
+<a href="/entreprise-544/siren-306979428"> Bayrol France Sas</a>    Chemin des Hirondelles - Bp 52 69572 Dardilly Cedex <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200070670"> CC DU PAYS DE DOL ET DE LA BAIE DU MONT SAINT-MICHEL</a><br/>
+<a href="/acheteur-133/siren-200070670"> CC DU PAYS DE DOL ET DE LA BAIE DU MONT SAINT-MICHEL</a><br/>
 
 M. Rapinel Denis, Président
 
@@ -37,4 +37,4 @@ CPV79993100 - **Services de gestion d'installations** <br/>
 Aire d'accueil <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-449187426"> SG2A</a>    355 rue des Mercières 69140 Rillieux la pape <br/>
+<a href="/entreprise-562/siren-449187426"> SG2A</a>    355 rue des Mercières 69140 Rillieux la pape <br/>

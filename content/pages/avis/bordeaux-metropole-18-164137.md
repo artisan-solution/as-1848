@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243300316"> BORDEAUX METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243300316"> BORDEAUX METROPOLE</a><br/>
 
 
 
@@ -31,10 +31,10 @@ BORDEAUX - Département 33 - Gironde
 25/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV71314300 - **Services de conseil en rendement énergétique** <br/>
 CPV71314200 - **Services de gestion de l'énergie** <br/>
 CPV71314000 - **Énergie et services connexes** <br/>
 CPV50700000 - **Services de réparation et d'entretien d'installations de bâtiments** <br/>
-CPV71314300 - **Services de conseil en rendement énergétique** <br/>
 
 ##### Descripteurs :
 Maintenance <br/>

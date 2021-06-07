@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-222400012"> DEPARTEMENT DE LA DORDOGNE</a><br/>
+<a href="/acheteur-137/siren-222400012"> DEPARTEMENT DE LA DORDOGNE</a><br/>
 
 Monsieur le Président du Conseil départemental
 
@@ -37,14 +37,14 @@ CPV45210000 - **Travaux de construction de bâtiments** <br/>
 Bâtiment <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-409566304"> MARCILLAC ET FILS</a>    ZA LE LIBRAIRE 24100 Bergerac <br/>
-DELUGIN METAL CHAUDRONNERIE 24 - ZI rue Marcel Janet 24400 Saint-Médard-de-Mussidan <br/>
-<a href="/entreprise-256/siren-342024171"> VALIANI ET FILS</a>    ZA DU LANDRY II - RUE GUSTAVE EIFFEL 24750 Boulazac <br/>
-<a href="/entreprise-256/siren-352008999"> SARL NADAL YVES</a>    BAUNAC SUD 24350 Tocane-Saint-Apre <br/>
+<a href="/entreprise-556/siren-409566304"> MARCILLAC ET FILS</a>    ZA LE LIBRAIRE 24100 Bergerac <br/>
+<a href="/entreprise-549/siren-342024171"> VALIANI ET FILS</a>    ZA DU LANDRY II - RUE GUSTAVE EIFFEL 24750 Boulazac <br/>
+<a href="/entreprise-550/siren-352008999"> SARL NADAL YVES</a>    BAUNAC SUD 24350 Tocane-Saint-Apre <br/>
 METALLERIE BERGERACOISE - 2 route du Monteil 24100 St Laurent sur Manoire <br/>
-<a href="/entreprise-258/siren-392455432"> SA Salleron</a>    145 bld du petit change 24000 Périgueux <br/>
-<a href="/entreprise-254/siren-315548479"> MATHIEU ET CIE</a>    6 bis Bd de l'Industrie 24430 Marsac-sur-l'Isle <br/>
-<a href="/entreprise-258/siren-389197575"> Revet Isol</a>    ZAE Les Graules 24400 Mussidan <br/>
-<a href="/entreprise-257/siren-385111240"> ETEC</a>    10 rue Alfred Nobel, ZAE LANDRY 2 24750 Boulazac <br/>
-<a href="/entreprise-262/siren-441641347"> LES ARTISANS DU BOIS</a>    RUE DE LA RIVIERE CHANCEL 24750 Trélissac <br/>
-<a href="/entreprise-268/siren-790028906"> AQUITAINE SERVICES</a>    59 ROUTE D'AGEN 47310 ESTILLAC <br/>
+<a href="/entreprise-563/siren-450791645"> DELUGIN METAL CHAUDRONNERIE 24</a>    ZI rue Marcel Janet 24400 Saint-Médard-de-Mussidan <br/>
+<a href="/entreprise-554/siren-392455432"> SA Salleron</a>    145 bld du petit change 24000 Périgueux <br/>
+<a href="/entreprise-545/siren-315548479"> MATHIEU ET CIE</a>    6 bis Bd de l'Industrie 24430 Marsac-sur-l'Isle <br/>
+<a href="/entreprise-553/siren-389197575"> Revet Isol</a>    ZAE Les Graules 24400 Mussidan <br/>
+<a href="/entreprise-553/siren-385111240"> ETEC</a>    10 rue Alfred Nobel, ZAE LANDRY 2 24750 Boulazac <br/>
+<a href="/entreprise-561/siren-441641347"> LES ARTISANS DU BOIS</a>    RUE DE LA RIVIERE CHANCEL 24750 Trélissac <br/>
+<a href="/entreprise-575/siren-790028906"> AQUITAINE SERVICES</a>    59 ROUTE D'AGEN 47310 ESTILLAC <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-244200770"> SAINT-ETIENNE METROPOLE</a><br/>
+<a href="/acheteur-137/siren-244200770"> SAINT-ETIENNE METROPOLE</a><br/>
 
 Le Président
 
@@ -31,11 +31,11 @@ ST ETIENNE - Département 42 - Loire
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV18530000 - **Cadeaux et prix** <br/>
 CPV79823000 - **Services d'impression et de livraison** <br/>
+CPV18530000 - **Cadeaux et prix** <br/>
 
 ##### Descripteurs :
 Chèque cadeau <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-445061351"> TITRES CADEAUX</a>    115 Rue de Sèvres 75275 PARIS CEDEX 06 <br/>
+<a href="/entreprise-562/siren-445061351"> TITRES CADEAUX</a>    115 Rue de Sèvres 75275 PARIS CEDEX 06 <br/>

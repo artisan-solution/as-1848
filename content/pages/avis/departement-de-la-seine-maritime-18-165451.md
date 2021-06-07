@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-227605409"> DEPARTEMENT DE LA SEINE MARITIME</a><br/>
+<a href="/acheteur-137/siren-227605409"> DEPARTEMENT DE LA SEINE MARITIME</a><br/>
 
 MARTIN Pascal, Président
 
@@ -37,4 +37,4 @@ CPV30199230 - **Enveloppes** <br/>
 Papeterie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-534980537"> GPV FRANCE</a>    1 rue de l'industrie 68550 Saint Amarin <br/>
+<a href="/entreprise-572/siren-534980537"> GPV FRANCE</a>    1 rue de l'industrie 68550 Saint Amarin <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-180089013"> CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE</a><br/>
+<a href="/acheteur-132/siren-180089013"> CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE</a><br/>
 
 Mlle Rollin Juliette, CNRS Délégation Paris-Villejuif
 
@@ -31,15 +31,15 @@ ORSAY - Département 91 - Essonne
 26/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV44112600 - **Isolation acoustique** <br/>
-CPV44316500 - **Serrurerie** <br/>
 CPV45250000 - **Travaux de construction d'usines, d'exploitations minières et d'unités de fabrication et de bâtiments pour l'industrie du pétrole et du gaz** <br/>
-CPV45262650 - **Travaux de bardage** <br/>
 CPV45223220 - **Travaux de gros œuvre** <br/>
+CPV45262650 - **Travaux de bardage** <br/>
+CPV44316500 - **Serrurerie** <br/>
+CPV44112600 - **Isolation acoustique** <br/>
 
 ##### Descripteurs :
 Métallerie <br/>
 Serrurerie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-388758708"> EIFFAGE ENERGIE SYSTEMES</a>    3/7 place de l'Europe 78140 Vélizy villacoublay <br/>
+<a href="/entreprise-553/siren-388758708"> EIFFAGE ENERGIE SYSTEMES</a>    3/7 place de l'Europe 78140 Vélizy villacoublay <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243100518"> TOULOUSE METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243100518"> TOULOUSE METROPOLE</a><br/>
 
 M. Jean Luc MOUDENC Le président
 
@@ -36,6 +36,6 @@ TOULOUSE - Département 31 - Haute-Garonne
 Voirie <br/>
 
 ### Attribution du Marché :
+<a href="/entreprise-547/siren-329405211"> COLAS SUD OUEST Agence Toulouse Sud</a>    101 rue de Fenouillet bp 92004 31017 Toulouse <br/>
 SARL UPEE7 - 109 rue de la Baulurie 34130 Saint aunes <br/>
-COLAS SUD OUEST Agence Toulouse Sud - 101 rue de Fenouillet bp 92004 31017 Toulouse <br/>
 SPIE CITYNETWORKS - Zone Industrielle du bois vert - 8 avenue du Pradié 31128 Portet sur garonne <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215704636"> COMMUNE DE METZ</a><br/>
+<a href="/acheteur-135/siren-215704636"> COMMUNE DE METZ</a><br/>
 
 
 
@@ -32,12 +32,12 @@ METZ - Département 57 - Moselle
 
 ##### Codes CPV concerné(s) :
 CPV42410000 - **Matériel de levage et de manutention** <br/>
-CPV43250000 - **Chargeuses à benne frontale** <br/>
 CPV60181000 - **Location de camions avec chauffeur** <br/>
+CPV43250000 - **Chargeuses à benne frontale** <br/>
 
 ##### Descripteurs :
 Prestations de services <br/>
 Véhicules (location) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-317686061"> Kiloutou</a>    7 rue des Alouettes, Service Dcm 94320 Thiais <br/>
+<a href="/entreprise-545/siren-317686061"> Kiloutou</a>    7 rue des Alouettes, Service Dcm 94320 Thiais <br/>

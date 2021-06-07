@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110068012"> MINISTERE DE LA TRANSITION ECOLOGIQUE</a><br/>
+<a href="/acheteur-131/siren-110068012"> MINISTERE DE LA TRANSITION ECOLOGIQUE</a><br/>
 
 
 
@@ -30,15 +30,15 @@ PARIS LA DEFENSE - Département 92 - Hauts-de-Seine
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV76000000 - **Services relatifs à l'industrie du pétrole et du gaz** <br/>
-CPV79100000 - **Services juridiques** <br/>
 CPV79400000 - **Conseil en affaires et en gestion et services connexes** <br/>
 CPV79212100 - **Services d'audit financier** <br/>
 CPV71311300 - **Services de conseil en matière d'infrastructure** <br/>
+CPV79100000 - **Services juridiques** <br/>
+CPV76000000 - **Services relatifs à l'industrie du pétrole et du gaz** <br/>
 
 ##### Descripteurs :
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-662042449"> BNP Paribas</a>    16, bd des Italiens 75009 Paris <br/>
+<a href="/entreprise-573/siren-662042449"> BNP Paribas</a>    16, bd des Italiens 75009 Paris <br/>
 Gide Loyrette Nouel A.A.R.P.I. - 15, rue de Laborde 75008 Paris <br/>

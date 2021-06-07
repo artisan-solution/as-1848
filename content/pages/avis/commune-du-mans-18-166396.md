@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217201813"> COMMUNE DU MANS</a><br/>
+<a href="/acheteur-135/siren-217201813"> COMMUNE DU MANS</a><br/>
 
 Le Maire
 
@@ -38,4 +38,4 @@ Equipement sportif <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-409472545"> NORMETEC</a>    Zi du Pré chênot 56380 Beignon <br/>
+<a href="/entreprise-556/siren-409472545"> NORMETEC</a>    Zi du Pré chênot 56380 Beignon <br/>

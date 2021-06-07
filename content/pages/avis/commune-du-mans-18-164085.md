@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217201813"> COMMUNE DU MANS</a><br/>
+<a href="/acheteur-135/siren-217201813"> COMMUNE DU MANS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV90911200 - **Services de nettoyage de bâtiments** <br/>
 Nettoyage de locaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-432635324"> Espace 72</a>    20 Rue Des Freres Lumiere 72650 La Chapelle-Saint-Aubin <br/>
+<a href="/entreprise-560/siren-432635324"> Espace 72</a>    20 Rue Des Freres Lumiere 72650 La Chapelle-Saint-Aubin <br/>

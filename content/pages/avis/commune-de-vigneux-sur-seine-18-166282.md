@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219106572"> COMMUNE DE VIGNEUX SUR SEINE</a><br/>
+<a href="/acheteur-136/siren-219106572"> COMMUNE DE VIGNEUX SUR SEINE</a><br/>
 
 
 
@@ -32,8 +32,8 @@ Vigneux sur Seine - Département 91 - Essonne
 
 ##### Codes CPV concerné(s) :
 CPV31625200 - **Systèmes d'alarme incendie** <br/>
-CPV35121700 - **Systèmes d'alarme** <br/>
 CPV35111320 - **Extincteurs portatifs** <br/>
+CPV35121700 - **Systèmes d'alarme** <br/>
 CPV42521000 - **Matériel de désenfumage** <br/>
 
 ##### Descripteurs :
@@ -42,5 +42,5 @@ Extincteur <br/>
 Sécurité incendie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-324623289"> Deltatech</a>    15 avenue Eiffel 77220 Gretz-Armainvilliers <br/>
+<a href="/entreprise-546/siren-324623289"> Deltatech</a>    15 avenue Eiffel 77220 Gretz-Armainvilliers <br/>
 Incendie Protection Sécurité (IPS) - 61 rue de Solesmes 59400 Cambrai <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219502291"> COMMUNE DE EZANVILLE</a><br/>
+<a href="/acheteur-136/siren-219502291"> COMMUNE DE EZANVILLE</a><br/>
 
 BOURGEOIS Alain, Monsieur le Maire
 
@@ -37,4 +37,4 @@ CPV50800000 - **Services divers d'entretien et de réparation** <br/>
 Illumination <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-775650575"> INEO INFRASTRUCTURES</a>    17 boulevard de la Résistance 95100 ARGENTEUIL <br/>
+<a href="/entreprise-574/siren-775650575"> INEO INFRASTRUCTURES</a>    17 boulevard de la Résistance 95100 ARGENTEUIL <br/>

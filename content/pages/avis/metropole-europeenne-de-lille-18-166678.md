@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200093201"> METROPOLE EUROPEENNE DE LILLE</a><br/>
+<a href="/acheteur-134/siren-200093201"> METROPOLE EUROPEENNE DE LILLE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV90500000 - **Services liés aux déchets et aux ordures** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-417979127"> RAMERY Environnement</a>    Parc d'Entreprises la Motte du bois 62440 Harnes <br/>
+<a href="/entreprise-557/siren-417979127"> RAMERY Environnement</a>    Parc d'Entreprises la Motte du bois 62440 Harnes <br/>

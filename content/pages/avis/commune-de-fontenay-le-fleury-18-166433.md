@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217802420"> COMMUNE DE FONTENAY LE FLEURY</a><br/>
+<a href="/acheteur-136/siren-217802420"> COMMUNE DE FONTENAY LE FLEURY</a><br/>
 
 
 
@@ -31,13 +31,13 @@ Fontenay-le-Fleury - Département 78 - Yvelines
 30/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV55320000 - **Services de distribution de repas** <br/>
 CPV55321000 - **Services de préparation de repas** <br/>
 CPV55523100 - **Services de restauration scolaire** <br/>
 CPV55521100 - **Services de repas livrés à domicile** <br/>
-CPV55320000 - **Services de distribution de repas** <br/>
 
 ##### Descripteurs :
 Restauration collective <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-572102176"> Sogeres</a>    42-44, rue de Bellevue 92100 Boulogne-Billancourt <br/>
+<a href="/entreprise-572/siren-572102176"> Sogeres</a>    42-44, rue de Bellevue 92100 Boulogne-Billancourt <br/>

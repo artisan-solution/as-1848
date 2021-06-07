@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243300316"> BORDEAUX METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243300316"> BORDEAUX METROPOLE</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV90910000 - **Services de nettoyage** <br/>
 Nettoyage de locaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-449441708"> JCB NETTOYAGE</a>      MERIGNAC <br/>
+<a href="/entreprise-562/siren-449441708"> JCB NETTOYAGE</a>      MERIGNAC <br/>
 ARC EN CIEL -   AIX EN PROVENCE <br/>

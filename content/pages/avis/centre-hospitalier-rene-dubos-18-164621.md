@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-269500153"> CENTRE HOSPITALIER RENE DUBOS</a><br/>
+<a href="/acheteur-138/siren-269500153"> CENTRE HOSPITALIER RENE DUBOS</a><br/>
 
 
 
@@ -31,9 +31,9 @@ Pontoise - Département 95 - Val-d'oise
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV71336000 - **Services d'assistance dans le domaine de l'ingénierie** <br/>
-CPV71356200 - **Services d'assistance technique** <br/>
 CPV79933000 - **Services d'assistance à la conception** <br/>
+CPV71356200 - **Services d'assistance technique** <br/>
+CPV71336000 - **Services d'assistance dans le domaine de l'ingénierie** <br/>
 
 ##### Descripteurs :
 Assistance à maîtrise d'ouvrage <br/>

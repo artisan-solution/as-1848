@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219722139"> COMMUNE DU LAMENTIN</a><br/>
+<a href="/acheteur-137/siren-219722139"> COMMUNE DU LAMENTIN</a><br/>
 
 Le Maire
 
@@ -37,4 +37,4 @@ CPV45223110 - **Installation de structures en métal** <br/>
 Ouvrage métallique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-271/siren-834235822"> METALLERIE 97</a>    15 Rue des HibiscusBât Sainte-Croix no 10 - Lassalle 97230 SAINTE-MARIE <br/>
+<a href="/entreprise-580/siren-834235822"> METALLERIE 97</a>    15 Rue des HibiscusBât Sainte-Croix no 10 - Lassalle 97230 SAINTE-MARIE <br/>

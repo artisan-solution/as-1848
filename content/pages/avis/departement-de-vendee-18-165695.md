@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-228500013"> DEPARTEMENT DE VENDEE</a><br/>
+<a href="/acheteur-137/siren-228500013"> DEPARTEMENT DE VENDEE</a><br/>
 
 
 
@@ -40,4 +40,4 @@ Ouvrage d'art <br/>
 Ouvrage d'infrastructure <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-334057361"> Freyssinet France</a>    Rue De La Vaserie Bp 4214 44340 Bouguenais <br/>
+<a href="/entreprise-548/siren-334057361"> Freyssinet France</a>    Rue De La Vaserie Bp 4214 44340 Bouguenais <br/>

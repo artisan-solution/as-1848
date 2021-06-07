@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243300316"> BORDEAUX METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243300316"> BORDEAUX METROPOLE</a><br/>
 
 
 
@@ -39,4 +39,4 @@ CPV50313000 - **Maintenance et réparation de matériel de reprographie** <br/>
 Reprographie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-302695614"> konica minolta</a>      MERIGNAC <br/>
+<a href="/entreprise-544/siren-302695614"> konica minolta</a>      MERIGNAC <br/>

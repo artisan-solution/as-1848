@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-244400404"> METROPOLE NANTES METROPOLE</a><br/>
+<a href="/acheteur-137/siren-244400404"> METROPOLE NANTES METROPOLE</a><br/>
 
 
 
@@ -31,12 +31,12 @@ NANTES - Département 44 - Loire-Atlantique
 28/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV90481000 - **Exploitation d'une station de traitement des eaux d'égout** <br/>
 CPV90480000 - **Service de gestion du réseau d'assainissement** <br/>
+CPV90481000 - **Exploitation d'une station de traitement des eaux d'égout** <br/>
 CPV90513800 - **Services de traitement des boues** <br/>
 
 ##### Descripteurs :
 Station d'épuration (exploitation) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-410034607"> Suez Eau France</a>    ZAC la Bérangerais 2 rue de la Toscane 44240 La Chapelle Sur Erdre <br/>
+<a href="/entreprise-556/siren-410034607"> Suez Eau France</a>    ZAC la Bérangerais 2 rue de la Toscane 44240 La Chapelle Sur Erdre <br/>

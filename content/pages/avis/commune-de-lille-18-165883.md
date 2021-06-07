@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215903501"> COMMUNE DE LILLE</a><br/>
+<a href="/acheteur-135/siren-215903501"> COMMUNE DE LILLE</a><br/>
 
 Mme Maire Le
 
@@ -37,4 +37,4 @@ CPV34928300 - **Barrières de sécurité** <br/>
 Mobilier urbain <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-437487630"> VAD COLLECTIVITES</a>    16, avenue de la Gardie 34510 FLORENSAC <br/>
+<a href="/entreprise-560/siren-437487630"> VAD COLLECTIVITES</a>    16, avenue de la Gardie 34510 FLORENSAC <br/>

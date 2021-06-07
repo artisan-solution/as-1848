@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-234400034"> REGION DES PAYS DE LA LOIRE</a><br/>
+<a href="/acheteur-137/siren-234400034"> REGION DES PAYS DE LA LOIRE</a><br/>
 
 
 
@@ -38,4 +38,4 @@ CPV75200000 - **Prestations de services pour la collectivité** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-EVENDAY -SRN - Quai de la Motte Rouge BP 50826 44008 NANTES CEDEX 1 <br/>
+<a href="/entreprise-557/siren-414773226"> EVENDAY -SRN</a>    Quai de la Motte Rouge BP 50826 44008 NANTES CEDEX 1 <br/>

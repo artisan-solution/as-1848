@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219200367"> COMMUNE DE GENNEVILLIERS</a><br/>
+<a href="/acheteur-136/siren-219200367"> COMMUNE DE GENNEVILLIERS</a><br/>
 
 
 
@@ -38,4 +38,4 @@ CPV16160000 - **Matériel de jardinage divers** <br/>
 Matériel agricole, horticole <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-384416954"> Duport95</a>    15 Avenue Des Bosquets 95560 Baillet-en-France <br/>
+<a href="/entreprise-552/siren-384416954"> Duport95</a>    15 Avenue Des Bosquets 95560 Baillet-en-France <br/>

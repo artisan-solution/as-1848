@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217605401"> COMMUNE DE ROUEN</a><br/>
+<a href="/acheteur-136/siren-217605401"> COMMUNE DE ROUEN</a><br/>
 
 
 
@@ -37,4 +37,4 @@ Chauffage (exploitation, entretien) <br/>
 Climatisation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-315871640"> IDEX ENERGIES</a>    63 boulevard Charles de Gaulle 76300 Sotteville les Rouen <br/>
+<a href="/entreprise-545/siren-315871640"> IDEX ENERGIES</a>    63 boulevard Charles de Gaulle 76300 Sotteville les Rouen <br/>

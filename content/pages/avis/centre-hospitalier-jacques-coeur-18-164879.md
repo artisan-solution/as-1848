@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-261800072"> CENTRE HOSPITALIER JACQUES COEUR</a><br/>
+<a href="/acheteur-138/siren-261800072"> CENTRE HOSPITALIER JACQUES COEUR</a><br/>
 
 
 
@@ -39,4 +39,4 @@ Maintenance <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-DALTYS - PORTE DU GRAND LYON 01700 NEYRON <br/>
+<a href="/entreprise-556/siren-403486509"> DALTYS</a>    PORTE DU GRAND LYON 01700 NEYRON <br/>

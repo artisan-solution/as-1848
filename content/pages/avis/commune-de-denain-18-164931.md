@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215901729"> COMMUNE DE DENAIN</a><br/>
+<a href="/acheteur-135/siren-215901729"> COMMUNE DE DENAIN</a><br/>
 
 Mme DUFOUR TONINI Anne-Lise, Maire
 
@@ -37,4 +37,4 @@ CPV45111250 - **Travaux d'étude géotechnique** <br/>
 Etude <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-440317717"> HYDROGEOTECHNIQUE NORD ET OUEST</a>    ZAC du Chevalement 59286 Roost-Warendin <br/>
+<a href="/entreprise-561/siren-440317717"> HYDROGEOTECHNIQUE NORD ET OUEST</a>    ZAC du Chevalement 59286 Roost-Warendin <br/>

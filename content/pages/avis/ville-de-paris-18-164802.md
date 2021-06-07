@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 Service des Affaires Juridiques et Financières - Bureau de la Coordination de l'Approvisionnement et des Achats Sous-Direction de l'Administration Générale
 
@@ -36,5 +36,5 @@ Paris - Département 75 - Paris
 Mobilier urbain <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-272/siren-860200252"> Louis Geneste</a>    132 Boulevard du montparnasse 75014 Paris <br/>
-<a href="/entreprise-259/siren-400818217"> Tollis</a>    183 Boulevard jean mermoz 94550 Chevilly-larue <br/>
+<a href="/entreprise-581/siren-860200252"> Louis Geneste</a>    132 Boulevard du montparnasse 75014 Paris <br/>
+<a href="/entreprise-555/siren-400818217"> Tollis</a>    183 Boulevard jean mermoz 94550 Chevilly-larue <br/>

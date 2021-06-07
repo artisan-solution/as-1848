@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-214202186"> COMMUNE DE SAINT ETIENNE</a><br/>
+<a href="/acheteur-135/siren-214202186"> COMMUNE DE SAINT ETIENNE</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Sel de déneigement <br/>
 
 ### Attribution du Marché :
 Dugour Et Fils - Le Cratere 63530 Volvic <br/>
-<a href="/entreprise-260/siren-424731750"> Sas Rock</a>    11 rue Gustave Hirn 68200 Mulhouse <br/>
-<a href="/entreprise-265/siren-508357894"> Quadrimex Sels</a>    772 chemin du Mitan 84300 Cavaillon <br/>
+<a href="/entreprise-559/siren-424731750"> Sas Rock</a>    11 rue Gustave Hirn 68200 Mulhouse <br/>
+<a href="/entreprise-568/siren-508357894"> Quadrimex Sels</a>    772 chemin du Mitan 84300 Cavaillon <br/>

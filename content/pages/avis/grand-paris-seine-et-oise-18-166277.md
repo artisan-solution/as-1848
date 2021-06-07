@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200059889"> GRAND PARIS SEINE ET OISE</a><br/>
+<a href="/acheteur-133/siren-200059889"> GRAND PARIS SEINE ET OISE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV34927100 - **Sel de déneigement** <br/>
 Sel de déneigement <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-265/siren-508357894"> QUADRIMEX SELS</a>    772 Chemin du Mitan 84300 CAVAILLON <br/>
+<a href="/entreprise-568/siren-508357894"> QUADRIMEX SELS</a>    772 Chemin du Mitan 84300 CAVAILLON <br/>

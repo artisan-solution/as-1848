@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-221700016"> DEPARTEMENT DE LA CHARENTE-MARITIME</a><br/>
+<a href="/acheteur-137/siren-221700016"> DEPARTEMENT DE LA CHARENTE-MARITIME</a><br/>
 
 Département
 
@@ -39,4 +39,4 @@ Etude <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-348006446"> ERNST ,YOUNG ADVISORY</a>    1-2 PLACE DES SAISONS 92400 COURBEVOIE <br/>
+<a href="/entreprise-550/siren-348006446"> ERNST ,YOUNG ADVISORY</a>    1-2 PLACE DES SAISONS 92400 COURBEVOIE <br/>

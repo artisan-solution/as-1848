@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217603513"> COMMUNE DE LE HAVRE</a><br/>
+<a href="/acheteur-136/siren-217603513"> COMMUNE DE LE HAVRE</a><br/>
 
 
 
@@ -31,12 +31,12 @@ LE HAVRE - Département 76 - Seine-Maritime
 25/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV45316100 - **Installation d'appareils d'éclairage extérieur** <br/>
 CPV45316000 - **Travaux d'installation de systèmes d'illumination et de signalisation** <br/>
 CPV31527260 - **Systèmes d'éclairage** <br/>
-CPV45316100 - **Installation d'appareils d'éclairage extérieur** <br/>
 
 ##### Descripteurs :
 Illumination <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-482323649"> GROUPE LEBLANC</a>    6 à 8 rue Michael Faraday 72027 LE MANS CEDEX 2 <br/>
+<a href="/entreprise-564/siren-482323649"> GROUPE LEBLANC</a>    6 à 8 rue Michael Faraday 72027 LE MANS CEDEX 2 <br/>

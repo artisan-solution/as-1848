@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-525046017"> SOCIETE DU GRAND PARIS</a><br/>
+<a href="/acheteur-139/siren-525046017"> SOCIETE DU GRAND PARIS</a><br/>
 
 
 
@@ -30,19 +30,19 @@ Saint-denis - Département 93 - Seine-Saint-Denis
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV72000000 - **Services de technologies de l'information, conseil, développement de logiciels, internet et appui** <br/>
-CPV72420000 - **Services de développement de l'internet** <br/>
-CPV72267000 - **Services de maintenance et de réparation de logiciels** <br/>
-CPV72262000 - **Services de développement de logiciels** <br/>
 CPV79341000 - **Services de publicité** <br/>
+CPV72267000 - **Services de maintenance et de réparation de logiciels** <br/>
+CPV72420000 - **Services de développement de l'internet** <br/>
+CPV72262000 - **Services de développement de logiciels** <br/>
+CPV72000000 - **Services de technologies de l'information, conseil, développement de logiciels, internet et appui** <br/>
 
 ##### Descripteurs :
 Site internet <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-439112905"> ECEDI</a>    91, avenue de la République 75011 Paris <br/>
-<a href="/entreprise-269/siren-792791329"> SIMPLON.CO</a>    55 rue de vincennes 93100 Montreuil <br/>
-<a href="/entreprise-270/siren-818528994"> NUMERIK-EA</a>    55 rue de vincennes 93100 Montreuil <br/>
-<a href="/entreprise-261/siren-439112905"> ECEDI</a>    91 avenue de la république 75011 Paris <br/>
+<a href="/entreprise-561/siren-439112905"> ECEDI</a>    91, avenue de la République 75011 Paris <br/>
+<a href="/entreprise-575/siren-792791329"> SIMPLON.CO</a>    55 rue de vincennes 93100 Montreuil <br/>
+<a href="/entreprise-579/siren-818528994"> NUMERIK-EA</a>    55 rue de vincennes 93100 Montreuil <br/>
+<a href="/entreprise-561/siren-439112905"> ECEDI</a>    91 avenue de la république 75011 Paris <br/>
 SIMPLO.CO - 55 rue de vincennes 93100 Montreuil <br/>
-<a href="/entreprise-270/siren-818528994"> NUMERIK-EA</a>    55 rue de vincennes 93100 Montreuil <br/>
+<a href="/entreprise-579/siren-818528994"> NUMERIK-EA</a>    55 rue de vincennes 93100 Montreuil <br/>

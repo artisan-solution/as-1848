@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-223000019"> DEPARTEMENT DU GARD</a><br/>
+<a href="/acheteur-137/siren-223000019"> DEPARTEMENT DU GARD</a><br/>
 
 
 
@@ -38,6 +38,6 @@ CPV45111220 - **Travaux de débroussaillage** <br/>
 Voirie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-519447221"> EURL RIEU</a>    1783 Avenue John F. KENNEDY 84200 Carpentras <br/>
-<a href="/entreprise-264/siren-493559421"> ENVIRONNEMENT BOIS ENERGIE</a>    1501 Chemin des Dupines 30100 Alès <br/>
+<a href="/entreprise-570/siren-519447221"> EURL RIEU</a>    1783 Avenue John F. KENNEDY 84200 Carpentras <br/>
+<a href="/entreprise-566/siren-493559421"> ENVIRONNEMENT BOIS ENERGIE</a>    1501 Chemin des Dupines 30100 Alès <br/>
 SOCIETE CLEMENCON - Navacelle 30580 Lussan <br/>

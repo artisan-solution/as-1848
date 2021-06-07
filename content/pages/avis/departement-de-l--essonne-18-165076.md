@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
+<a href="/acheteur-137/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV72267100 - **Maintenance de logiciels de technologies de l'information** <br/
 Informatique (prestations de services) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-444720460"> ARONDOR</a>    24-26 rue de la Pépinière 75008 Paris <br/>
+<a href="/entreprise-562/siren-444720460"> ARONDOR</a>    24-26 rue de la Pépinière 75008 Paris <br/>

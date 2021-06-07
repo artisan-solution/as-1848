@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-214502346"> COMMUNE D'ORLEANS</a><br/>
+<a href="/acheteur-135/siren-214502346"> COMMUNE D'ORLEANS</a><br/>
 
 
 
@@ -31,9 +31,9 @@ ORLEANS - Département 45 - Loiret
 01/12/2018
 
 ##### Codes CPV concerné(s) :
+CPV43325000 - **Équipement de parcs et de terrains de jeux** <br/>
 CPV37535200 - **Équipements pour terrain de jeux** <br/>
 CPV45112723 - **Travaux d'aménagement paysager de terrains de jeux** <br/>
-CPV43325000 - **Équipement de parcs et de terrains de jeux** <br/>
 
 ##### Descripteurs :
 Aire de jeux <br/>

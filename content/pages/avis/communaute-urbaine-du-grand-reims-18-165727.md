@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200067213"> COMMUNAUTE URBAINE DU GRAND REIMS</a><br/>
+<a href="/acheteur-133/siren-200067213"> COMMUNAUTE URBAINE DU GRAND REIMS</a><br/>
 
 
 
@@ -32,9 +32,9 @@ REIMS - Département 51 - Marne
 
 ##### Codes CPV concerné(s) :
 CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
+CPV71320000 - **Services de conception technique** <br/>
 CPV71300000 - **Services d'ingénierie** <br/>
 CPV71335000 - **Études techniques** <br/>
-CPV71320000 - **Services de conception technique** <br/>
 
 ##### Descripteurs :
 Etude <br/>

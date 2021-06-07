@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-180067019"> INSTITUT NATIONAL DE L'INFORMATION GEOGRAPHIQUE ET FORESTIERE</a><br/>
+<a href="/acheteur-132/siren-180067019"> INSTITUT NATIONAL DE L'INFORMATION GEOGRAPHIQUE ET FORESTIERE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV50700000 - **Services de réparation et d'entretien d'installations de bâtim
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-537934002"> Cegelec Missenard</a>    16 Avenue Jean Jaurès 94600 Choisy-le-Roi <br/>
+<a href="/entreprise-572/siren-537934002"> Cegelec Missenard</a>    16 Avenue Jean Jaurès 94600 Choisy-le-Roi <br/>

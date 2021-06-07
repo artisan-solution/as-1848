@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200052678"> COLLECTIVITE TERRITORIALE DE GUYANE</a><br/>
+<a href="/acheteur-133/siren-200052678"> COLLECTIVITE TERRITORIALE DE GUYANE</a><br/>
 
 ALEXANDRE Rodolphe, Président
 
@@ -37,5 +37,5 @@ CPV45210000 - **Travaux de construction de bâtiments** <br/>
 Tous corps d'état <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-821987633"> CONFORT SECURITE SERVICE</a>    873D route départementale 97356 Montsinery-Tonnegrande <br/>
+<a href="/entreprise-579/siren-821987633"> CONFORT SECURITE SERVICE</a>    873D route départementale 97356 Montsinery-Tonnegrande <br/>
 MS-Entreprise - 08 rue cannelier 97354 Rémire-Montjoly <br/>

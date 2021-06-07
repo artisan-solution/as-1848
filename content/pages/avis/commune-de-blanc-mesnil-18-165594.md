@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219300076"> COMMUNE DE BLANC MESNIL</a><br/>
+<a href="/acheteur-136/siren-219300076"> COMMUNE DE BLANC MESNIL</a><br/>
 
 Monsieur le Maire, Maire du Blanc Mesnil
 

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200052678"> COLLECTIVITE TERRITORIALE DE GUYANE</a><br/>
+<a href="/acheteur-133/siren-200052678"> COLLECTIVITE TERRITORIALE DE GUYANE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71317210 - **Services de conseil en matière de santé et de sécurité** <br
 Etude <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-518720925"> SAS APAVE SUDEUROPE</a>    3297 bis route de Baduel 97300 Cayenne <br/>
+<a href="/entreprise-570/siren-518720925"> SAS APAVE SUDEUROPE</a>    3297 bis route de Baduel 97300 Cayenne <br/>

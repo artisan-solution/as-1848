@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-286200019"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
+<a href="/acheteur-139/siren-286200019"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
 
 
 
@@ -31,16 +31,16 @@ ST LAURENT BLANGY - Département 62 - Pas-de-Calais
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV18813300 - **Chaussures de ville** <br/>
-CPV50821000 - **Services de réparation de bottes** <br/>
-CPV18815000 - **Bottes** <br/>
 CPV39812000 - **Cirages et crèmes** <br/>
 CPV18800000 - **Articles chaussants** <br/>
+CPV18815000 - **Bottes** <br/>
+CPV50821000 - **Services de réparation de bottes** <br/>
+CPV18813300 - **Chaussures de ville** <br/>
 
 ##### Descripteurs :
 Chaussures ou articles chaussants <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-343867735"> BOCHE SAS</a>    ZA CHAMP THIBAUD 79300 SAINT SAUVEUR <br/>
+<a href="/entreprise-549/siren-343867735"> BOCHE SAS</a>    ZA CHAMP THIBAUD 79300 SAINT SAUVEUR <br/>
 VOLKL GmnH et Co KG - Rennweg 27 85485 ERDING <br/>
-<a href="/entreprise-256/siren-343867735"> BOCHE SAS</a>    ZA CHAMPS THIBAUD 79300 SAINT SAUVEUR <br/>
+<a href="/entreprise-549/siren-343867735"> BOCHE SAS</a>    ZA CHAMPS THIBAUD 79300 SAINT SAUVEUR <br/>

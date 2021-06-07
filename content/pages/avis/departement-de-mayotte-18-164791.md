@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229850003"> DEPARTEMENT DE MAYOTTE</a><br/>
+<a href="/acheteur-137/siren-229850003"> DEPARTEMENT DE MAYOTTE</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
 Etude <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-817832470"> Elan OI</a>    Villa Saint Joseph 15 rue Malartic 97400 SAINT DENIS <br/>
+<a href="/entreprise-578/siren-817832470"> Elan OI</a>    Villa Saint Joseph 15 rue Malartic 97400 SAINT DENIS <br/>
 SAS ESPRIT DU LIEU - 18 rue Leconte de Lisle - Grand-Fond 97434 SAINT-GILLES-LES-BAINS <br/>

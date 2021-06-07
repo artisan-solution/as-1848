@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130020365"> SECRETARIAT GENERAL POUR L'ADMINISTRATION DU MINISTERE DE L'INTERIEUR OUEST</a><br/>
+<a href="/acheteur-132/siren-130020365"> SECRETARIAT GENERAL POUR L'ADMINISTRATION DU MINISTERE DE L'INTERIEUR OUEST</a><br/>
 
 Mme Flore Desquins
 
@@ -35,5 +35,5 @@ Le mans - Département 72 - Sarthe
 Assistance à maîtrise d'ouvrage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-433250834"> DEKRA</a>    8 bis rue daniel meyer 37100 Tours <br/>
-<a href="/entreprise-265/siren-503063851"> ATAE</a>    Bureau d'angers 152 av patton _ bp 80111 49001 Angers cedes 01 <br/>
+<a href="/entreprise-560/siren-433250834"> DEKRA</a>    8 bis rue daniel meyer 37100 Tours <br/>
+<a href="/entreprise-568/siren-503063851"> ATAE</a>    Bureau d'angers 152 av patton _ bp 80111 49001 Angers cedes 01 <br/>

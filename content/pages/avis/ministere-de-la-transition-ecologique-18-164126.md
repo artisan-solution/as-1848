@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110068012"> MINISTERE DE LA TRANSITION ECOLOGIQUE</a><br/>
+<a href="/acheteur-131/siren-110068012"> MINISTERE DE LA TRANSITION ECOLOGIQUE</a><br/>
 
 
 
@@ -30,8 +30,8 @@ LA DEFENSE - Département 92 - Hauts-de-Seine
 25/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV72267000 - **Services de maintenance et de réparation de logiciels** <br/>
 CPV38221000 - **Systèmes d'information géographique (GIS ou équivalent)** <br/>
+CPV72267000 - **Services de maintenance et de réparation de logiciels** <br/>
 CPV72262000 - **Services de développement de logiciels** <br/>
 CPV72261000 - **Services d'assistance relative aux logiciels** <br/>
 
@@ -39,5 +39,5 @@ CPV72261000 - **Services d'assistance relative aux logiciels** <br/>
 Informatique (prestations de services) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-517636346"> OSLANDIA</a>    4, place louis armand 75603 Paris <br/>
-<a href="/entreprise-261/siren-433698578"> CAMPTOCAMP FRANCE SAS</a>    18, rue du lac saint andré 73382 le bourget du lac <br/>
+<a href="/entreprise-569/siren-517636346"> OSLANDIA</a>    4, place louis armand 75603 Paris <br/>
+<a href="/entreprise-560/siren-433698578"> CAMPTOCAMP FRANCE SAS</a>    18, rue du lac saint andré 73382 le bourget du lac <br/>

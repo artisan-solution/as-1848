@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219200367"> COMMUNE DE GENNEVILLIERS</a><br/>
+<a href="/acheteur-136/siren-219200367"> COMMUNE DE GENNEVILLIERS</a><br/>
 
 Philippe CLOCHETTE
 
@@ -37,4 +37,4 @@ CPV79311000 - **Services d'études** <br/>
 Etude <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-784337131"> SOLIHA PARIS HAUTS DE SEINE VAL D'OISE</a>    29 RUE TRONCHET 75008 PARIS <br/>
+<a href="/entreprise-575/siren-784337131"> SOLIHA PARIS HAUTS DE SEINE VAL D'OISE</a>    29 RUE TRONCHET 75008 PARIS <br/>

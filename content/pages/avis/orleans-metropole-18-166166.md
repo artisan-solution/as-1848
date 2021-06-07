@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-244500468"> ORLEANS METROPOLE</a><br/>
+<a href="/acheteur-137/siren-244500468"> ORLEANS METROPOLE</a><br/>
 
 
 
@@ -31,13 +31,13 @@ ORLEANS - Département 45 - Loiret
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV90911000 - **Services de nettoyage de logements, de bâtiments et de vitres** <br/>
 CPV90911200 - **Services de nettoyage de bâtiments** <br/>
 CPV90910000 - **Services de nettoyage** <br/>
+CPV90911000 - **Services de nettoyage de logements, de bâtiments et de vitres** <br/>
 
 ##### Descripteurs :
 Nettoyage de locaux <br/>
 Nettoyage urbain <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-534897293"> Teamex</a>    8 Rue Barruet 45400 Fleury-les-Aubrais <br/>
+<a href="/entreprise-572/siren-534897293"> Teamex</a>    8 Rue Barruet 45400 Fleury-les-Aubrais <br/>

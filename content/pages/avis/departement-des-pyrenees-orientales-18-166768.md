@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-226600013"> DEPARTEMENT DES PYRENEES-ORIENTALES</a><br/>
+<a href="/acheteur-137/siren-226600013"> DEPARTEMENT DES PYRENEES-ORIENTALES</a><br/>
 
 Mme MALHERBE Hermeline, Madame la Présidente du Département
 
@@ -36,4 +36,4 @@ PERPIGNAN - Département 66 - Pyrénées-Orientales
 Génie civil <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-389852369"> VALLESPIR CONSTRUCTION S.A.R.L</a>    Route d'Espagne 66230 Prats-de-Mollo-la-Preste <br/>
+<a href="/entreprise-553/siren-389852369"> VALLESPIR CONSTRUCTION S.A.R.L</a>    Route d'Espagne 66230 Prats-de-Mollo-la-Preste <br/>

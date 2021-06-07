@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-233500016"> REGION BRETAGNE</a><br/>
+<a href="/acheteur-137/siren-233500016"> REGION BRETAGNE</a><br/>
 
 
 
@@ -31,13 +31,13 @@ RENNES - Département 35 - Ile-et-Vilaine
 25/11/2018
 
 ##### Codes CPV concerné(s) :
+CPV71311300 - **Services de conseil en matière d'infrastructure** <br/>
 CPV48411000 - **Logiciels de gestion des investissements** <br/>
 CPV48421000 - **Logiciels de gestion des installations** <br/>
-CPV71311300 - **Services de conseil en matière d'infrastructure** <br/>
 
 ##### Descripteurs :
 Logiciel <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-450663448"> Sarl netisys</a>    Place Sophie laffitte 06560 valbonne <br/>
+<a href="/entreprise-563/siren-450663448"> Sarl netisys</a>    Place Sophie laffitte 06560 valbonne <br/>
 Sas accoast - Pa des deux moulins 4 rue bernard moitessier 56880 ploeren <br/>

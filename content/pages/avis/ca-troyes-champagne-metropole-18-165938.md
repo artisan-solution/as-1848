@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200069250"> CA TROYES CHAMPAGNE METROPOLE</a><br/>
+<a href="/acheteur-133/siren-200069250"> CA TROYES CHAMPAGNE METROPOLE</a><br/>
 
 
 
@@ -31,11 +31,11 @@ Troyes - Département 10 - Aube
 30/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV50324200 - **Services de maintenance préventive** <br/>
 CPV65320000 - **Exploitation d'installations électriques** <br/>
+CPV50324200 - **Services de maintenance préventive** <br/>
 
 ##### Descripteurs :
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-478826555"> SANTERNE ENERGIES EST</a>    40 avenue de l'Europe 10300 SAINTE SAVINE <br/>
+<a href="/entreprise-564/siren-478826555"> SANTERNE ENERGIES EST</a>    40 avenue de l'Europe 10300 SAINTE SAVINE <br/>

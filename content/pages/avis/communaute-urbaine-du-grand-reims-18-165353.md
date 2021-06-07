@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200067213"> COMMUNAUTE URBAINE DU GRAND REIMS</a><br/>
+<a href="/acheteur-133/siren-200067213"> COMMUNAUTE URBAINE DU GRAND REIMS</a><br/>
 
 
 
@@ -31,21 +31,21 @@ REIMS - Département 51 - Marne
 29/11/2018
 
 ##### Codes CPV concerné(s) :
-CPV50313100 - **Services de réparation de photocopieurs** <br/>
 CPV50313200 - **Services d'entretien de photocopieurs** <br/>
-CPV30174000 - **Machines à produires des étiquettes** <br/>
-CPV50310000 - **Maintenance et réparation de machines de bureau** <br/>
+CPV50313100 - **Services de réparation de photocopieurs** <br/>
 CPV30124500 - **Accessoires de scanner** <br/>
 CPV30125000 - **Pièces et accessoires de photocopieurs** <br/>
+CPV50310000 - **Maintenance et réparation de machines de bureau** <br/>
 CPV30121100 - **Photocopieurs** <br/>
+CPV30174000 - **Machines à produires des étiquettes** <br/>
 
 ##### Descripteurs :
 Prestations de services <br/>
 Reprographie <br/>
 
 ### Attribution du Marché :
+<a href="/entreprise-547/siren-329106819"> REPROCOLOR</a>    630 RUE BOURRELIER ZAC MOULIN LAMBLIN 59320 HALLENES-LEZ-HAUBOURDIN <br/>
 SAS AGIS - RUE DES CENT SEPTIERS ZI DE LARNAY 86580 BIARD <br/>
+<a href="/entreprise-564/siren-482088028"> CHAMPAGNE REPROGRAPHIE</a>    8 RUE CLEMENT ADER - BP 35 51683 REIMS CEDEX 2 <br/>
 AISNE BUREAUTIQUE SYSTEMES - 93 RUE PORTE DE LAON 02860 BRUYERES ET MONTBERAULT <br/>
 SPIGRAPH FRANCE - 31 BOUCLE DE LA RAMEE BP 749 38297 SAINT QUENTIN FALLAVIER CEDEX <br/>
-CHAMPAGNE REPROGRAPHIE - 8 RUE CLEMENT ADER - BP 35 51683 REIMS CEDEX 2 <br/>
-<a href="/entreprise-255/siren-329106819"> REPROCOLOR</a>    630 RUE BOURRELIER ZAC MOULIN LAMBLIN 59320 HALLENES-LEZ-HAUBOURDIN <br/>
